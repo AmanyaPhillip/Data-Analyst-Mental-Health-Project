@@ -2,7 +2,7 @@
 **Deadline: August 26th**
 Please claim one or more of the following data sources by adding your name after the "Assigned to:" prompt, and check the box once you have completed your review.
 - [ ] [Statistics Canada](https://www.statcan.gc.ca/) 
-  - **Assigned to:** 
+  - **Assigned to:** Misa
 - [ ] [Canadian Institute for Health Information (CIHI)](https://www.cihi.ca/) 
   - **Assigned to:** 
 - [ ] [Public Health Agency of Canada (PHAC)](https://www.canada.ca/en/public-health.html) 
