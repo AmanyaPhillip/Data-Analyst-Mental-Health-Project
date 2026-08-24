@@ -13,6 +13,7 @@
 
 ## Goals & Objectives
 - **Primary Goal:** Identify features and factors that affect mental health.
+- **Completed Objective:** Github Repo Demo, push and pull for the team. This objective have been completed.
 - **Open Questions (raised by Danny):**
   - What specific questions are we trying to answer with this data?
   - Are there any other goals for this project beyond identifying contributing factors?
