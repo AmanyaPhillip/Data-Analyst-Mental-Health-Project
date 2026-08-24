@@ -5,7 +5,7 @@
 - Misa
 - Phillip
 - Danny
-----mom!
+
 ## Project Scope & Domain
 - **Domain:** Mental Health (suggested by Samir to make a bigger impact with specific data).
 - **Geographic Scope:** Canada (suggested by Phillip).
