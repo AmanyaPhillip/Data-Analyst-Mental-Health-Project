@@ -17,3 +17,15 @@
 - **Open Questions (raised by Danny):**
   - What specific questions are we trying to answer with this data?
   - Are there any other goals for this project beyond identifying contributing factors?
+
+
+Meetting Minutes from 2026-08-24
+
+Participants
+- Samir
+- Misa
+- Phillip
+- Danny
+-Jyothi
+-Rebal
+-Fatima
