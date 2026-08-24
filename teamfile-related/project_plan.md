@@ -4,7 +4,7 @@
 | Member | Core Tasks |
 | :--- | :--- |
 | **Fatima** |  EDA, Power BI |
-| **Misa** | Power BI,  |
+| **Misa** | Power BI, KPI Definition |
 | **Jyothi** | tasks placeholder |
 | **Phillip** |  Scoping , Wrangling and EDA, KPI |
 | **Rebal** | tasks placeholder |
