@@ -5,13 +5,13 @@ Please claim one or more of the following data sources by adding your name after
   - **Assigned to:** Misa
 - [ ] [Canadian Institute for Health Information (CIHI)](https://www.cihi.ca/) 
   - **Assigned to:** 
-- [ ] [Public Health Agency of Canada (PHAC)](https://www.canada.ca/en/public-health.html) 
+- [ ] [Open Government Portal (Canada)](https://open.canada.ca/) 
   - **Assigned to:** 
-- [ ] [Health Canada](https://www.canada.ca/en/health-canada.html) 
+- [ ] [Health Infobase](https://health-infobase.canada.ca/) 
   - **Assigned to:** 
-- [ ] [Canadian Mental Health Association (CMHA)](https://cmha.ca/) 
-  - **Assigned to:** Phillip Amanya
+- [ ] [Public Health Agency of Canada](https://www.canada.ca/en/public-health.html) 
+  - **Assigned to:** 
 - [ ] [Health Data Research Network (HDRN) Canada](https://www.hdrn.ca/) 
-  - **Assigned to:** 
-- [ ] [Canadian Partnership Against Cancer](https://www.partnershipagainstcancer.ca/) 
+  - **Assigned to:** Phillip Amanya
+- [ ] [Mental Health Research Commission (MHRC) Data Hub](https://www.mhrc.ca/data-hub) 
   - **Assigned to:** 
