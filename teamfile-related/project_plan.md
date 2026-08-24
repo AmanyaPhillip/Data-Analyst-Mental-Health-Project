@@ -3,13 +3,13 @@
 ## Core Team & Ownership
 | Member | Core Tasks |
 | :--- | :--- |
-| **Fatima** |  tasks placeholder |
-| **Misa** | tasks placeholder |
+| **Fatima** |  EDA, Power BI |
+| **Misa** | Power BI,  |
 | **Jyothi** | tasks placeholder |
-| **Phillip** |  tasks placeholder |
+| **Phillip** |  Scoping , Wrangling and EDA, KPI |
 | **Rebal** | tasks placeholder |
-| **Danny** | tasks placeholder |
-| **Samir.AI** |  tasks placeholder |
+| **Danny** | Data Wrangler, |
+| **Samir.AI** |  Documentation,  |
 
 ## Sprint Milestones
 
