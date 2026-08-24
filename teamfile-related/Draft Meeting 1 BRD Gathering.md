@@ -1,9 +1,6 @@
 # Meeting Minutes: Draft BRD Gathering
 Meetting Minutes from 2026-08-24
 
-# Minutes of the Day — Scrum Group 3 Project Meeting  
-**Date:** August 24, 2026
-
 ## Project Scope/Domain & Decisions
 - Project domain: **Mental Health** (suggested by Samir to make a bigger impact with specific data).
 - Geographic scope: **Canada** (suggested by Phillip).
