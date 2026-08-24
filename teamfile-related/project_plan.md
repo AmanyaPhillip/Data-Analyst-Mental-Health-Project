@@ -3,7 +3,7 @@
 ## Core Team & Ownership
 | Member | Core Tasks |
 | :--- | :--- |
-| **Fatima** |  tasks to do placeholder |
+| **Fatima** |  tasks placeholder |
 | **Misa** | tasks placeholder |
 | **Jyothi** | tasks placeholder |
 | **Phillip** |  tasks placeholder |
