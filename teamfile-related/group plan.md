@@ -10,7 +10,7 @@ Please claim one or more of the following data sources by adding your name after
 - [ ] [Health Canada](https://www.canada.ca/en/health-canada.html) 
   - **Assigned to:** 
 - [ ] [Canadian Mental Health Association (CMHA)](https://cmha.ca/) 
-  - **Assigned to:** 
+  - **Assigned to:** Phillip Amanya
 - [ ] [Health Data Research Network (HDRN) Canada](https://www.hdrn.ca/) 
   - **Assigned to:** 
 - [ ] [Canadian Partnership Against Cancer](https://www.partnershipagainstcancer.ca/) 
