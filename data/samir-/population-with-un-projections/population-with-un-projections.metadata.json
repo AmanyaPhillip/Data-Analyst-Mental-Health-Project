@@ -1,0 +1,47 @@
+{
+  "chart": {
+    "title": "Population",
+    "subtitle": "Future projections are based on the UN's medium scenario.",
+    "citation": "UN, World Population Prospects (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/population-with-un-projections?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "World"
+    ]
+  },
+  "columns": {
+    "Population - Sex: all - Age: all - Variant: estimates": {
+      "titleShort": "Population",
+      "titleLong": "Population - UN WPP",
+      "descriptionShort": "Total population, measured on 1 July of the year shown.",
+      "descriptionProcessing": "The UN publishes population by single year of age. We aggregate these into the broader age groups shown here (e.g. 0–14, 15–64, 65+, 18+, 15–49). Our continental aggregates (Africa, Asia, Europe, North America, South America, Oceania) are computed by summing across countries, and may differ slightly from regional aggregates the UN publishes directly, which use a different country grouping.",
+      "unit": "people",
+      "timespan": "1950-2023",
+      "type": "Integer",
+      "owidVariableId": 951674,
+      "shortName": "population__sex_all__age_all__variant_estimates",
+      "lastUpdated": "2024-07-12",
+      "nextUpdate": "2027-07-12",
+      "citationShort": "UN, World Population Prospects (2024) – processed by Our World in Data",
+      "citationLong": "UN, World Population Prospects (2024) – processed by Our World in Data. “Population – UN WPP” [dataset]. United Nations, “World Population Prospects”; United Nations, “World Population Prospects - Interim Update” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/951674.metadata.json"
+    },
+    "Population - Sex: all - Age: all - Variant: medium": {
+      "titleShort": "Population",
+      "titleLong": "Population - UN WPP – with medium scenario projections",
+      "descriptionShort": "Total population, measured on 1 July of the year shown.  Future projections are based on the UN's medium scenario.",
+      "descriptionProcessing": "The UN publishes population by single year of age. We aggregate these into the broader age groups shown here (e.g. 0–14, 15–64, 65+, 18+, 15–49). Our continental aggregates (Africa, Asia, Europe, North America, South America, Oceania) are computed by summing across countries, and may differ slightly from regional aggregates the UN publishes directly, which use a different country grouping.",
+      "unit": "people",
+      "timespan": "2024-2100",
+      "type": "Integer",
+      "owidVariableId": 951682,
+      "shortName": "population__sex_all__age_all__variant_medium",
+      "lastUpdated": "2024-07-12",
+      "nextUpdate": "2027-07-12",
+      "citationShort": "UN, World Population Prospects (2024) – processed by Our World in Data",
+      "citationLong": "UN, World Population Prospects (2024) – processed by Our World in Data. “Population – UN WPP – with medium scenario projections” [dataset]. United Nations, “World Population Prospects”; United Nations, “World Population Prospects - Interim Update” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/951682.metadata.json"
+    }
+  },
+  "dateDownloaded": "2026-08-25",
+  "activeFilters": {}
+}
