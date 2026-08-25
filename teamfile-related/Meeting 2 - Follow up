@@ -1,0 +1,64 @@
+# Minutes of Meeting  
+**Project:** Data Analyst Mental Health Project Follow-up  
+**Date:** August 25, 2026  
+
+## Discussion Summary
+- The team discussed building a mental-health risk prediction web application using a trained model saved as a `.pkl` file. 
+  Users would enter relevant inputs, and the app would return a prediction and recommendations. (Shivan)
+- Potential data sources include Statistics Canada and the WHO mortality database. Some sources were found to provide visual summaries rather than downloadable raw data. (Samir)
+- The group agreed to avoid collecting excessive data and focus first on obtaining suitable datasets for KPIs, visualization, and model development.
+- Automation was discussed for data extraction and cleaning, including possible web scraping. It will remain optional until the core model is complete.
+- For multiple sources, the team plans to compile and clean data into a unified dataset. Cleaning will include deduplication, repeated-record handling, outlier checks, and bias review.
+- A shared workflow was proposed: separate folders for Excel-based cleaning and Python work, with GitHub used for version control and data sharing.
+
+## Decisions
+- Prioritize the model, KPIs, data cleaning, and visualization before building automation or deploying the web app.
+- Each team member will collect assigned datasets, upload them to GitHub, and the team will merge and clean them together.
+- Use GitHub Desktop practices: fetch/pull before uploads, add descriptive commit messages, then commit and push.
+
+## Action Items / # Next Steps
+- Collect relevant raw datasets from identified sources.
+- Upload datasets into personal folders in the shared GitHub repository.
+- Review and consolidate datasets into one cleaned dataset.
+- Complete visualizations, KPI analysis, and model training.
+- Save the trained model as a `.pkl` file for later web-app integration.
+- Review project progress on Friday.
+
+************************************************************************************* DISCUSSION notes.
+# Project Overview and Deployment Plan (Input by Shivan)
+- Model saved as a .pkl file, loaded into a web app for mental health risk predictions
+- App takes user inputs (days in mental health care, alcoholism, stress, blood pressure, etc.) and returns results with recommendations
+- Deployment planned via free hosting (one free page available)
+- Timeline: roughly one to two months to completion
+- Good portfolio project for the team
+
+# Data Sources and Collection
+
+- Primary source: Statistics Canada (Stats Can)
+- WHO mortality database also identified as a data source
+  - Contains country, year, ICD codes, sex, age group, and death counts
+  - ICD8/ICD9 versioning noted; data goes up to 2002 for some files
+- Some sites only have summary visualizations, not raw data
+- Risk of getting swamped with too much data flagged
+
+# Automation Strategy
+
+- Automation most useful at the extraction and cleaning stages
+- Consensus: keep automation optional for now, focus on building the model first
+  - Can add automation as an improvement later
+
+# Data Cleaning and Wrangling Approach
+
+- Multiple data sources mean the team needs to clean and compile into one unified dataset
+- Each member collects their own data, then the team merges and cleans together
+- Key cleaning steps: deduplication, handling repeated records, outlier and bias detection
+- Folder structure proposed: one folder for Excel cleaning, one for Python work
+  - Showcases the team’s full-stack data skills
+
+# GitHub Workflow and Data Sharing
+
+- Suggested: if data points overlap across sources after visualization, they are likely duplicates from the same origin
+- Team using GitHub Desktop to share data files
+  - Always fetch/pull origin before uploading new files
+  - Create a personal folder, copy files in, write a commit description, then commit and push
+- Survey data uploaded to GitHub during the session as a walkthrough
