@@ -28,7 +28,7 @@ The project is intended to showcase practical Data Analyst skills across the com
 
 ### 🔄 Project Workflow
 
-1. Dataset selection
+1. Dataset selection (in here now)
 2. Data cleaning and preparation
 3. Exploratory Data Analysis (EDA)
 4. KPI definition
