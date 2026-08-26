@@ -1,0 +1,42 @@
+# Meeting 3 - Data Analyst Project
+
+Wed, 26 Aug 26
+
+### Repo Rename Trigger
+
+- Samir requested a name change to the shared repo
+- Rename initially failed; refreshing the page resolved it
+- Renaming broke existing clones for the team, requiring everyone to re-clone
+
+### Re-clone Errors and Debugging
+
+- Root cause: renamed repo path no longer matched local folder references
+- Common error: “cannot clone to non-empty folder”
+  - Fix: delete the existing local folder entirely, then re-clone into an empty directory
+- Secondary issue: trailing space in the folder/path name
+  - Windows file systems do not allow trailing spaces in paths
+  - Samir removed the trailing space, committed, and pushed: resolved the errors
+
+### Workarounds Attempted
+
+- Manual git status and git restore --source HEAD tried
+- GitHub Desktop “add existing repository from local device” attempted
+- Downloading the ZIP directly from GitHub page worked as a fallback
+- Mac users were unaffected; errors were Windows-specific
+
+### Resolution
+
+- Samir deleted the placeholder folder with the trailing space and re-pushed
+- No errors after the push; team pulled successfully from main
+- Repo size noted as ballooning: flagged for cleanup after the session
+
+### Takeaway
+
+- A simple rename cascaded into path and file system errors across Windows machines
+- Troubleshooting framed as realistic interview prep: debugging under pressure is normal day-to-day work
+
+## Fix Pending
+
+---
+
+Chat with meeting transcript: https://notes.granola.ai/t/2ae0312a-2054-4276-a275-576932e91515-00demib2
