@@ -1,8 +1,13 @@
 # 🔍Data-Analyst-Mental-Health-Project-
 
+## What We're Building
 End-to-end data analytics lifecycle project covering dataset selection, exploratory data analysis, KPI definition, interactive dashboards, and automation.
 
 What the team is building Business problem Step-by-step workflow Extremely granular tasks Team responsibilities Deliverables/checkpoints KPI examples GitHub requirements Final presentation requirements
+
+### Business Problem
+
+How can data help us identify meaningful trends and patterns in mental health outcomes?
 
 
 ## 🎓 Learning Objectives
@@ -19,3 +24,23 @@ The project will also document relevant dataset limitations, potential biases, m
 The final product will be an interactive, data-driven mental health analytics solution that demonstrates the impact in the mental heath space through raw data transformed into clear KPIs, visual insights, and actionable recommendations.
 
 The project is intended to showcase practical Data Analyst skills across the complete analytics lifecycle.
+
+
+### 🔄 Project Workflow
+
+1. Dataset selection
+2. Data cleaning and preparation
+3. Exploratory Data Analysis (EDA)
+4. KPI definition
+5. SQL analysis
+6. Data visualization
+7. Interactive dashboard
+8. Automation
+9. Insights and recommendations
+10. Final presentation
+
+### 👥 Team Collaboration
+
+This project is being developed collaboratively to demonstrate both:
+- Practical Junior Data Analyst skills
+- Teamwork and collaboration
