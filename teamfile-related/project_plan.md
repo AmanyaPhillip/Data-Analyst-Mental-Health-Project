@@ -15,10 +15,10 @@
 
 ## Phase 1: Project Scoping & Foundation
 *Goal: Ensure the entire team agrees on the dataset, business problem, and variable definitions before writing any code.*
-- [ ] Lock in the final dataset(s)
-- [ ] Review dataset structure (or schema mapping if joining multiple tables)
-- [ ] Draft `docs/data_dictionary.md` to define every column, data type, and permitted value
-- [ ] Define the core business problem and target audience
+- [x] Lock in the final dataset(s)
+- [ ] **Team**: Review dataset structure (or schema mapping if joining multiple tables)
+- [ ] **Phillip & Samir.**: Draft `docs/data_dictionary.md` to define every column, data type, and permitted value
+- [ ] **Team** :Define the core business problem and target audience
 
 ## Phase 2: Data Wrangling & Pipeline
 *Goal: Transform raw data into a clean, analytical dataset.*
