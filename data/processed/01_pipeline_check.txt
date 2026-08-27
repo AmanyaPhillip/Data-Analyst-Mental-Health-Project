@@ -1,0 +1,8 @@
+01_data_understanding.ipynb - pipeline check
+run_at        : 2026-08-26T23:54:12
+project_root  : /Users/samir/Work Related/JDA-Scrum/Data-Analyst-Mental-Health-Project-
+datasets_read : 8
+csv_datasets  : 7
+excel_sheets  : 2
+total_rows    : 214,371
+outputs       : 01_data_inventory.csv, 01_column_profiles.csv, 01_pipeline_check.txt
