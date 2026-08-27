@@ -12,7 +12,6 @@ Instead, our project will focus on using real Canadian data to identify **popula
 The project can therefore support prevention planning and public-health analysis while avoiding individual-level predictions.
 
 ---
-
 # 2. Dataset Inventory
 
 | Owner | Dataset | Geographic Scope | Data Type | Fit |
