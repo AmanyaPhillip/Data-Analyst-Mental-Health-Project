@@ -1,1 +1,0 @@
-https://vizhub.healthdata.org/gbd-results/?utm_source=chatgpt.com

@@ -1,3 +1,12 @@
+# --- project: data & OS files ---
+.DS_Store
+# raw datasets stay local (large; BRD: keep local until team agrees on storage)
+data/raw/
+data/for ML/*.csv
+# keep small pipeline outputs tracked, ignore any large processed exports
+data/processed/*.parquet
+notebooks/.ipynb_checkpoints/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
