@@ -1,0 +1,70 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Perceived health, by gender and province","45100081",,"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=4510008101",1;2;3;4;5;6,"CURRENT - a cube available to the public and that is current","Occasional Quarterly","2021-04-01","2023-07-01","4",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography",,""
+"2","Gender",,""
+"3","Indicators",,""
+"4","Statistics",,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Atlantic Region","[1]","2","1","",,
+"1","Quebec","[24]","7","1","",,
+"1","Ontario","[35]","8","1","",,
+"1","Prairies Region","[4]","9","1","",,
+"1","British Columbia","[59]","13","1","",,
+"1","Newfoundland and Labrador","[10]","3","2","",,
+"1","Prince Edward Island","[11]","4","2","",,
+"1","Nova Scotia","[12]","5","2","",,
+"1","New Brunswick","[13]","6","2","",,
+"1","Manitoba","[46]","10","9","",,
+"1","Saskatchewan","[47]","11","9","",,
+"1","Alberta","[48]","12","9","",,
+"1","Canada (excluding territories)","[11124]","1","","",,
+"2","Men","","2","1","",,
+"2","Women","","3","1","",,
+"2","Total, all persons","","1","","",7;8,
+"3","Excellent or very good perceived health","","1","","",4,
+"3","Good perceived health","","2","","",4,
+"3","Fair or poor perceived health","","3","","",4,
+"4","Percentage of persons","","1","","",,
+"4","Lower bound of the 95% confidence interval, percentage of persons","","2","","",,
+"4","Upper bound of the 95% confidence interval, percentage of persons","","3","","",,
+"4","Number of persons","","4","","",,
+"4","Lower bound of the 95% confidence interval, number of persons","","5","","",,
+"4","Upper bound of the 95% confidence interval, number of persons","","6","","",,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"5354","Canadian Social Survey"
+
+"Subject Code","Subject Name"
+"45","Society and community"
+
+"Note ID",Note
+1,"Source: Statistics Canada, Canadian Social Survey."
+2,"The quarterly reference periods correspond to Canadian Social Survey (CSS) data collection periods, also referred to as CSS waves. “Q3 2021” refers to Wave 2 of the CSS, which was in collection from August 6 to September 18, 2021. “Q4 2021”: Wave 3 (October 26 to December 7, 2021). “Q1 2022”: Wave 4 (January 28 to March 13, 2022). “Q2 2022”: Wave 5 (April 22 to June 5, 2022). “Q3 2022”: Wave 6 (July 15 to August 28, 2022). “Q4 2022”: Wave 7 (October 21 to December 4, 2022). “Q2 2023”: Wave 9 (April 21 to June 04, 2023). "Q3 2023": Wave 10 (July 14, 2023 to August 27, 2023)."
+3,"The Canadian Social Survey (CSS) collects data every three months on different topics such as health, well-being, impacts of COVID-19, activities, time use, and emergency preparedness. The target population for this voluntary survey is all non-institutionalized persons 15 years of age and older, living off reserve in Canada’s 10 provinces. Data are collected through self-response via an electronic questionnaire or by computer-assisted telephone interviewing. Proxy responses are not permitted."
+4,"Respondents were asked, “In general, how is your health?”, where possible response categories included “Excellent,” “Very good,” “Good,” “Fair” and “Poor.” Respondents who did not answer this question were excluded from the calculations in this table."
+5,"The confidence interval illustrates the degree of variability associated with an estimate. A wider confidence interval indicates higher variability, meaning that the estimate should be interpreted with due caution. The 95% confidence interval of an estimate means that if the survey were repeated over and over, the confidence interval would cover the true population value 95% of the time (or 19 times out of 20). Bootstrapping techniques were used to produce the 95% confidence intervals."
+6,"Estimates flagged with the letter E should be used with caution. In these cases, data users should use the 95% confidence interval to assess whether the quality of the estimate is sufficient. The letter F indicates estimates that are too unreliable to be published."
+7,"Gender refers to an individual’s personal and social identity as a man, woman or non-binary person (a person who is not exclusively a man or a woman). A person’s gender may differ from their sex at birth and from what is indicated on their current identification or legal documents, such as their birth certificate, passport or driver’s licence. A person’s gender may change over time. Some people may not identify with a specific gender."
+8,"Given that the non-binary population is small, it is necessary to aggregate the data to protect the confidentiality of responses provided by the Canadian population. Most information from the Canadian Social Survey is disseminated using a two-category gender variable. In these cases, people in the “non-binary person” category are distributed into the other two gender categories."
+
+"Correction ID","Correction Date","Correction Note"

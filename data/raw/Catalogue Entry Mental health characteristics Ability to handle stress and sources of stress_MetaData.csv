@@ -1,0 +1,99 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Mental health characteristics: Ability to handle stress and sources of stress",13100802,105-0510,"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310080201",1;2;3,"CURRENT - a cube available to the public and that is current",Occasional,2016-01-01,2019-01-01,5
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+1,Geography,,
+2,"Age group",,
+3,Sex,,
+4,Indicators,4,
+5,Characteristics,14;15;16;17;18;19;20,
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+1,"Canada (excluding territories)",,1,,,3,
+1,"Newfoundland and Labrador",[10],2,1,,,
+1,"Prince Edward Island",[11],3,1,,,
+1,"Nova Scotia",[12],4,1,,,
+1,"New Brunswick",[13],5,1,,,
+1,Quebec,[24],6,1,,,
+1,Ontario,[35],7,1,,,
+1,Manitoba,[46],8,1,,,
+1,Saskatchewan,[47],9,1,,,
+1,Alberta,[48],10,1,,,
+1,"British Columbia",[59],11,1,,,
+2,"Total, 12 years and over",,1,,,,
+2,"12 to 17 years",,2,1,,,
+2,"18 to 34 years",,3,1,,,
+2,"35 to 49 years",,4,1,,,
+2,"50 to 64 years",,5,1,,,
+2,"65 years and over",,6,1,,,
+3,"Both sexes",,1,,,,
+3,Males,,2,1,,,
+3,Females,,3,1,,,
+4,"Ability to handle unexpected and difficult problems, good or excellent",,1,,,4,
+4,"Ability to handle the day-to-day demands in life, good or excellent",,2,,,5,
+4,"Main source of stress in day-to-day life, work",,3,,,6,
+4,"Main source of stress in day-to-day life, financial concerns",,4,,,7,
+4,"Main source of stress in day-to-day life, family",,5,,,8,
+4,"Main source of stress in day-to-day life, school work (12 to 34 years old)",,6,,,9,
+4,"Main source of stress in day-to-day life, time pressures/ not enough time",,7,,,10,
+4,"Main source of stress in day-to-day life, health",,8,,,11,
+4,"Main source of stress in day-to-day life, other",,9,,,12,
+4,"Main source of stress in day-to-day life, none",,10,,,13,
+5,"Number of persons",,1,,,,
+5,"Low 95% confidence interval, number of persons",,2,,,,
+5,"High 95% confidence interval, number of persons",,3,,,,
+5,Percent,,4,,,,
+5,"Low 95% confidence interval, percent",,5,,,,
+5,"High 95% confidence interval, percent",,6,,,,
+5,"Statistically different from the Canada (excluding territories) rate",,7,,,21,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period",..
+"less than the limit of detection",<LOD
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded",0s
+"data quality: excellent",A
+"data quality: very good",B
+"data quality: good",C
+"data quality: acceptable",D
+"use with caution",E
+"too unreliable to be published",F
+"not applicable",...
+preliminary,p
+revised,r
+"suppressed to meet the confidentiality requirements of the Statistics Act",x
+terminated,t
+
+"Survey Code","Survey Name"
+3226,"Canadian Community Health Survey - Annual Component"
+
+"Subject Code","Subject Name"
+13,Health
+
+"Note ID",Note
+1,"Source: Statistics Canada, Canadian Community Health Survey (CCHS)"
+2,"All estimates in this table are calculated excluding non-response categories (""refusal"", ""don't know"", and ""not stated"") in the denominator."
+3,"Data for the Canadian Community Health Survey (CCHS) are collected yearly from a sample of approximately 65,000 respondents."
+4,"Population aged 12 and over who reported perceiving their ability to handle unexpected and difficult problems, for example, a family or personal crisis as good or excellent."
+5,"Population aged 12 and over who reported perceiving their ability to handle the day-to-day demands in life, for example, handling work, family and volunteer responsibilities as good or excellent."
+6,"Population aged 12 and over who reported work as the most important thing contributing to feelings of stress in day-to-day life."
+7,"Population aged 12 and over who reported financial concerns as the most important thing contributing to feelings of stress in day-to-day life."
+8,"Population aged 12 and over who reported family as the most important thing contributing to feelings of stress in day-to-day life."
+9,"Population aged 12 to 34 years old who reported school work as the most important thing contributing to feelings of stress in day-to-day life. Estimates of the population indicating this source of stress were only calculated for the 12-17 and 18-34 age groups due to low prevalence above age 35."
+10,"Population aged 12 and over who reported time pressures as the most important thing contributing to feelings of stress in day-to-day life."
+11,"Population aged 12 and over who reported health as the most important thing contributing to feelings of stress in day-to-day life."
+12,"Population aged 12 and over who reported ""other"" as the most important thing contributing to feelings of stress in day-to-day life."
+13,"Population aged 12 and over who reported ""none"" as the most important thing contributing to feelings of stress in day-to-day life."
+14,"The confidence interval illustrates the degree of variability associated with a rate. Wide confidence intervals indicate high variability, thus, these rates should be interpreted with due caution. When comparing estimates, it is important to use confidence intervals to determine if differences between values are statistically significant."
+15,"Bootstrapping techniques were used to produce the 95% confidence intervals (CIs)."
+16,"Data with a coefficient of variation (CV) from 15.1% to 35.0% are identified as follows: (E) use with caution."
+17,"Data with a coefficient of variation (CV) greater than 35.0% or that did not meet the minimum sample size requirement were suppressed due to extreme sampling variability and are identified as follows: (F) too unreliable to be published."
+18,"The following standard symbols are used in this Statistics Canada table: (..) for figures not available for a specific reference period and (...) for figures not applicable."
+19,"Percentages are rounded to the nearest tenth. Numbers are rounded to the nearest hundred."
+20,"Census population counts have been used to produce the population projection counts. These counts are used to ensure that the Canadian Community Health Survey (CCHS) weights and resulting estimates included in this table are consistent with known population totals."
+21,"This variable provides direction and statistical significance of the difference between estimates (p < 0.05). A value of +1 means the difference observed is significantly higher, -1 means the difference is significantly lower and 0 means the difference is not statistically significant."
+
+"Correction ID","Correction Date","Correction Note"
+1221,2020-01-03,"On January 3, 2020, the estimates of percent and confidence intervals for percent, have been corrected for the ""Main source of stress in day-to-day life, none"" indicator for 2016."
+
+

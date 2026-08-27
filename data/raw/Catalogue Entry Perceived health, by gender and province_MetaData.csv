@@ -1,0 +1,185 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Mental health indicators","13100465","105-1101","https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310046501",1;2;3;54,"CURRENT - a cube available to the public and that is current","Occasional","2002-01-01","2022-01-01","5",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography",55,""
+"2","Age group",,""
+"3","Gender",56;57,""
+"4","Indicators",2,""
+"5","Characteristics",46;47;48;49;50;51;52;58;59;60;61,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Atlantic Provinces","[1]","2","1","",,
+"1","Quebec","[24]","7","1","",,
+"1","Ontario","[35]","8","1","",,
+"1","Prairie Provinces","[4]","9","1","",,
+"1","British Columbia","[59]","13","1","",,
+"1","Newfoundland and Labrador","[10]","3","2","",,
+"1","Prince Edward Island","[11]","4","2","",,
+"1","Nova Scotia","[12]","5","2","",,
+"1","New Brunswick","[13]","6","2","",,
+"1","Manitoba","[46]","10","9","",,
+"1","Saskatchewan","[47]","11","9","",,
+"1","Alberta","[48]","12","9","",,
+"1","Canada","[11124]","1","","",,
+"2","15 to 24 years","","2","1","",,
+"2","25 to 64 years","","3","1","",,
+"2","65 years and over","","6","1","",,
+"2","25 to 44 years","","4","3","",,
+"2","45 to 64 years","","5","3","",,
+"2","Total, 15 years and over","","1","","",,
+"3","Men+","","2","1","",,
+"3","Women+","","3","1","",,
+"3","Total, gender of person","","1","","",,
+"4","Any mood disorder, 12 months","","4","","",4;6;7;17,
+"4","Major depressive episode, life","","5","","",4;6;18,
+"4","Major depressive episode, 12 months","","6","","",4;6;19,
+"4","Bipolar disorder, life","","7","","",4;7;20,
+"4","Bipolar disorder, 12 months","","8","","",4;7;21,
+"4","Generalized anxiety disorder, life","","9","","",4;8;22,
+"4","Generalized anxiety disorder, 12 months","","10","","",4;8;23,
+"4","Any substance use disorder (alcohol or drug), life","","11","","",4;9;10;11;12;13;14;24;69,
+"4","Any substance use disorder (alcohol or drug), 12 months","","12","","",4;9;10;11;12;13;14;25;69,
+"4","Alcohol abuse or dependence, life","","13","","",4;9;10;26,
+"4","Any selected disorder (mental or substance), excluding social phobia, life","","1","","",4;5;6;7;8;9;10;11;12;13;14,
+"4","Any selected disorder (mental or substance), excluding social phobia, 12 months","","2","","",4;6;7;8;9;10;11;12;13;14;15,
+"4","Any mood disorder, life","","3","","",4;6;7;16,
+"4","Alcohol abuse or dependence, 12 months","","14","","",4;9;10;27,
+"4","Cannabis abuse or dependence, life","","15","","",4;11;12;28;69,
+"4","Cannabis abuse or dependence, 12 months","","16","","",4;11;12;29;69,
+"4","Other drug abuse or dependence (excluding cannabis), life","","17","","",4;13;14;30;69,
+"4","Other drug abuse or dependence (excluding cannabis), 12 months","","18","","",4;13;14;31;69,
+"4","Cannabis use, life","","19","","",32;69,
+"4","Cannabis use, 12 months","","20","","",33;69,
+"4","Other drug use (excluding cannabis), life","","21","","",34;69,
+"4","Other drug use (excluding cannabis), 12 months","","22","","",35;69,
+"4","Suicidal thoughts, life","","23","","",36,
+"4","Suicidal thoughts, 12 months","","24","","",37,
+"4","Perceived mental health, very good or excellent","","25","","",38,
+"4","Perceived mental health, good","","26","","",38,
+"4","Perceived mental health, fair or poor","","27","","",38,
+"4","Self-rated work stress, days quite a bit or extremely stressful","","28","","",39,
+"4","Self-rated work stress, days a bit stressful","","29","","",39,
+"4","Self-rated work stress, days not at all or not very stressful","","30","","",39,
+"4","Perceived need for mental health care, no need","","31","","",40,
+"4","Perceived need for mental health care, all needs met","","32","","",40,
+"4","Perceived need for mental health care, needs partially met","","33","","",40,
+"4","Perceived need for mental health care, need not met","","34","","",40,
+"4","Mental health services, professional consultation/service used, 12 months","","35","","",41,
+"4","Schizophrenia or psychosis, ever received diagnosis","","36","","",42,
+"4","Post-traumatic stress disorder, current diagnosed condition","","37","","",43,
+"4","Eating disorder, current diagnosed condition","","38","","",44,
+"4","Attention deficit disorder, current diagnosed condition","","39","","",45,
+"4","Any selected disorder (mental or substance), including social phobia, life","","40","","",4;6;7;8;9;10;11;12;13;14;62;63,
+"4","Any selected disorder (mental or substance), including social phobia,  12 months","","41","","",4;6;7;8;9;10;11;12;13;14;63;64,
+"4","Any anxiety disorder, life","","42","","",4;8;63;65,
+"4","Any anxiety disorder, 12 months","","43","","",4;8;63;66,
+"4","Social phobia, life","","44","","",4;63;67,
+"4","Social phobia, 12 months","","45","","",4;63;68,
+"5","Number of persons","","1","","",,
+"5","Low 95% confidence interval, number of persons","","2","","",,
+"5","High 95% confidence interval, number of persons","","3","","",,
+"5","Coefficient of variation for number of persons","","4","","",,
+"5","Percent","","5","","",,
+"5","Low 95% confidence interval, percent","","6","","",,
+"5","High 95% confidence interval, percent","","7","","",,
+"5","Coefficient of variation for percent","","8","","",,
+"5","Statistically different from previous reference period","","9","","",53,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"5015","Mental Health and Access to Care Survey (MHACS)"
+
+"Subject Code","Subject Name"
+"13","Health"
+
+"Note ID",Note
+1,"Source: Statistics Canada, Mental Health and Access to Care Survey (MHACS), 2022; Canadian Community Health Survey - Mental Health (CCHS), 2012; Canadian Community Health Survey - Mental Health and Well-being (CCHS), 2002."
+2,"The Mental Health Surveys cover the population 15 years of age and over living in the ten provinces. Excluded from the surveys' coverage are: persons living on reserves and other Indigenous settlements; full-time members of the Canadian Forces and the institutionalized population. Altogether, these exclusions represent less than 3% of the target population."
+3,"All rates in this table are calculated excluding non-response categories ("refusal", "don't know", and "not stated") in the denominator."
+4,"The Mental Health Survey is partially based on a modified World Health Organization Composite International Diagnostic Interview (WHO-CIDI). The WHO-CIDI is a standardized instrument for assessment of mental disorders and conditions according to an operationalization of the definitions and criteria of the DSM-IV. DSM-IV refers to the Diagnostic and Statistical Manual of Mental Disorders used by the American Psychiatric Association. It is an internationally recognized classification of mental disorders. Mental conditions or problems are derived from a set of questions pertaining to the feelings, the symptoms, severity, the intensity and the impact relative to each of the measured disorders."
+5,"Population aged 15 and over classified as meeting criteria for any of the measured disorders (major depressive episode, bipolar disorder, generalized anxiety disorder, alcohol dependence, alcohol abuse, cannabis dependence, cannabis abuse, other drug dependence (excluding cannabis), other drug abuse (excluding cannabis)) in their lifetime."
+6,"Major depressive episode requires at least one episode of 2 weeks or more with persistent depressed mood and loss of interest or pleasure in normal activities, accompanied by problems such as decreased energy, changes in sleep and appetite, impaired concentration and feelings of guilt, hopelessness, or suicidal thoughts."
+7,"Bipolar disorder includes respondents who meet the criteria for bipolar I disorder or hypomanic episode, which includes bipolar II disorder. It is characterised by at least 7 days (or fewer if hospitalized) of exaggerated feelings of elevated or irritable mood plus a certain number and combination of other manic symptoms such as racing thoughts, talking more than usual, excessive spending, decreased need for sleep, increased pleasure seeking activity, or exaggerated self-confidence. Many people also experience at least one depressive episode."
+8,"Generalized anxiety disorder is characterised by a pattern of frequent, persistent worry and excessive anxiety about several events or activities during a period of at least 6 months. Symptoms of generalized anxiety disorder include restlessness or feeling keyed up or on edge, being easily fatigued, difficulty concentrating, irritability, muscle tension, shakiness, sleep disturbance (difficulty falling asleep or staying asleep or restless, unsatisfying sleep), excessive sweating, palpitations, shortness of breath, and various gastrointestinal symptoms."
+9,"Alcohol dependence is characterized by a recurrent pattern of use where at least three of the following occur in the same period of 12 month period: increased tolerance, withdrawal, increased consumption, unsuccessful attempts to quit, a lot of time lost recovering or using, reduced activities, and continued drinking despite persistent physical or psychological problems caused or intensified by alcohol."
+10,"Alcohol abuse is characterized by a recurrent pattern of use where at least one of the following occurs: failure to fulfill major roles at work, school or home, use in physically hazardous situations, recurrent alcohol related problems, or continued use despite social or interpersonal problems caused or intensified by alcohol.  By definition, respondents who meet the criteria for alcohol dependence are excluded from meeting the criteria for alcohol abuse."
+11,"Cannabis dependence is characterized by a recurrent pattern of use where at least three of the following occur in the same period of 12 month period: increased tolerance, withdrawal, increased consumption, unsuccessful attempts to quit, a lot of time lost recovering or using, reduced activities, and continued use despite persistent physical or psychological problems caused or intensified by cannabis use."
+12,"Cannabis abuse is characterized by a recurrent pattern of use where at least one of the following occurs: failure to fulfill major roles at work, school or home, use in physically hazardous situations, recurrent cannabis related problems, or continued use despite social or interpersonal problems caused or intensified by cannabis use.  By definition, respondents who meet the criteria for cannabis dependence are excluded from meeting the criteria for cannabis abuse."
+13,"Other drug dependence (excluding cannabis) is characterized by a recurrent pattern of use where at least three of the following occur in the same period of 12 month period: increased tolerance, withdrawal, increased consumption, unsuccessful attempts to quit, a lot of time lost recovering or using, reduced activities, and continued use despite persistent physical or psychological problems caused or intensified by drug use."
+14,"Other drug abuse (excluding cannabis) is characterized by a recurrent pattern of use where at least one of the following occurs: failure to fulfill major roles at work, school or home, use in physically hazardous situations, recurrent cannabis related problems, or continued use despite social or interpersonal problems caused or intensified by drug use.  By definition, respondents who meet the criteria for other drug dependence are excluded from meeting the criteria for other drug abuse."
+15,"Population aged 15 and over classified as meeting criteria for any of the measured disorders (major depressive episode, bipolar disorder, generalized anxiety disorder, alcohol dependence, alcohol abuse, cannabis dependence, cannabis abuse, other drug dependence (excluding cannabis), other drug abuse (excluding cannabis)) in the 12 months prior to interview."
+16,"Population aged 15 and over classified as meeting criteria for either of the measured mood disorders (major depressive episode, bipolar disorder) in their lifetime."
+17,"Population aged 15 and over classified as meeting criteria for either of the measured mood disorders (major depressive episode, bipolar disorder) in the 12 months prior to interview."
+18,"Population aged 15 and over classified as meeting criteria for major depressive episode in their lifetime."
+19,"Population aged 15 and over classified as meeting criteria major depressive episode in the 12 months prior to interview."
+20,"Population aged 15 and over classified as meeting criteria for bipolar disorder in their lifetime."
+21,"Population aged 15 and over classified as meeting criteria for bipolar disorder in the 12 months prior to interview."
+22,"Population aged 15 and over classified as meeting criteria for generalized anxiety disorder in their lifetime."
+23,"Population aged 15 and over classified as meeting criteria for generalized anxiety disorder in the 12 months prior to interview."
+24,"Population aged 15 and over classified as meeting criteria for any of the measured substance use disorders (alcohol dependence, alcohol abuse, cannabis dependence, cannabis abuse, other drug dependence (excluding cannabis), other drug abuse (excluding cannabis)) in their lifetime."
+25,"Population aged 15 and over classified as meeting criteria for any of the measured substance use disorders (alcohol dependence, alcohol abuse, cannabis dependence, cannabis abuse, other drug dependence (excluding cannabis), other drug abuse (excluding cannabis)) in the 12 months prior to interview."
+26,"Population aged 15 and over classified as meeting criteria for alcohol abuse or dependence in their lifetime."
+27,"Population aged 15 and over classified as meeting criteria for alcohol abuse or dependence in the 12 months prior to the interview."
+28,"Population aged 15 and over classified as meeting criteria for cannabis abuse or dependence in their lifetime."
+29,"Population aged 15 and over classified as meeting criteria for cannabis abuse or dependence in the 12 months prior to the interview."
+30,"Population aged 15 and over classified as meeting criteria for other drug abuse or dependence (excluding cannabis) in their lifetime. Other drugs include substances such as club drugs, heroin, solvents, other illicit drugs and nonmedical use of prescription sedatives, analgesics, or stimulants."
+31,"Population aged 15 and over classified as meeting criteria for other drug abuse or dependence (excluding cannabis) in the 12 months prior to the interview. Other drugs include substances such as club drugs, heroin, solvents, other illicit drugs and nonmedical use of prescription sedatives, analgesics, or stimulants."
+32,"Population aged 15 and over who reported using cannabis or hashish at least once in their lifetime."
+33,"Population aged 15 and over who reported using cannabis or hashish at least once in the 12 months prior to the interview."
+34,"Population aged 15 and over who have used an other illicit drug (excluding cannabis) or have used a medicine nonmedically at least once in their lifetime. Other drugs include substances such as club drugs, heroin, solvents, other illicit drugs and nonmedical use of prescription sedatives, analgesics, or stimulants."
+35,"Population aged 15 and over who have used an other illicit drug (excluding cannabis) or have used a medicine nonmedically at least once in the 12 months prior to the interview. Other drugs include substances such as club drugs, heroin, solvents, other illicit drugs and nonmedical use of prescription sedatives, analgesics, or stimulants."
+36,"Population aged 15 and over who ever thought about committing suicide or taking their own life."
+37,"Population aged 15 and over who thought about committing suicide or taking their own life in the 12 months prior to interview."
+38,"Population aged 15 and over who reported perceiving  their own mental health status as being either excellent, very good, good, fair or poor. Perceived mental health refers to the perception of a person's mental health in general."
+39,"Population aged 15 to 75 inclusive who report having worked in the 12 months prior to interview and responded to the question: "Would you say that most days at work were: not at all stressful, not very stressful,  a bit stressful, quite a bit stressful, extremely stressful?" The self-rated stress question refers to the person's main job or business."
+40,"Population aged 15 and over who reported having or not having a perceived need for mental health care (information, medication, counselling, other) in the 12 months prior to interview. Respondents are grouped into one of four categories based on whether a need was reported, and if so, whether their needs were met, partially met, or unmet."
+41,"Population aged 15 and over who report having consulted a professional or utilized a professional service in the 12 months prior to interview for problems with emotions, mental health, or use of alcohol or drugs. Professionals included are psychiatrists, family doctors and general practitioners, psychologists, nurses, social workers, counsellors, and psychotherapists. Professional services include hospitalization and online therapy."
+42,"Population aged 15 and over who reported that they have ever been diagnosed by a health professional with schizophrenia or psychosis."
+43,"Population aged 15 and over who reported that they have been diagnosed by a health professional as currently having post-traumatic stress disorder."
+44,"Population aged 15 and over who reported that they have been diagnosed by a health professional as currently having an eating disorder."
+45,"Population aged 15 and over who reported that they have been diagnosed by a health professional as currently having attention deficit disorder."
+46,"Bootstrapping techniques were used to produce the coefficient of variation (CV) and 95% confidence intervals (CIs)."
+47,"Data with a coefficient of variation (CV) from 16.6% to 33.3% are identified as follows: (E) use with caution."
+48,"Data with a coefficient of variation (CV) greater than 33.3% were suppressed due to extreme sampling variability and are identified as follows: (F) too unreliable to be published."
+49,"The following standard symbols are used in this Statistics Canada table: (..) for figures not available for a specific reference period and (...) for figures not applicable."
+50,"The confidence interval illustrates the degree of variability associated with a rate. Wide confidence intervals indicate high variability, thus, these rates should be interpreted with due caution. When comparing estimates, it is important to use confidence intervals to determine if differences between values are statistically significant."
+51,"Percentages are rounded to the nearest tenth. Numbers are rounded to the nearest hundred."
+52,"For the 2002 dataset, 1996 Census population counts were used. Evaluation studies have confirmed that the impact of this change on Canadian Community Health Survey - Mental Health (CCHS) estimates should be minimal. For 2012, the 2006 Census population counts have been used to produce the population projection counts. These counts are used to ensure that the Canadian Community Health Survey - Mental health survey weights and resulting estimates included in this CANSIM table are consistent with known population totals. For 2022, the 2021 Census long form population counts were used. This allowed the identification and selection of targeted individuals from targeted subpopulations (South Asian, Black, Chinese, Filipino), which is much more efficient than selecting dwellings in the general population."
+53,"This variable provides direction and statistical significance of the difference between estimates (p less than 0.05). A value of +1 means the difference observed is significantly higher, -1 means the difference is significantly lower and 0 means the difference is not statistically significant."
+54,"The 2012 data for 19 variables at the Atlantic Provinces and/or Prairie Provinces levels have been corrected. Data at the province and Canada level were not affected. The 19 corrected variables are: Any selected disorder (mental or substance), life; Any selected disorder (mental or substance), 12 months; Any mood disorder, life; Major depressive episode, life; Generalized anxiety disorder, life; Any substance use disorder (alcohol or drug), life; Any substance use disorder (alcohol or drug), 12 months; Alcohol abuse or dependence, life; Alcohol abuse or dependence, 12 months; Cannabis use, life; Self-rated work stress, days a bit stressful; Self-rated work stress, days not at all or not very stressful; Perceived need for mental health care, no need; Perceived need for mental health care, all needs met; Perceived mental health, very good or excellent; Perceived mental health, good; Post-traumatic stress disorder, current diagnosed condition; Eating disorder, current diagnosed condition; and Attention deficit disorder, current diagnosed condition."
+55,"The Mental Health Surveys from 2002 and 2012 were designed to provide reliable estimates at the provincial level. MHACS 2022 was designed to provide reliable estimates at the national level and to sample a sufficient number of individuals to allow for relevant analyses of visible minorities."
+56,"Gender was not collected in the 2002 and 2012 surveys. Therefore, the sex variable from 2002 and 2012 and the two-category gender variable from 2022 are combined in this analysis.  Although sex and gender refer to two different concepts, the introduction of gender is not expected to have a significant impact on data analysis and historical comparability, given the small size of the transgender and non-binary populations. For additional information on changes of concepts over time, please consult the <a href="https://www12.statcan.gc.ca/census-recensement/2021/ref/98-500/014/98-500-x2021014-eng.cfm" rel="external noopener noreferrer" target="_blank">Age, Sex at Birth and Gender Reference Guide (opens new window)</a>. "
+57,"Given that the non-binary population is small, data aggregation to a two-category gender variable is sometimes necessary to protect the confidentiality of responses. In these cases, individuals in the category “non-binary persons” are distributed into the other two gender categories. Unless otherwise indicated in the text, the category “men” includes men, as well as some non-binary persons, while the category “women” includes women, as well as some non-binary persons. A fact sheet on gender concepts, <a href="https://www12.statcan.gc.ca/census-recensement/2021/ref/98-20-0001/982000012021001-eng.cfm" rel="external noopener noreferrer" target="_blank">Filling the gaps: Information on gender in the 2021 Census (opens new window)</a>, is also available. "
+58,"Beginning with the 2022 cycle of Canadian Community Health Survey - Mental Health (CCHS), quality flags are applied to estimates based on the sample size within the domain of estimation. The flag (E) signifies an estimate with poorer quality which should be used with caution. The flag (F) signifies an estimate with a quality that is to unreliable to be published. The flag (X) signifies an estimate with a frequency that is too small to be published. When there is no quality flag applied to the data, users should use the estimated confidence intervals as an indicator of quality for the statistics."
+59,"Data from 2002 and 2012 were collected in-person via computer-assisted interviews. Data from 2022 was collected remotely via computer-assisted telephone interviews."
+60,"Canadian Community Health Survey (CCHS) - Mental Health and Well-being, 2002, had a sample size of 40,000 and a response rate of 77%. Canadian Community Health Survey (CCHS) - Mental Health, 2012, had a sample size of 43,030 and a response rate of 79.8%. Mental Health and Access to Care Survey (MHACS) had a sample size of 40,000 and a response rate of 25%."
+61,"Data from Mental Health and Access to Care Survey (MHACS) was collected during a public health emergency due to the COVID-19 pandemic. The impossibility of conducting in-person interviews, the shorter collection periods and collection capacity issues resulted in a significant decrease in the response rates."
+62,"Population aged 15 and over classified as meeting criteria for any of the measured disorders (major depressive episode, bipolar disorder, social phobia, generalized anxiety disorder, alcohol dependence, alcohol abuse, cannabis dependence, cannabis abuse, other drug dependence (excluding cannabis), other drug abuse (excluding cannabis)) in their lifetime."
+63,"Social phobia (social anxiety disorder) is characterized by a persistent, irrational fear of situations in which the person may be closely watched and judged by others, as in public speaking, eating, or using public facilities."
+64,"Population aged 15 and over classified as meeting criteria for any of the measured disorders (major depressive episode, bipolar disorder, social phobia, generalized anxiety disorder, alcohol dependence, alcohol abuse, cannabis dependence, cannabis abuse, other drug dependence (excluding cannabis), other drug abuse (excluding cannabis)) in the 12 months prior to interview."
+65,"Population aged 15 and over classified as meeting criteria for any of the measured anxiety disorders (social phobia, generalized anxiety disorder) in their lifetime."
+66,"Population aged 15 and over classified as meeting criteria for any of the measured anxiety disorders (social phobia, generalized anxiety disorder) in the 12 months prior to interview."
+67,"Population aged 15 and over classified as meeting criteria for social phobia in their lifetime."
+68,"Population aged 15 and over classified as meeting criteria for social phobia in the 12 months prior to interview."
+69,"Recreational use of cannabis was legalized in Canada in 2017 as per the Cannabis Act (Bill C-46)."
+
+"Correction ID","Correction Date","Correction Note"
+"948","2014-02-11","<p>The 2012 data for 19 variables at the Atlantic Provinces and/or Prairie Provinces levels have been corrected. Data at the province and Canada level were not affected. The 19 corrected variables are: Any selected disorder (mental or substance), life; Any selected disorder (mental or substance), 12 months; Any mood disorder, life; Major depressive episode, life; Generalized anxiety disorder, life; Any substance use disorder (alcohol or drug), life; Any substance use disorder (alcohol or drug), 12 months; Alcohol abuse or dependence, life; Alcohol abuse or dependence, 12 months; Cannabis use, life; Self-rated work stress, days a bit stressful; Self-rated work stress, days not at all or not very stressful; Perceived need for mental health care, no need; Perceived need for mental health care, all needs met; Perceived mental health, very good or excellent; Perceived mental health, good; Post-traumatic stress disorder, current diagnosed condition; Eating disorder, current diagnosed condition; and Attention deficit disorder, current diagnosed condition.<br></p>",
+

@@ -1,0 +1,88 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Mental health characteristics and suicidal thoughts",13100098,105-0514,"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310009801",1;2;3,"CURRENT - a cube available to the public and that is current",Occasional,2015-01-01,2019-01-01,5
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+1,Geography,,
+2,"Age group",,
+3,Sex,,
+4,Indicators,,
+5,Characteristics,"7;8;9;10;11;12;13;15;16;17",
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+1,"Canada (excluding territories)",,1,,,3,
+1,"Newfoundland and Labrador",[10],2,1,,,
+1,"Prince Edward Island",[11],3,1,,,
+1,"Nova Scotia",[12],4,1,,,
+1,"New Brunswick",[13],5,1,,,
+1,Quebec,[24],6,1,,,
+1,Ontario,[35],7,1,,,
+1,Manitoba,[46],8,1,,,
+1,Saskatchewan,[47],9,1,,,
+1,Alberta,[48],10,1,,,
+1,"British Columbia",[59],11,1,,,
+2,"Total, 12 years and over",,1,,,,
+2,"12 to 17 years",,2,1,,,
+2,"18 to 34 years",,3,1,,,
+2,"35 to 49 years",,4,1,,,
+2,"50 to 64 years",,5,1,,,
+2,"65 years and over",,6,1,,,
+3,"Both sexes",,1,,,,
+3,Males,,2,1,,,
+3,Females,,3,1,,,
+4,"Consultation with a health professional about emotional or mental health",,1,,,4,
+4,"Positive mental health, flourishing",,2,,,5;18,
+4,"Suicidal thoughts (15 years and over)",,3,,,6,
+5,"Number of persons",,1,,,,
+5,"Low 95% confidence interval, number of persons",,2,,,,
+5,"High 95% confidence interval, number of persons",,3,,,,
+5,Percent,,4,,,,
+5,"Low 95% confidence interval, percent",,5,,,,
+5,"High 95% confidence interval, percent",,6,,,,
+5,"Statistically different from the Canada (excluding territories) rate",,7,,,14,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period",..
+"less than the limit of detection",<LOD
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded",0s
+"data quality: excellent",A
+"data quality: very good",B
+"data quality: good",C
+"data quality: acceptable",D
+"use with caution",E
+"too unreliable to be published",F
+"not applicable",...
+preliminary,p
+revised,r
+"suppressed to meet the confidentiality requirements of the Statistics Act",x
+terminated,t
+
+"Survey Code","Survey Name"
+3226,"Canadian Community Health Survey - Annual Component"
+
+"Subject Code","Subject Name"
+13,Health
+
+"Note ID",Note
+1,"Source: Statistics Canada, Canadian Community Health Survey (CCHS)"
+2,"All estimates in this table are calculated excluding non-response categories (""refusal"", ""don't know"", and ""not stated"") in the denominator."
+3,"Data for the Canadian Community Health Survey (CCHS) are collected yearly from a sample of approximately 65,000 respondents."
+4,"Population aged 12 and over who reported that they have seen or talked to a health professional about their emotional or mental health."
+5,"Population aged 12 and over who classified as having a flourishing mental health. This classification is based on the Mental Health Continuum - Short Form (MHC-SF) instrument developed by Dr. Corey Keyes.  A flourishing mental health refers to a ""high levels"" of emotional well-being and positive functioning. These components are at a high level if they were experienced ""everyday"" or ""almost every day"" during the past month."
+6,"Population aged 15 and over who reported that they have seriously contemplated suicide in their life."
+7,"The confidence interval illustrates the degree of variability associated with a rate. Wide confidence intervals indicate high variability, thus, these rates should be interpreted with due caution. When comparing estimates, it is important to use confidence intervals to determine if differences between values are statistically significant."
+8,"Bootstrapping techniques were used to produce the 95% confidence intervals (CIs)."
+9,"Data with a coefficient of variation (CV) from 15.1% to 35.0% are identified as follows: (E) use with caution."
+10,"Data with a coefficient of variation (CV) greater than 35.0% or that did not meet the minimum sample size requirement were suppressed due to extreme sampling variability and are identified as follows: (F) too unreliable to be published."
+11,"The following standard symbols are used in this Statistics Canada table: (..) for figures not available for a specific reference period and (...) for figures not applicable."
+12,"Percentages are rounded to the nearest tenth. Numbers are rounded to the nearest hundred."
+13,"Census population counts have been used to produce the population projection counts. These counts are used to ensure that the Statistics Canada, Canadian Community Health Survey (CCHS) weights and resulting estimates included in this table are consistent with known population totals."
+14,"This variable provides direction and statistical significance of the difference between estimates (p < 0.05). A value of +1 means the difference observed is significantly higher, -1 means the difference is significantly lower and 0 means the difference is not statistically significant."
+15,"Data with a coefficient of variation (CV) from 15.1% to 35.0% are identified as follows: (E) use with caution."
+16,"Percentages are rounded to the nearest tenth. Numbers are rounded to the nearest hundred."
+17,"Census population counts have been used to produce the population projection counts. These counts are used to ensure that the Canadian Community Health Survey (CCHS) weights and resulting estimates included in this table are consistent with known population totals."
+18,"Due to content changes, this indicator is now derived from provincial data collected from a rapid response module (January to March, 2019)."
+
+"Correction ID","Correction Date","Correction Note"
+
+
