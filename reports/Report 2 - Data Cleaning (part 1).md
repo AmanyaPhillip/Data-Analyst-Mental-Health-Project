@@ -21,7 +21,7 @@ Standardize all StatCan long-format datasets into a consistent, analysis-ready s
 
 ### Why it’s needed
 StatCan files are inconsistent across releases. This function ensures every StatCan dataset has the same structure, making it easy to merge, analyze, and visualize.
-## 🧹Cleaning 2 CIHI Visualization Config Files 
+## 🧹Cleaning 2 - CIHI Visualization Config Files 
 ### Purpose
 Convert CIHI’s chart configuration tables into tidy, row-level data.
 
