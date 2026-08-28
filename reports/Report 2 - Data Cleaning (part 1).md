@@ -1,5 +1,5 @@
 
-# 📘 DATA CLEANING PIPELINE 
+# 📘 DATASET CLEANING 
 
 This project contains multiple raw datasets from StatCan, CIHI, and MHACS. Each dataset has a different structure, format, and quality. To make them usable for analysis and dashboards, we built a universal cleaning pipeline with specialized cleaning functions for each dataset type.
 
