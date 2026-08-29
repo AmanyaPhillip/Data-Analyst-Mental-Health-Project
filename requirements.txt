@@ -4,6 +4,8 @@ pandas==3.0.5
 numpy==2.5.2
 openpyxl==3.1.5          # read the CIHI .xlsx workbook
 matplotlib==3.11.1
+scikit-learn==1.9.0      # notebook 05 (ML sandbox)
+joblib==1.5.3            # save/load trained models
 jupyter==1.1.1
 nbconvert==7.17.1
 nbformat==5.11.1

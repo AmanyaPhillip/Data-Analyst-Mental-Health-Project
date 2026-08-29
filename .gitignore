@@ -224,3 +224,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# trained models (binaries) - keep metrics json, not the pickles
+models/*.joblib
+models/*.pkl
