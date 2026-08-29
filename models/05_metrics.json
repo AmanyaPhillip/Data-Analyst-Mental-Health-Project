@@ -1,0 +1,53 @@
+{
+  "dataset": "synthetic_kaggle/mental_health_dataset.csv (SYNTHETIC)",
+  "target": "mental_health_risk",
+  "features": [
+    "age",
+    "stress_level",
+    "sleep_hours",
+    "physical_activity_days",
+    "depression_score",
+    "anxiety_score",
+    "social_support_score",
+    "productivity_score",
+    "gender",
+    "employment_status",
+    "work_environment",
+    "mental_health_history"
+  ],
+  "n_train": 6000,
+  "n_val": 2000,
+  "n_test": 2000,
+  "validation": [
+    {
+      "model": "baseline (most frequent)",
+      "val_accuracy": 0.59,
+      "val_macro_f1": 0.247
+    },
+    {
+      "model": "logistic regression",
+      "val_accuracy": 0.999,
+      "val_macro_f1": 0.999
+    },
+    {
+      "model": "random forest",
+      "val_accuracy": 0.969,
+      "val_macro_f1": 0.965
+    },
+    {
+      "model": "hist gradient boosting",
+      "val_accuracy": 1.0,
+      "val_macro_f1": 1.0
+    }
+  ],
+  "best_model": "hist gradient boosting",
+  "test_accuracy": 1.0,
+  "test_macro_f1": 1.0,
+  "top_features": {
+    "depression_score": 0.5694,
+    "anxiety_score": 0.4421,
+    "age": 0.0,
+    "stress_level": 0.0,
+    "sleep_hours": 0.0
+  }
+}
