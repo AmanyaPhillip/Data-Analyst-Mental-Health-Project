@@ -1,0 +1,105 @@
+Meeting notes:
+
+2026-09-01
+
+# Data Cleaning Status
+
+- Fatma built the core cleaning pipeline; each notebook cell cleans a separate dataset
+  - Covers 5 Stats Canada long-format datasets (including receipt mental health and related files)
+  - Final cells export cleaned DataFrames to CSV files stored in the clean directory
+- Danny reviewed Fatma’s first cell (Stats Canada) independently and found some changes not applying correctly
+  - Whitespace trimming was inconsistent; some variable formats were wrong
+  - Fatma’s changes were structurally sound but some transformations weren’t reflected in the actual clean output
+- Danny committed a cleaning log to docs mapping each raw dataset to its corresponding clean file
+  - Team can use this log to compare raw vs. clean and verify the cleaning was done as intended
+- Fatma was absent from the session; team noted she had received feedback/recommitment notes and hoped she was okay
+- Philip’s AI reviewed the pipeline and flagged several bugs, warnings, and performance issues before the team proceeded to EDA
+
+# Bug Fixes: Clean CIHI Notebook (Phillip lead)
+
+- Bug 1: .loc[idx] used with an enumerate counter on a melted DataFrame
+  - After df.melt(), index labels are not sequential (0, 1, 2); enumerate produces a counter that doesn’t match
+  - Consequence: silently writes ci_low and ci_high values to wrong rows, corrupting output without raising an error
+  - Fix Option B chosen by team consensus: iterate using .items() instead of enumerate, avoiding index label mismatch entirely
+  - No need to reset the index after melt; iterating by label is cleaner
+- Bug 2: CI string parsed to float before point estimate is extracted
+  - Point estimate (mean value) is destroyed before it can be written back
+  - Fix: write the point estimate back to the value column before the bulk pd.to_numeric conversion runs
+- Warning 3: regex pattern only handles hyphens in CI strings; n-dashes and m-dashes not covered
+  - Common in Excel exports; causes parsing failures on those characters
+  - Fix: extend the regex pattern to include n-dash and m-dash variants
+- Warning 4: if not match guard always passes because a no-match returns None, which is always truthy
+  - Guard never actually blocks; bad values slip through
+  - Fix: use pd.notna() to properly catch null/no-match cases
+- Hardcoded years (2018, 2019, 2021, 2022): years 2023, 2024, 2025+ were not being picked up
+  - These were treated as column IDs instead of value columns, silently dropping data
+  - Team agreed unanimously to switch to dynamic 4-digit year detection via regex
+  - Fix does not change existing functionality; it just extends coverage to future years
+- Additional issues flagged: dataset name mismatches, hardcoded variable names that may not match actual data, O(n²) pivot logic, and stale function definitions from cells that were never re-run
+- All 9 fixes applied by Philip’s AI; corrected function bodies copied verbatim into the respective cells
+- Changes accepted in Philip’s IDE but not yet pushed to GitHub pending final review
+
+# Reports and Documentation
+
+- Report 3 created and named “Cleaning and Bug Fixes” to document all changes made and the rationale behind them
+  - Lives in the reports folder alongside Report 1 and Report 2
+  - Philip to write up findings and push; Danny will review against the cleaning log once changes are live
+- data_cleaning_issues_found.md created in the reports folder
+  - Each team member has been assigned a specific cleaned CSV file to review individually
+  - Feedback template included with labeled sections for issues, warnings, and general notes
+  - AI assigned files to team members based on context; Philip received the largest file as lead
+  - Misa was assigned files relevant to her Power BI work
+- Homework: review assigned CSV file and log findings before tomorrow’s session, or at minimum during it
+- Cleaning log in docs serves as the reference for which raw dataset maps to which clean output file
+  - Added to reports so team doesn’t have to cross-reference two separate locations
+
+# Parallel Workstreams Going Forward
+
+- EDA: Philip leads; will begin only once clean data is confirmed and the team is satisfied with it
+  - Philip committed to this workstream in the original project plan
+  - Dashboard and EDA can run in parallel once data is confirmed clean
+- Power BI dashboard: Misa leads
+  - Rebal wants to join Misa’s sessions; has some Power BI experience from work and wants to learn more
+  - Jyoti also has basic Power BI and Tableau knowledge and wants to contribute
+  - Fatma also expressed interest in joining
+  - Samir will invite team members to sessions as they start; people can hop in
+  - Requires clean CSV files as input; no database connection needed for this phase
+- Website (Vercel): Samir leads with a skeleton already built using Whissel
+  - Skeleton is in place; next step is adding content and connecting data
+  - Plan for now: upload clean CSV files as-is, skip database connection this phase
+  - If time allows, automation can be explored as a separate track later
+  - Samir will help with the website alongside whoever else joins
+- ML track: uses Danny’s synthesized data (1,000 rows), separate from the dashboard track
+  - Dashboard track uses the real cleaned Stats Canada data
+  - ML notebook is approximately 80–90% complete; Philip asked team to review it
+  - Philip ran out of API quota mid-session so full review was deferred
+
+# Website and GitHub Access
+
+- Vercel site is currently a skeleton: no admin roles, no database connected
+  - Samir is on the free Vercel tier; deploys must be pushed from his own GitHub, not the team’s
+  - Workflow: team makes changes in Samir’s working repo, Samir triggers a redeploy by committing a small change
+- Rebal has been added to Samir’s working GitHub repo
+  - To contribute: clone the repo, run npm run dev, make changes, report back to Samir
+  - When everything is finalized, the project will be zipped and copied to the main project GitHub as a proper deliverable
+- GitHub contribution graph raised as a concern: Misa and Jyoti currently show little activity
+  - Misa: contributions will come through Power BI work
+  - Jyoti: contributions will come through EDA on Thursday (Philip shares screen, Jyoti commits the work)
+  - Plan ensures all active members have visible contributions by end of project
+
+# Thursday’s Plan
+
+- EDA session together: Philip shares screen, team works collaboratively, each member commits their own portion
+- Jyoti joining the EDA session to contribute and build visible GitHub activity
+- After EDA is confirmed, weekend work splits into parallel tracks:
+  - Misa, Rebal, and Jyoti working together on Power BI dashboard
+  - Samir and Rebal and Phillip + others continuing website work
+- Team noted they are ahead of schedule, which opens up time for ML and MCP server work if bandwidth allows
+- Meeting notes from today to be added to GitHub under team files as Meeting 4
+
+# Next Steps
+
+- **Review assigned cleaned CSV file and log findings in data_cleaning_issues_found.md** (Everyone)
+- **Add today's meeting transcript to GitHub as Meeting 4** (Rebal)
+- **Clone Samir's website repo and explore locally** (Rebal)
+- **Push accepted bug-fix changes to the CIHI notebook** (Philip)
