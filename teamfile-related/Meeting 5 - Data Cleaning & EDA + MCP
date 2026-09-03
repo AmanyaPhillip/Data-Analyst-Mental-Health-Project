@@ -1,0 +1,60 @@
+
+Date: 2026-09-03
+
+# Future MCP Bot Setup
+
+- MCP server built and connected to Claude, scoped exclusively to the cleaned and compiled dataset
+  - Differs from prompt-level grounding: grounding embeds context directly in the prompt/code; MCP is external, called at query time, and returns filtered values from the server side
+  - Practical effect: Claude cannot reach the open internet; all answers are drawn only from the provided data
+  - Can apply filters dynamically (e.g. isolate Alberta suicide rates from the full dataframe) and generate visuals from those filtered results
+
+# Data Cleaning Wrap-Up
+
+- Data cleaning confirmed complete; team consensus that no further cleaning is needed
+- Fatima produced a DataCleaningIssuesFound.md documenting every problem found and how it was resolved, with step-by-step reasoning preserved
+- Duplicate work discovered: Misa cleaned data that Fatima had already cleaned
+  - Being treated as a validation opportunity: compare both outputs to confirm they reached the same conclusions
+  - Root cause acknowledged: tasks were described too loosely, leaving people to figure out scope themselves
+
+# Document Standardization Walkthrough
+
+- Walked through standardizing Fatima’s report live using Copilot as a model for the whole team
+  - Opened DataCleaningIssuesFound.md in VS Code via GitHub Desktop (“Show in Explorer”)
+  - Copied the Copilot system purpose and the feedback template from the existing MD standard file
+  - Prompted Copilot: “Use this format and purpose to transform my document into a standardized document for upload; output should be a copyable MD file; follow this document standard” and pasted the full existing standard MD as context
+  - First output reproduced the format but dropped the findings and reasoning sections; prompt was refined to “create a report on these findings using the standard we’ve already created” with the content re-pasted
+  - Second output correct: headings, formatting, and reasoning all preserved
+  - Final file saved as DataCleaningResults.md in the /reports folder and pushed to GitHub via GitHub Desktop
+- Key lesson demonstrated: AI can return the wrong thing on the first pass; one prompt refinement resolved it (“hallucinations, my friend”)
+- Agreed file format standards going forward:
+  - Text documents: .md
+  - Data: .csv
+  - Code: Jupyter notebooks (so everyone can access, edit, and run)
+
+# Tomorrow’s Objectives and Weekend Plan
+
+- Three objectives for tomorrow’s session:
+  1. Complete EDA analysis against the objectives in Samir’s file
+  2. Complete KPI analysis using the same reference file
+  3. Review Samir’s SQL work in the project so the full team gets familiar with SQL and data manipulation
+- Visualization work to follow once EDA and KPIs are cleared:
+  - Rebal: website visualizations
+  - Misa: Power BI visualizations
+  - Others: potentially Pandas visualizations (to be confirmed based on team appetite)
+  - Assignments will be split by person to prevent the same overlap that caused duplicate cleaning work
+- Monday is a holiday; everyone should have visualizations ready by Tuesday when the team reconvenes
+
+# Team Process and Repository Improvements
+
+- Direct task assignment going forward: named individuals get specific deliverables, not open-ended briefs
+  - Rotating ownership model proposed for future projects: one person owns cleaning per project, another owns the next, so everyone builds full-stack analyst skills
+- Repository organization: once the React website is complete, it will be uploaded as a zip inside the current repo as a finished product; future projects will each live in a new GitHub repo, forked by anyone who wants to build on it
+- Post-cohort plan discussed: meet weekly after the course ends to continue collaborating on projects
+  - Aligns with what Samir has already been trying to organize; seen as mutually beneficial for everyone
+
+# Next Steps
+
+- **Coordinate with Misa on weekend visualization split** (Rebal)
+- **Complete EDA, KPI, and SQL objectives tomorrow**
+- **Standardize remaining team documents to agreed formats**
+- **Assign visualization tasks to named individuals before the weekend**
