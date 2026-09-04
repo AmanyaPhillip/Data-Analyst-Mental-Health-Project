@@ -1,0 +1,76 @@
+Meeting: 2026-09-04
+
+# Data Cleaning Comparison (Fatima vs. Misa)
+
+- Compared two independently cleaned datasets using AI (Claude Haiku) to score cleanliness
+- Perceived MH Annual (Fatima): scored 90%, cleaner format, selected for use
+- Catalog Entry Mental Health Characteristics (Misa): 8,000 rows vs. Fatima’s 11,000, different starting data
+- Decision: use Fatima’s cleaned files for both datasets
+- Quality flags columns to be removed across all files (API artifact, not needed for analysis)
+
+# EDA Setup and Workflow
+
+- Loaded all cleaned CSVs into Jupyter Notebook, created DataFrames per file
+- Approach: use Claude (Claude.ai project with file access) to run EDA per file, not raw chat
+- EDA steps per file: column inventory, descriptive stats, group-by aggregations, CI validation, visualizations
+- CI validation checks added:
+  - CI low < value < CI high
+  - CI low > 0, CI high < 100
+  - CI width column added (CI high minus CI low)
+- Decision: create a separate notebook file per CSV for organization, merge into one report later
+
+# Key EDA Findings: Mental Health Trends
+
+- Every measured disorder rose between 2019 and 2024, none fell
+- Fair/poor self-rated mental health rose ~6 percentage points; excellent/very good fell from 63% to 50%
+- Self-reported anxiety disorder nearly doubled over the window
+- Cannabis use: highest single 12-month indicator at 22%, biggest mover (+8.9 pp), plausibly tied to 2018 legalization
+- Suicidal thoughts prevalence (2015–2019): essentially flat at ~12%, within confidence interval
+  - Consultation with professionals rose more than ideation itself, suggesting increased help-seeking
+- General perceived health (quarterly, 2021–2023): fell steadily, excellent/very good dropped from 57% to 48%
+
+# Sex Differences Across Datasets
+
+- Women report higher rates of anxiety (22.4% vs. 11%), mood disorders, ideation, and help-seeking
+- Consultation-to-ideation ratio for women: ~1.5x vs. men
+- Men report higher rates of cannabis use, heavy drinking, schizophrenia, and disruptive disorders
+- Key cross-source insight: women report more distress and use more services across 4 independent tables, but men die by suicide at 3x the rate
+  - Flagged as a genuine multi-source insight, recommended for its own dashboard page
+
+# Age and Vulnerable Groups
+
+- 18–34 is the clearest high-risk group across anxiety, mood disorders, and ideation
+- Both anxiety and mood disorders highest in youngest groups, declining steadily with age
+- Stress sources (2019): schoolwork (24%) and work (20%) dominate, followed by financial concerns
+  - Stress source data only asked of younger subset (12–34), not directly comparable to full-population indicators
+- Coping ability improved slightly 2016–2019; sex differences in coping are small relative to age effect
+
+# Regional Findings
+
+- Quebec is a striking outlier: fair/poor mental health reporting at ~8.9%, roughly half of other provinces
+  - Other provinces cluster between 15–17%; gap likely a cultural/reporting style effect, not a true health gap
+- Nova Scotia: highest fair/poor self-rated mental health rate
+- Territories and small provinces show visibly wider CI widths due to smaller sample sizes
+
+# Emergency Department and CIHI Data Issues
+
+- ED visit rates (youth, all diagnoses) dropped sharply in 2020–2021 during COVID lockdowns, then spiked post-2021
+  - Falling ED rate flagged as potentially indicating reduced access, not improved health
+- CIHI MH Services and Child Youth Services files mix percentage and unit-based indicators in the same column
+  - Must split by units before drawing any combined chart; current visualizations for these files are unreliable
+- Excel date corruption bug found in raw file: 9 age-range rows show values like “December” instead of age ranges
+  - Bug is in the raw Stats Canada file, not introduced by team cleaning
+
+# Next Steps and Outstanding Tasks
+
+- Fix CIHI files: split indicators by percentage vs. units before re-running EDA
+- Patch Excel date corruption bug in the affected raw file (flagged, out of today’s scope)
+- Assign individual tasks via Trello board at end of session
+- Run SQL queries after EDA is complete, using processed data and EDA findings as reference
+- Add mental health crisis disclaimer to README (already drafted, needs team confirmation)
+
+# Action Items
+
+- **Split CIHI MH Services and Child Youth Services indicators by unit type**
+- **Patch Excel date corruption in the affected raw file**
+- **Assign individual tasks on Trello board**
