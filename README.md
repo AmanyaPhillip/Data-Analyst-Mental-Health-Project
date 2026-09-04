@@ -127,7 +127,7 @@ jupyter nbconvert --to notebook --execute --inplace notebooks/02_data_cleaning.i
 | Misa | Power BI, KPI definition | `suicidal_thoughts`, `perceived_mh_annual` |
 | Danny | Data wrangling | `mhacs_2022_pumf` |
 | Samir | Documentation, MHACS track | `stress_coping`, `cihi_mh_services` |
-| Jyothi | — | `perceived_health_quarterly` |
+| Jyothi | Data wrangling  | `perceived_health_quarterly` |
 | Rebal | — | `cihi_children_youth` |
 
 Everyone should be able to explain every phase of the pipeline, not only their own.
