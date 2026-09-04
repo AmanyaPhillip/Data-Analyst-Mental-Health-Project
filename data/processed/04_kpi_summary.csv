@@ -1,11 +1,11 @@
 kpi,value,data_source
-national_fair_poor_mh_latest_pct,11.9,SAMPLE (not real)
-national_fair_poor_mh_change_pp,0.7,SAMPLE (not real)
-highest_burden_province,Manitoba (12.6%),SAMPLE (not real)
-lowest_burden_province,Nova Scotia (11.1%),SAMPLE (not real)
-provinces_worsening_count,6,SAMPLE (not real)
-national_suicidal_thoughts_latest_pct,4.6,SAMPLE (not real)
-female_minus_male_fair_poor_mh_pp,0.7,SAMPLE (not real)
-provincial_spread_fair_poor_mh_pp,1.5,SAMPLE (not real)
-help_seeking_ratio_national,2.04,SAMPLE (not real)
-youth_ed_visit_rate_latest_per100k,1417.0,SAMPLE (not real)
+national_fair_poor_mh_latest_pct,15.3,Statistics Canada / CIHI Cleaned Pipeline
+highest_burden_province,Nova Scotia (19.7%),Statistics Canada / CIHI Cleaned Pipeline
+lowest_burden_province,Quebec (8.8%),Statistics Canada / CIHI Cleaned Pipeline
+provinces_worsening_count,10,Statistics Canada / CIHI Cleaned Pipeline
+national_suicidal_thoughts_latest_pct,12.1,Statistics Canada / CIHI Cleaned Pipeline
+female_minus_male_mood_disorder_pp,11.2,Statistics Canada / CIHI Cleaned Pipeline
+male_to_female_suicide_mortality_ratio,3.06,Statistics Canada / CIHI Cleaned Pipeline
+national_unassisted_crisis_headcount,39800,Statistics Canada / CIHI Cleaned Pipeline
+post_covid_adult_health_deterioration_millions,1.91,Statistics Canada / CIHI Cleaned Pipeline
+youth_ed_visit_rate_latest_per100k,128.6,Statistics Canada / CIHI Cleaned Pipeline

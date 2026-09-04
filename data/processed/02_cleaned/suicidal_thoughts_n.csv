@@ -1,0 +1,1112 @@
+ref_date_raw,start_year,geo,sex,age_group,indicator,value,ci_low,ci_high,uom,metric_type,quality_flag
+2015,2015,Alberta,Both sexes,12 to 17 years,Consultation with a health professional about emotional or mental health,38700.0,27500.0,49800.0,number,number,
+2015,2015,Alberta,Both sexes,12 to 17 years,"Positive mental health, flourishing",227300.0,215300.0,239200.0,number,number,
+2015,2015,Alberta,Both sexes,12 to 17 years,Suicidal thoughts (15 years and over),14900.0,8000.0,21800.0,number,number,E
+2015,2015,Alberta,Both sexes,18 to 34 years,Consultation with a health professional about emotional or mental health,192600.0,162800.0,222300.0,number,number,
+2015,2015,Alberta,Both sexes,18 to 34 years,"Positive mental health, flourishing",885500.0,855600.0,915300.0,number,number,
+2015,2015,Alberta,Both sexes,18 to 34 years,Suicidal thoughts (15 years and over),194000.0,165900.0,222100.0,number,number,
+2015,2015,Alberta,Both sexes,35 to 49 years,Consultation with a health professional about emotional or mental health,143600.0,119700.0,167600.0,number,number,
+2015,2015,Alberta,Both sexes,35 to 49 years,"Positive mental health, flourishing",723600.0,695900.0,751200.0,number,number,
+2015,2015,Alberta,Both sexes,35 to 49 years,Suicidal thoughts (15 years and over),122300.0,99300.0,145300.0,number,number,
+2015,2015,Alberta,Both sexes,50 to 64 years,Consultation with a health professional about emotional or mental health,104400.0,85900.0,122900.0,number,number,
+2015,2015,Alberta,Both sexes,50 to 64 years,"Positive mental health, flourishing",649900.0,625000.0,674800.0,number,number,
+2015,2015,Alberta,Both sexes,50 to 64 years,Suicidal thoughts (15 years and over),99500.0,80100.0,118900.0,number,number,
+2015,2015,Alberta,Both sexes,65 years and over,Consultation with a health professional about emotional or mental health,27700.0,19600.0,35800.0,number,number,
+2015,2015,Alberta,Both sexes,65 years and over,"Positive mental health, flourishing",344700.0,329000.0,360500.0,number,number,
+2015,2015,Alberta,Both sexes,65 years and over,Suicidal thoughts (15 years and over),41700.0,31200.0,52100.0,number,number,
+2015,2015,Alberta,Both sexes,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,506900.0,464100.0,549800.0,number,number,
+2015,2015,Alberta,Both sexes,"Total, 12 years and over","Positive mental health, flourishing",2830900.0,2780900.0,2880900.0,number,number,
+2015,2015,Alberta,Both sexes,"Total, 12 years and over",Suicidal thoughts (15 years and over),472400.0,428400.0,516300.0,number,number,
+2015,2015,Alberta,Females,12 to 17 years,Consultation with a health professional about emotional or mental health,23000.0,14200.0,31800.0,number,number,E
+2015,2015,Alberta,Females,12 to 17 years,"Positive mental health, flourishing",105000.0,95500.0,114600.0,number,number,
+2015,2015,Alberta,Females,12 to 17 years,Suicidal thoughts (15 years and over),10300.0,4200.0,16300.0,number,number,E
+2015,2015,Alberta,Females,18 to 34 years,Consultation with a health professional about emotional or mental health,134500.0,113800.0,155100.0,number,number,
+2015,2015,Alberta,Females,18 to 34 years,"Positive mental health, flourishing",426300.0,406000.0,446700.0,number,number,
+2015,2015,Alberta,Females,18 to 34 years,Suicidal thoughts (15 years and over),111300.0,91600.0,130900.0,number,number,
+2015,2015,Alberta,Females,35 to 49 years,Consultation with a health professional about emotional or mental health,85600.0,67800.0,103500.0,number,number,
+2015,2015,Alberta,Females,35 to 49 years,"Positive mental health, flourishing",349100.0,329400.0,368900.0,number,number,
+2015,2015,Alberta,Females,35 to 49 years,Suicidal thoughts (15 years and over),71300.0,53900.0,88700.0,number,number,
+2015,2015,Alberta,Females,50 to 64 years,Consultation with a health professional about emotional or mental health,66300.0,51000.0,81600.0,number,number,
+2015,2015,Alberta,Females,50 to 64 years,"Positive mental health, flourishing",311100.0,293100.0,329100.0,number,number,
+2015,2015,Alberta,Females,50 to 64 years,Suicidal thoughts (15 years and over),46000.0,35400.0,56600.0,number,number,
+2015,2015,Alberta,Females,65 years and over,Consultation with a health professional about emotional or mental health,21000.0,13900.0,28200.0,number,number,E
+2015,2015,Alberta,Females,65 years and over,"Positive mental health, flourishing",181100.0,168300.0,194000.0,number,number,
+2015,2015,Alberta,Females,65 years and over,Suicidal thoughts (15 years and over),26800.0,19100.0,34600.0,number,number,
+2015,2015,Alberta,Females,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,330400.0,298600.0,362200.0,number,number,
+2015,2015,Alberta,Females,"Total, 12 years and over","Positive mental health, flourishing",1372700.0,1336200.0,1409200.0,number,number,
+2015,2015,Alberta,Females,"Total, 12 years and over",Suicidal thoughts (15 years and over),265700.0,236800.0,294600.0,number,number,
+2015,2015,Alberta,Males,12 to 17 years,Consultation with a health professional about emotional or mental health,15600.0,8600.0,22600.0,number,number,E
+2015,2015,Alberta,Males,12 to 17 years,"Positive mental health, flourishing",122200.0,115500.0,128900.0,number,number,
+2015,2015,Alberta,Males,18 to 34 years,Consultation with a health professional about emotional or mental health,58100.0,37100.0,79100.0,number,number,E
+2015,2015,Alberta,Males,18 to 34 years,"Positive mental health, flourishing",459200.0,437500.0,480800.0,number,number,
+2015,2015,Alberta,Males,18 to 34 years,Suicidal thoughts (15 years and over),82700.0,62300.0,103200.0,number,number,
+2015,2015,Alberta,Males,35 to 49 years,Consultation with a health professional about emotional or mental health,58000.0,40300.0,75700.0,number,number,E
+2015,2015,Alberta,Males,35 to 49 years,"Positive mental health, flourishing",374400.0,353600.0,395200.0,number,number,
+2015,2015,Alberta,Males,35 to 49 years,Suicidal thoughts (15 years and over),51000.0,35200.0,66800.0,number,number,E
+2015,2015,Alberta,Males,50 to 64 years,Consultation with a health professional about emotional or mental health,38100.0,27100.0,49000.0,number,number,
+2015,2015,Alberta,Males,50 to 64 years,"Positive mental health, flourishing",338800.0,321500.0,356000.0,number,number,
+2015,2015,Alberta,Males,50 to 64 years,Suicidal thoughts (15 years and over),53500.0,37400.0,69600.0,number,number,E
+2015,2015,Alberta,Males,65 years and over,Consultation with a health professional about emotional or mental health,6700.0,2800.0,10600.0,number,number,E
+2015,2015,Alberta,Males,65 years and over,"Positive mental health, flourishing",163600.0,152700.0,174500.0,number,number,
+2015,2015,Alberta,Males,65 years and over,Suicidal thoughts (15 years and over),14800.0,8500.0,21100.0,number,number,E
+2015,2015,Alberta,Males,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,176500.0,146800.0,206300.0,number,number,
+2015,2015,Alberta,Males,"Total, 12 years and over","Positive mental health, flourishing",1458200.0,1423400.0,1493000.0,number,number,
+2015,2015,Alberta,Males,"Total, 12 years and over",Suicidal thoughts (15 years and over),206700.0,173900.0,239500.0,number,number,
+2015,2015,British Columbia,Both sexes,12 to 17 years,Consultation with a health professional about emotional or mental health,27600.0,18500.0,36600.0,number,number,E
+2015,2015,British Columbia,Both sexes,12 to 17 years,"Positive mental health, flourishing",231000.0,219300.0,242700.0,number,number,
+2015,2015,British Columbia,Both sexes,12 to 17 years,Suicidal thoughts (15 years and over),14000.0,7800.0,20100.0,number,number,E
+2015,2015,British Columbia,Both sexes,18 to 34 years,Consultation with a health professional about emotional or mental health,171100.0,141600.0,200700.0,number,number,
+2015,2015,British Columbia,Both sexes,18 to 34 years,"Positive mental health, flourishing",820300.0,786500.0,854100.0,number,number,
+2015,2015,British Columbia,Both sexes,18 to 34 years,Suicidal thoughts (15 years and over),142800.0,116700.0,168900.0,number,number,
+2015,2015,British Columbia,Both sexes,35 to 49 years,Consultation with a health professional about emotional or mental health,150200.0,126900.0,173600.0,number,number,
+2015,2015,British Columbia,Both sexes,35 to 49 years,"Positive mental health, flourishing",684400.0,653700.0,715100.0,number,number,
+2015,2015,British Columbia,Both sexes,35 to 49 years,Suicidal thoughts (15 years and over),123300.0,101800.0,144900.0,number,number,
+2015,2015,British Columbia,Both sexes,50 to 64 years,Consultation with a health professional about emotional or mental health,125100.0,104200.0,146000.0,number,number,
+2015,2015,British Columbia,Both sexes,50 to 64 years,"Positive mental health, flourishing",762700.0,731900.0,793600.0,number,number,
+2015,2015,British Columbia,Both sexes,50 to 64 years,Suicidal thoughts (15 years and over),125400.0,99700.0,151000.0,number,number,
+2015,2015,British Columbia,Both sexes,65 years and over,Consultation with a health professional about emotional or mental health,67100.0,54000.0,80300.0,number,number,
+2015,2015,British Columbia,Both sexes,65 years and over,"Positive mental health, flourishing",558200.0,535100.0,581300.0,number,number,
+2015,2015,British Columbia,Both sexes,65 years and over,Suicidal thoughts (15 years and over),63000.0,49700.0,76200.0,number,number,
+2015,2015,British Columbia,Both sexes,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,541200.0,494300.0,588100.0,number,number,
+2015,2015,British Columbia,Both sexes,"Total, 12 years and over","Positive mental health, flourishing",3056600.0,2994000.0,3119300.0,number,number,
+2015,2015,British Columbia,Both sexes,"Total, 12 years and over",Suicidal thoughts (15 years and over),468400.0,425600.0,511200.0,number,number,
+2015,2015,British Columbia,Females,12 to 17 years,Consultation with a health professional about emotional or mental health,20000.0,12000.0,28000.0,number,number,E
+2015,2015,British Columbia,Females,12 to 17 years,"Positive mental health, flourishing",121300.0,115000.0,127600.0,number,number,
+2015,2015,British Columbia,Females,12 to 17 years,Suicidal thoughts (15 years and over),6600.0,2600.0,10600.0,number,number,E
+2015,2015,British Columbia,Females,18 to 34 years,Consultation with a health professional about emotional or mental health,120500.0,96000.0,145000.0,number,number,
+2015,2015,British Columbia,Females,18 to 34 years,"Positive mental health, flourishing",412600.0,391000.0,434300.0,number,number,
+2015,2015,British Columbia,Females,18 to 34 years,Suicidal thoughts (15 years and over),82400.0,62700.0,102000.0,number,number,
+2015,2015,British Columbia,Females,35 to 49 years,Consultation with a health professional about emotional or mental health,100100.0,81600.0,118500.0,number,number,
+2015,2015,British Columbia,Females,35 to 49 years,"Positive mental health, flourishing",366800.0,347500.0,386200.0,number,number,
+2015,2015,British Columbia,Females,35 to 49 years,Suicidal thoughts (15 years and over),82800.0,64900.0,100700.0,number,number,
+2015,2015,British Columbia,Females,50 to 64 years,Consultation with a health professional about emotional or mental health,78300.0,62400.0,94200.0,number,number,
+2015,2015,British Columbia,Females,50 to 64 years,"Positive mental health, flourishing",378000.0,356400.0,399700.0,number,number,
+2015,2015,British Columbia,Females,50 to 64 years,Suicidal thoughts (15 years and over),68100.0,51200.0,85000.0,number,number,
+2015,2015,British Columbia,Females,65 years and over,Consultation with a health professional about emotional or mental health,51500.0,40000.0,63000.0,number,number,
+2015,2015,British Columbia,Females,65 years and over,"Positive mental health, flourishing",305600.0,288800.0,322400.0,number,number,
+2015,2015,British Columbia,Females,65 years and over,Suicidal thoughts (15 years and over),38700.0,29200.0,48300.0,number,number,
+2015,2015,British Columbia,Females,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,370400.0,334300.0,406500.0,number,number,
+2015,2015,British Columbia,Females,"Total, 12 years and over","Positive mental health, flourishing",1584400.0,1542500.0,1626300.0,number,number,
+2015,2015,British Columbia,Females,"Total, 12 years and over",Suicidal thoughts (15 years and over),278600.0,244800.0,312400.0,number,number,
+2015,2015,British Columbia,Males,12 to 17 years,Consultation with a health professional about emotional or mental health,7600.0,3200.0,11900.0,number,number,E
+2015,2015,British Columbia,Males,12 to 17 years,"Positive mental health, flourishing",109700.0,99600.0,119700.0,number,number,
+2015,2015,British Columbia,Males,12 to 17 years,Suicidal thoughts (15 years and over),7400.0,2300.0,12400.0,number,number,E
+2015,2015,British Columbia,Males,18 to 34 years,Consultation with a health professional about emotional or mental health,50600.0,35500.0,65700.0,number,number,E
+2015,2015,British Columbia,Males,18 to 34 years,"Positive mental health, flourishing",407700.0,383200.0,432100.0,number,number,
+2015,2015,British Columbia,Males,18 to 34 years,Suicidal thoughts (15 years and over),60400.0,42500.0,78400.0,number,number,E
+2015,2015,British Columbia,Males,35 to 49 years,Consultation with a health professional about emotional or mental health,50100.0,37100.0,63200.0,number,number,
+2015,2015,British Columbia,Males,35 to 49 years,"Positive mental health, flourishing",317600.0,293700.0,341500.0,number,number,
+2015,2015,British Columbia,Males,35 to 49 years,Suicidal thoughts (15 years and over),40500.0,28000.0,53000.0,number,number,E
+2015,2015,British Columbia,Males,50 to 64 years,Consultation with a health professional about emotional or mental health,46800.0,32400.0,61200.0,number,number,E
+2015,2015,British Columbia,Males,50 to 64 years,"Positive mental health, flourishing",384700.0,364300.0,405100.0,number,number,
+2015,2015,British Columbia,Males,50 to 64 years,Suicidal thoughts (15 years and over),57300.0,39200.0,75400.0,number,number,E
+2015,2015,British Columbia,Males,65 years and over,Consultation with a health professional about emotional or mental health,15600.0,9800.0,21500.0,number,number,E
+2015,2015,British Columbia,Males,65 years and over,"Positive mental health, flourishing",252600.0,236800.0,268400.0,number,number,
+2015,2015,British Columbia,Males,65 years and over,Suicidal thoughts (15 years and over),24200.0,15500.0,33000.0,number,number,E
+2015,2015,British Columbia,Males,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,170800.0,144000.0,197500.0,number,number,
+2015,2015,British Columbia,Males,"Total, 12 years and over","Positive mental health, flourishing",1472200.0,1426000.0,1518400.0,number,number,
+2015,2015,British Columbia,Males,"Total, 12 years and over",Suicidal thoughts (15 years and over),189800.0,159500.0,220100.0,number,number,
+2015,2015,Canada (excluding territories),Both sexes,12 to 17 years,Consultation with a health professional about emotional or mental health,239300.0,208500.0,270100.0,number,number,
+2015,2015,Canada (excluding territories),Both sexes,12 to 17 years,"Positive mental health, flourishing",1837900.0,1800900.0,1874900.0,number,number,
+2015,2015,Canada (excluding territories),Both sexes,12 to 17 years,Suicidal thoughts (15 years and over),108600.0,90300.0,127000.0,number,number,
+2015,2015,Canada (excluding territories),Both sexes,18 to 34 years,Consultation with a health professional about emotional or mental health,1346900.0,1252600.0,1441300.0,number,number,
+2015,2015,Canada (excluding territories),Both sexes,18 to 34 years,"Positive mental health, flourishing",6434400.0,6330900.0,6538000.0,number,number,
+2015,2015,Canada (excluding territories),Both sexes,18 to 34 years,Suicidal thoughts (15 years and over),1144200.0,1061000.0,1227400.0,number,number,
+2015,2015,Canada (excluding territories),Both sexes,35 to 49 years,Consultation with a health professional about emotional or mental health,1118200.0,1047000.0,1189400.0,number,number,
+2015,2015,Canada (excluding territories),Both sexes,35 to 49 years,"Positive mental health, flourishing",5599600.0,5511200.0,5687900.0,number,number,
+2015,2015,Canada (excluding territories),Both sexes,35 to 49 years,Suicidal thoughts (15 years and over),873200.0,809000.0,937300.0,number,number,
+2015,2015,Canada (excluding territories),Both sexes,50 to 64 years,Consultation with a health professional about emotional or mental health,982400.0,915700.0,1049100.0,number,number,
+2015,2015,Canada (excluding territories),Both sexes,50 to 64 years,"Positive mental health, flourishing",5940400.0,5854300.0,6026600.0,number,number,
+2015,2015,Canada (excluding territories),Both sexes,50 to 64 years,Suicidal thoughts (15 years and over),900000.0,836200.0,963800.0,number,number,
+2015,2015,Canada (excluding territories),Both sexes,65 years and over,Consultation with a health professional about emotional or mental health,395300.0,359200.0,431500.0,number,number,
+2015,2015,Canada (excluding territories),Both sexes,65 years and over,"Positive mental health, flourishing",3935900.0,3865600.0,4006200.0,number,number,
+2015,2015,Canada (excluding territories),Both sexes,65 years and over,Suicidal thoughts (15 years and over),370700.0,339400.0,402000.0,number,number,
+2015,2015,Canada (excluding territories),Both sexes,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,4082100.0,3933800.0,4230400.0,number,number,
+2015,2015,Canada (excluding territories),Both sexes,"Total, 12 years and over","Positive mental health, flourishing",23748100.0,23562600.0,23933700.0,number,number,
+2015,2015,Canada (excluding territories),Both sexes,"Total, 12 years and over",Suicidal thoughts (15 years and over),3396700.0,3255600.0,3537700.0,number,number,
+2015,2015,Canada (excluding territories),Females,12 to 17 years,Consultation with a health professional about emotional or mental health,144900.0,121900.0,167900.0,number,number,
+2015,2015,Canada (excluding territories),Females,12 to 17 years,"Positive mental health, flourishing",881300.0,855300.0,907300.0,number,number,
+2015,2015,Canada (excluding territories),Females,12 to 17 years,Suicidal thoughts (15 years and over),67500.0,53300.0,81800.0,number,number,
+2015,2015,Canada (excluding territories),Females,18 to 34 years,Consultation with a health professional about emotional or mental health,906700.0,834400.0,978900.0,number,number,
+2015,2015,Canada (excluding territories),Females,18 to 34 years,"Positive mental health, flourishing",3164700.0,3092400.0,3237000.0,number,number,
+2015,2015,Canada (excluding territories),Females,18 to 34 years,Suicidal thoughts (15 years and over),656700.0,594600.0,718800.0,number,number,
+2015,2015,Canada (excluding territories),Females,35 to 49 years,Consultation with a health professional about emotional or mental health,705700.0,651100.0,760300.0,number,number,
+2015,2015,Canada (excluding territories),Females,35 to 49 years,"Positive mental health, flourishing",2857400.0,2799000.0,2915800.0,number,number,
+2015,2015,Canada (excluding territories),Females,35 to 49 years,Suicidal thoughts (15 years and over),509000.0,458100.0,559900.0,number,number,
+2015,2015,Canada (excluding territories),Females,50 to 64 years,Consultation with a health professional about emotional or mental health,644600.0,592100.0,697100.0,number,number,
+2015,2015,Canada (excluding territories),Females,50 to 64 years,"Positive mental health, flourishing",2973800.0,2918200.0,3029400.0,number,number,
+2015,2015,Canada (excluding territories),Females,50 to 64 years,Suicidal thoughts (15 years and over),497600.0,455800.0,539500.0,number,number,
+2015,2015,Canada (excluding territories),Females,65 years and over,Consultation with a health professional about emotional or mental health,274300.0,244200.0,304500.0,number,number,
+2015,2015,Canada (excluding territories),Females,65 years and over,"Positive mental health, flourishing",2133100.0,2083200.0,2183000.0,number,number,
+2015,2015,Canada (excluding territories),Females,65 years and over,Suicidal thoughts (15 years and over),220000.0,196900.0,243000.0,number,number,
+2015,2015,Canada (excluding territories),Females,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,2676200.0,2561600.0,2790700.0,number,number,
+2015,2015,Canada (excluding territories),Females,"Total, 12 years and over","Positive mental health, flourishing",12010300.0,11885800.0,12134800.0,number,number,
+2015,2015,Canada (excluding territories),Females,"Total, 12 years and over",Suicidal thoughts (15 years and over),1950800.0,1850800.0,2050900.0,number,number,
+2015,2015,Canada (excluding territories),Males,12 to 17 years,Consultation with a health professional about emotional or mental health,94400.0,73500.0,115400.0,number,number,
+2015,2015,Canada (excluding territories),Males,12 to 17 years,"Positive mental health, flourishing",956500.0,928500.0,984600.0,number,number,
+2015,2015,Canada (excluding territories),Males,12 to 17 years,Suicidal thoughts (15 years and over),41100.0,29200.0,52900.0,number,number,
+2015,2015,Canada (excluding territories),Males,18 to 34 years,Consultation with a health professional about emotional or mental health,440300.0,382000.0,498500.0,number,number,
+2015,2015,Canada (excluding territories),Males,18 to 34 years,"Positive mental health, flourishing",3269700.0,3196600.0,3342800.0,number,number,
+2015,2015,Canada (excluding territories),Males,18 to 34 years,Suicidal thoughts (15 years and over),487500.0,434100.0,541000.0,number,number,
+2015,2015,Canada (excluding territories),Males,35 to 49 years,Consultation with a health professional about emotional or mental health,412400.0,366000.0,458900.0,number,number,
+2015,2015,Canada (excluding territories),Males,35 to 49 years,"Positive mental health, flourishing",2742200.0,2676800.0,2807500.0,number,number,
+2015,2015,Canada (excluding territories),Males,35 to 49 years,Suicidal thoughts (15 years and over),364200.0,324400.0,403900.0,number,number,
+2015,2015,Canada (excluding territories),Males,50 to 64 years,Consultation with a health professional about emotional or mental health,337800.0,298000.0,377500.0,number,number,
+2015,2015,Canada (excluding territories),Males,50 to 64 years,"Positive mental health, flourishing",2966600.0,2903800.0,3029500.0,number,number,
+2015,2015,Canada (excluding territories),Males,50 to 64 years,Suicidal thoughts (15 years and over),402300.0,356000.0,448700.0,number,number,
+2015,2015,Canada (excluding territories),Males,65 years and over,Consultation with a health professional about emotional or mental health,121000.0,102100.0,140000.0,number,number,
+2015,2015,Canada (excluding territories),Males,65 years and over,"Positive mental health, flourishing",1802800.0,1753000.0,1852600.0,number,number,
+2015,2015,Canada (excluding territories),Males,65 years and over,Suicidal thoughts (15 years and over),150700.0,128900.0,172600.0,number,number,
+2015,2015,Canada (excluding territories),Males,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,1406000.0,1316300.0,1495600.0,number,number,
+2015,2015,Canada (excluding territories),Males,"Total, 12 years and over","Positive mental health, flourishing",11737800.0,11609200.0,11866400.0,number,number,
+2015,2015,Canada (excluding territories),Males,"Total, 12 years and over",Suicidal thoughts (15 years and over),1445800.0,1354900.0,1536800.0,number,number,
+2015,2015,Manitoba,Both sexes,12 to 17 years,Consultation with a health professional about emotional or mental health,10800.0,6300.0,15300.0,number,number,E
+2015,2015,Manitoba,Both sexes,12 to 17 years,"Positive mental health, flourishing",73100.0,68400.0,77900.0,number,number,
+2015,2015,Manitoba,Both sexes,12 to 17 years,Suicidal thoughts (15 years and over),5600.0,2300.0,8900.0,number,number,E
+2015,2015,Manitoba,Both sexes,18 to 34 years,Consultation with a health professional about emotional or mental health,36500.0,26000.0,47000.0,number,number,
+2015,2015,Manitoba,Both sexes,18 to 34 years,"Positive mental health, flourishing",222600.0,208200.0,237000.0,number,number,
+2015,2015,Manitoba,Both sexes,18 to 34 years,Suicidal thoughts (15 years and over),37400.0,25600.0,49300.0,number,number,E
+2015,2015,Manitoba,Both sexes,35 to 49 years,Consultation with a health professional about emotional or mental health,44800.0,32800.0,56700.0,number,number,
+2015,2015,Manitoba,Both sexes,35 to 49 years,"Positive mental health, flourishing",195400.0,186200.0,204600.0,number,number,
+2015,2015,Manitoba,Both sexes,35 to 49 years,Suicidal thoughts (15 years and over),33900.0,24800.0,43000.0,number,number,
+2015,2015,Manitoba,Both sexes,50 to 64 years,Consultation with a health professional about emotional or mental health,31100.0,23300.0,38900.0,number,number,
+2015,2015,Manitoba,Both sexes,50 to 64 years,"Positive mental health, flourishing",199000.0,188200.0,209700.0,number,number,
+2015,2015,Manitoba,Both sexes,50 to 64 years,Suicidal thoughts (15 years and over),27200.0,19400.0,35000.0,number,number,
+2015,2015,Manitoba,Both sexes,65 years and over,Consultation with a health professional about emotional or mental health,13900.0,9300.0,18500.0,number,number,E
+2015,2015,Manitoba,Both sexes,65 years and over,"Positive mental health, flourishing",128700.0,120000.0,137300.0,number,number,
+2015,2015,Manitoba,Both sexes,65 years and over,Suicidal thoughts (15 years and over),9000.0,5700.0,12300.0,number,number,E
+2015,2015,Manitoba,Both sexes,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,137000.0,119600.0,154500.0,number,number,
+2015,2015,Manitoba,Both sexes,"Total, 12 years and over","Positive mental health, flourishing",818800.0,795400.0,842100.0,number,number,
+2015,2015,Manitoba,Both sexes,"Total, 12 years and over",Suicidal thoughts (15 years and over),113100.0,95200.0,131100.0,number,number,
+2015,2015,Manitoba,Females,12 to 17 years,Consultation with a health professional about emotional or mental health,6500.0,3100.0,9800.0,number,number,E
+2015,2015,Manitoba,Females,12 to 17 years,"Positive mental health, flourishing",33200.0,29400.0,37000.0,number,number,
+2015,2015,Manitoba,Females,12 to 17 years,Suicidal thoughts (15 years and over),4200.0,1400.0,7000.0,number,number,E
+2015,2015,Manitoba,Females,18 to 34 years,Consultation with a health professional about emotional or mental health,27200.0,18100.0,36400.0,number,number,E
+2015,2015,Manitoba,Females,18 to 34 years,"Positive mental health, flourishing",110400.0,100600.0,120100.0,number,number,
+2015,2015,Manitoba,Females,18 to 34 years,Suicidal thoughts (15 years and over),19600.0,11400.0,27800.0,number,number,E
+2015,2015,Manitoba,Females,35 to 49 years,Consultation with a health professional about emotional or mental health,26600.0,18800.0,34400.0,number,number,
+2015,2015,Manitoba,Females,35 to 49 years,"Positive mental health, flourishing",102200.0,96600.0,107700.0,number,number,
+2015,2015,Manitoba,Females,35 to 49 years,Suicidal thoughts (15 years and over),18900.0,11400.0,26400.0,number,number,E
+2015,2015,Manitoba,Females,50 to 64 years,Consultation with a health professional about emotional or mental health,21200.0,15100.0,27300.0,number,number,
+2015,2015,Manitoba,Females,50 to 64 years,"Positive mental health, flourishing",97600.0,90700.0,104400.0,number,number,
+2015,2015,Manitoba,Females,50 to 64 years,Suicidal thoughts (15 years and over),13700.0,8500.0,18800.0,number,number,E
+2015,2015,Manitoba,Females,65 years and over,Consultation with a health professional about emotional or mental health,9000.0,5300.0,12700.0,number,number,E
+2015,2015,Manitoba,Females,65 years and over,"Positive mental health, flourishing",68000.0,62000.0,74000.0,number,number,
+2015,2015,Manitoba,Females,65 years and over,Suicidal thoughts (15 years and over),5900.0,3000.0,8800.0,number,number,E
+2015,2015,Manitoba,Females,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,90500.0,76900.0,104100.0,number,number,
+2015,2015,Manitoba,Females,"Total, 12 years and over","Positive mental health, flourishing",411300.0,396400.0,426300.0,number,number,
+2015,2015,Manitoba,Females,"Total, 12 years and over",Suicidal thoughts (15 years and over),62200.0,49500.0,74800.0,number,number,
+2015,2015,Manitoba,Males,12 to 17 years,"Positive mental health, flourishing",39900.0,37000.0,42800.0,number,number,
+2015,2015,Manitoba,Males,18 to 34 years,Consultation with a health professional about emotional or mental health,9200.0,4400.0,14000.0,number,number,E
+2015,2015,Manitoba,Males,18 to 34 years,"Positive mental health, flourishing",112200.0,101000.0,123400.0,number,number,
+2015,2015,Manitoba,Males,18 to 34 years,Suicidal thoughts (15 years and over),17900.0,10600.0,25100.0,number,number,E
+2015,2015,Manitoba,Males,35 to 49 years,Consultation with a health professional about emotional or mental health,18200.0,9800.0,26500.0,number,number,E
+2015,2015,Manitoba,Males,35 to 49 years,"Positive mental health, flourishing",93200.0,85900.0,100600.0,number,number,
+2015,2015,Manitoba,Males,35 to 49 years,Suicidal thoughts (15 years and over),15000.0,8900.0,21100.0,number,number,E
+2015,2015,Manitoba,Males,50 to 64 years,Consultation with a health professional about emotional or mental health,9900.0,5300.0,14500.0,number,number,E
+2015,2015,Manitoba,Males,50 to 64 years,"Positive mental health, flourishing",101400.0,93100.0,109600.0,number,number,
+2015,2015,Manitoba,Males,50 to 64 years,Suicidal thoughts (15 years and over),13500.0,7600.0,19400.0,number,number,E
+2015,2015,Manitoba,Males,65 years and over,Consultation with a health professional about emotional or mental health,4900.0,2200.0,7600.0,number,number,E
+2015,2015,Manitoba,Males,65 years and over,"Positive mental health, flourishing",60700.0,55000.0,66400.0,number,number,
+2015,2015,Manitoba,Males,65 years and over,Suicidal thoughts (15 years and over),3100.0,1400.0,4800.0,number,number,E
+2015,2015,Manitoba,Males,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,46500.0,35300.0,57700.0,number,number,
+2015,2015,Manitoba,Males,"Total, 12 years and over","Positive mental health, flourishing",407400.0,390500.0,424400.0,number,number,
+2015,2015,Manitoba,Males,"Total, 12 years and over",Suicidal thoughts (15 years and over),51000.0,39000.0,62900.0,number,number,
+2015,2015,New Brunswick,Both sexes,12 to 17 years,"Positive mental health, flourishing",38800.0,35700.0,41900.0,number,number,
+2015,2015,New Brunswick,Both sexes,18 to 34 years,Consultation with a health professional about emotional or mental health,35000.0,25500.0,44500.0,number,number,
+2015,2015,New Brunswick,Both sexes,18 to 34 years,"Positive mental health, flourishing",116300.0,108200.0,124400.0,number,number,
+2015,2015,New Brunswick,Both sexes,18 to 34 years,Suicidal thoughts (15 years and over),27500.0,19300.0,35700.0,number,number,E
+2015,2015,New Brunswick,Both sexes,35 to 49 years,Consultation with a health professional about emotional or mental health,23400.0,16300.0,30600.0,number,number,E
+2015,2015,New Brunswick,Both sexes,35 to 49 years,"Positive mental health, flourishing",114800.0,106200.0,123400.0,number,number,
+2015,2015,New Brunswick,Both sexes,35 to 49 years,Suicidal thoughts (15 years and over),23900.0,16000.0,31800.0,number,number,E
+2015,2015,New Brunswick,Both sexes,50 to 64 years,Consultation with a health professional about emotional or mental health,29800.0,21800.0,37800.0,number,number,
+2015,2015,New Brunswick,Both sexes,50 to 64 years,"Positive mental health, flourishing",138600.0,130400.0,146900.0,number,number,
+2015,2015,New Brunswick,Both sexes,50 to 64 years,Suicidal thoughts (15 years and over),22700.0,15900.0,29500.0,number,number,E
+2015,2015,New Brunswick,Both sexes,65 years and over,Consultation with a health professional about emotional or mental health,9300.0,5600.0,13100.0,number,number,E
+2015,2015,New Brunswick,Both sexes,65 years and over,"Positive mental health, flourishing",104700.0,97700.0,111700.0,number,number,
+2015,2015,New Brunswick,Both sexes,65 years and over,Suicidal thoughts (15 years and over),8300.0,4500.0,12200.0,number,number,E
+2015,2015,New Brunswick,Both sexes,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,101600.0,86300.0,116900.0,number,number,
+2015,2015,New Brunswick,Both sexes,"Total, 12 years and over","Positive mental health, flourishing",513200.0,496700.0,529800.0,number,number,
+2015,2015,New Brunswick,Both sexes,"Total, 12 years and over",Suicidal thoughts (15 years and over),83500.0,69600.0,97400.0,number,number,
+2015,2015,New Brunswick,Females,12 to 17 years,"Positive mental health, flourishing",19000.0,16900.0,21100.0,number,number,
+2015,2015,New Brunswick,Females,18 to 34 years,Consultation with a health professional about emotional or mental health,24400.0,17600.0,31200.0,number,number,
+2015,2015,New Brunswick,Females,18 to 34 years,"Positive mental health, flourishing",55200.0,49500.0,61000.0,number,number,
+2015,2015,New Brunswick,Females,18 to 34 years,Suicidal thoughts (15 years and over),16100.0,9800.0,22400.0,number,number,E
+2015,2015,New Brunswick,Females,35 to 49 years,Consultation with a health professional about emotional or mental health,17700.0,11100.0,24300.0,number,number,E
+2015,2015,New Brunswick,Females,35 to 49 years,"Positive mental health, flourishing",62800.0,57400.0,68200.0,number,number,
+2015,2015,New Brunswick,Females,35 to 49 years,Suicidal thoughts (15 years and over),13400.0,7600.0,19200.0,number,number,E
+2015,2015,New Brunswick,Females,50 to 64 years,Consultation with a health professional about emotional or mental health,20100.0,13900.0,26300.0,number,number,E
+2015,2015,New Brunswick,Females,50 to 64 years,"Positive mental health, flourishing",70700.0,64900.0,76600.0,number,number,
+2015,2015,New Brunswick,Females,50 to 64 years,Suicidal thoughts (15 years and over),10000.0,6100.0,13900.0,number,number,E
+2015,2015,New Brunswick,Females,65 years and over,Consultation with a health professional about emotional or mental health,7200.0,3900.0,10400.0,number,number,E
+2015,2015,New Brunswick,Females,65 years and over,"Positive mental health, flourishing",59500.0,55400.0,63500.0,number,number,
+2015,2015,New Brunswick,Females,65 years and over,Suicidal thoughts (15 years and over),4400.0,1800.0,6900.0,number,number,E
+2015,2015,New Brunswick,Females,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,71600.0,59100.0,84000.0,number,number,
+2015,2015,New Brunswick,Females,"Total, 12 years and over","Positive mental health, flourishing",267200.0,256300.0,278200.0,number,number,
+2015,2015,New Brunswick,Females,"Total, 12 years and over",Suicidal thoughts (15 years and over),44900.0,35300.0,54600.0,number,number,
+2015,2015,New Brunswick,Males,12 to 17 years,"Positive mental health, flourishing",19800.0,17400.0,22200.0,number,number,
+2015,2015,New Brunswick,Males,18 to 34 years,Consultation with a health professional about emotional or mental health,10600.0,3900.0,17400.0,number,number,E
+2015,2015,New Brunswick,Males,18 to 34 years,"Positive mental health, flourishing",61100.0,55200.0,66900.0,number,number,
+2015,2015,New Brunswick,Males,18 to 34 years,Suicidal thoughts (15 years and over),11400.0,5600.0,17200.0,number,number,E
+2015,2015,New Brunswick,Males,35 to 49 years,Consultation with a health professional about emotional or mental health,5800.0,2400.0,9100.0,number,number,E
+2015,2015,New Brunswick,Males,35 to 49 years,"Positive mental health, flourishing",52000.0,45100.0,58800.0,number,number,
+2015,2015,New Brunswick,Males,35 to 49 years,Suicidal thoughts (15 years and over),10500.0,4800.0,16100.0,number,number,E
+2015,2015,New Brunswick,Males,50 to 64 years,Consultation with a health professional about emotional or mental health,9700.0,5200.0,14300.0,number,number,E
+2015,2015,New Brunswick,Males,50 to 64 years,"Positive mental health, flourishing",67900.0,61600.0,74200.0,number,number,
+2015,2015,New Brunswick,Males,50 to 64 years,Suicidal thoughts (15 years and over),12800.0,7600.0,17900.0,number,number,E
+2015,2015,New Brunswick,Males,65 years and over,"Positive mental health, flourishing",45300.0,40100.0,50500.0,number,number,
+2015,2015,New Brunswick,Males,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,30100.0,20600.0,39600.0,number,number,E
+2015,2015,New Brunswick,Males,"Total, 12 years and over","Positive mental health, flourishing",246000.0,233600.0,258300.0,number,number,
+2015,2015,New Brunswick,Males,"Total, 12 years and over",Suicidal thoughts (15 years and over),38600.0,28700.0,48500.0,number,number,
+2015,2015,Newfoundland and Labrador,Both sexes,12 to 17 years,Consultation with a health professional about emotional or mental health,3500.0,1700.0,5400.0,number,number,E
+2015,2015,Newfoundland and Labrador,Both sexes,12 to 17 years,"Positive mental health, flourishing",28700.0,27200.0,30200.0,number,number,
+2015,2015,Newfoundland and Labrador,Both sexes,18 to 34 years,Consultation with a health professional about emotional or mental health,22900.0,16100.0,29600.0,number,number,E
+2015,2015,Newfoundland and Labrador,Both sexes,18 to 34 years,"Positive mental health, flourishing",72300.0,64200.0,80400.0,number,number,
+2015,2015,Newfoundland and Labrador,Both sexes,18 to 34 years,Suicidal thoughts (15 years and over),19600.0,12800.0,26500.0,number,number,E
+2015,2015,Newfoundland and Labrador,Both sexes,35 to 49 years,Consultation with a health professional about emotional or mental health,18000.0,12300.0,23700.0,number,number,E
+2015,2015,Newfoundland and Labrador,Both sexes,35 to 49 years,"Positive mental health, flourishing",89200.0,83200.0,95300.0,number,number,
+2015,2015,Newfoundland and Labrador,Both sexes,35 to 49 years,Suicidal thoughts (15 years and over),8500.0,3900.0,13000.0,number,number,E
+2015,2015,Newfoundland and Labrador,Both sexes,50 to 64 years,Consultation with a health professional about emotional or mental health,12400.0,7900.0,16900.0,number,number,E
+2015,2015,Newfoundland and Labrador,Both sexes,50 to 64 years,"Positive mental health, flourishing",105900.0,100100.0,111700.0,number,number,
+2015,2015,Newfoundland and Labrador,Both sexes,50 to 64 years,Suicidal thoughts (15 years and over),6100.0,3600.0,8500.0,number,number,E
+2015,2015,Newfoundland and Labrador,Both sexes,65 years and over,Consultation with a health professional about emotional or mental health,5700.0,2700.0,8700.0,number,number,E
+2015,2015,Newfoundland and Labrador,Both sexes,65 years and over,"Positive mental health, flourishing",76500.0,72600.0,80400.0,number,number,
+2015,2015,Newfoundland and Labrador,Both sexes,65 years and over,Suicidal thoughts (15 years and over),2900.0,1200.0,4700.0,number,number,E
+2015,2015,Newfoundland and Labrador,Both sexes,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,62500.0,52100.0,72900.0,number,number,
+2015,2015,Newfoundland and Labrador,Both sexes,"Total, 12 years and over","Positive mental health, flourishing",372600.0,360600.0,384600.0,number,number,
+2015,2015,Newfoundland and Labrador,Both sexes,"Total, 12 years and over",Suicidal thoughts (15 years and over),38600.0,30200.0,47000.0,number,number,
+2015,2015,Newfoundland and Labrador,Females,12 to 17 years,"Positive mental health, flourishing",13400.0,11800.0,15000.0,number,number,
+2015,2015,Newfoundland and Labrador,Females,18 to 34 years,Consultation with a health professional about emotional or mental health,13600.0,9100.0,18100.0,number,number,E
+2015,2015,Newfoundland and Labrador,Females,18 to 34 years,"Positive mental health, flourishing",38200.0,33300.0,43100.0,number,number,
+2015,2015,Newfoundland and Labrador,Females,18 to 34 years,Suicidal thoughts (15 years and over),10300.0,6000.0,14500.0,number,number,E
+2015,2015,Newfoundland and Labrador,Females,35 to 49 years,Consultation with a health professional about emotional or mental health,13300.0,8300.0,18300.0,number,number,E
+2015,2015,Newfoundland and Labrador,Females,35 to 49 years,"Positive mental health, flourishing",46000.0,42400.0,49700.0,number,number,
+2015,2015,Newfoundland and Labrador,Females,35 to 49 years,Suicidal thoughts (15 years and over),6500.0,2900.0,10000.0,number,number,E
+2015,2015,Newfoundland and Labrador,Females,50 to 64 years,Consultation with a health professional about emotional or mental health,8900.0,5100.0,12800.0,number,number,E
+2015,2015,Newfoundland and Labrador,Females,50 to 64 years,"Positive mental health, flourishing",54500.0,51100.0,58000.0,number,number,
+2015,2015,Newfoundland and Labrador,Females,50 to 64 years,Suicidal thoughts (15 years and over),2800.0,1300.0,4300.0,number,number,E
+2015,2015,Newfoundland and Labrador,Females,65 years and over,Consultation with a health professional about emotional or mental health,4300.0,2000.0,6600.0,number,number,E
+2015,2015,Newfoundland and Labrador,Females,65 years and over,"Positive mental health, flourishing",40300.0,37500.0,43200.0,number,number,
+2015,2015,Newfoundland and Labrador,Females,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,42300.0,33700.0,50900.0,number,number,
+2015,2015,Newfoundland and Labrador,Females,"Total, 12 years and over","Positive mental health, flourishing",192400.0,184700.0,200100.0,number,number,
+2015,2015,Newfoundland and Labrador,Females,"Total, 12 years and over",Suicidal thoughts (15 years and over),22500.0,16700.0,28300.0,number,number,
+2015,2015,Newfoundland and Labrador,Males,12 to 17 years,"Positive mental health, flourishing",15400.0,14000.0,16700.0,number,number,
+2015,2015,Newfoundland and Labrador,Males,18 to 34 years,Consultation with a health professional about emotional or mental health,9300.0,4400.0,14100.0,number,number,E
+2015,2015,Newfoundland and Labrador,Males,18 to 34 years,"Positive mental health, flourishing",34100.0,27900.0,40200.0,number,number,
+2015,2015,Newfoundland and Labrador,Males,18 to 34 years,Suicidal thoughts (15 years and over),9400.0,4100.0,14600.0,number,number,E
+2015,2015,Newfoundland and Labrador,Males,35 to 49 years,Consultation with a health professional about emotional or mental health,4700.0,1600.0,7700.0,number,number,E
+2015,2015,Newfoundland and Labrador,Males,35 to 49 years,"Positive mental health, flourishing",43200.0,38500.0,47900.0,number,number,
+2015,2015,Newfoundland and Labrador,Males,50 to 64 years,"Positive mental health, flourishing",51400.0,46600.0,56200.0,number,number,
+2015,2015,Newfoundland and Labrador,Males,50 to 64 years,Suicidal thoughts (15 years and over),3200.0,1200.0,5300.0,number,number,E
+2015,2015,Newfoundland and Labrador,Males,65 years and over,"Positive mental health, flourishing",36200.0,33400.0,39000.0,number,number,
+2015,2015,Newfoundland and Labrador,Males,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,20200.0,14100.0,26200.0,number,number,E
+2015,2015,Newfoundland and Labrador,Males,"Total, 12 years and over","Positive mental health, flourishing",180200.0,170500.0,189900.0,number,number,
+2015,2015,Newfoundland and Labrador,Males,"Total, 12 years and over",Suicidal thoughts (15 years and over),16100.0,10200.0,22000.0,number,number,E
+2015,2015,Nova Scotia,Both sexes,12 to 17 years,Consultation with a health professional about emotional or mental health,8800.0,5500.0,12100.0,number,number,E
+2015,2015,Nova Scotia,Both sexes,12 to 17 years,"Positive mental health, flourishing",49600.0,46700.0,52500.0,number,number,
+2015,2015,Nova Scotia,Both sexes,18 to 34 years,Consultation with a health professional about emotional or mental health,36700.0,26300.0,47100.0,number,number,
+2015,2015,Nova Scotia,Both sexes,18 to 34 years,"Positive mental health, flourishing",151000.0,139300.0,162700.0,number,number,
+2015,2015,Nova Scotia,Both sexes,18 to 34 years,Suicidal thoughts (15 years and over),29000.0,18900.0,39200.0,number,number,E
+2015,2015,Nova Scotia,Both sexes,35 to 49 years,Consultation with a health professional about emotional or mental health,39100.0,30400.0,47800.0,number,number,
+2015,2015,Nova Scotia,Both sexes,35 to 49 years,"Positive mental health, flourishing",144300.0,136500.0,152200.0,number,number,
+2015,2015,Nova Scotia,Both sexes,35 to 49 years,Suicidal thoughts (15 years and over),22800.0,15800.0,29800.0,number,number,E
+2015,2015,Nova Scotia,Both sexes,50 to 64 years,Consultation with a health professional about emotional or mental health,33500.0,25100.0,41800.0,number,number,
+2015,2015,Nova Scotia,Both sexes,50 to 64 years,"Positive mental health, flourishing",176000.0,166600.0,185400.0,number,number,
+2015,2015,Nova Scotia,Both sexes,50 to 64 years,Suicidal thoughts (15 years and over),20400.0,14200.0,26600.0,number,number,E
+2015,2015,Nova Scotia,Both sexes,65 years and over,Consultation with a health professional about emotional or mental health,11100.0,7100.0,15000.0,number,number,E
+2015,2015,Nova Scotia,Both sexes,65 years and over,"Positive mental health, flourishing",129500.0,123300.0,135700.0,number,number,
+2015,2015,Nova Scotia,Both sexes,65 years and over,Suicidal thoughts (15 years and over),13800.0,9500.0,18200.0,number,number,E
+2015,2015,Nova Scotia,Both sexes,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,129200.0,112500.0,145800.0,number,number,
+2015,2015,Nova Scotia,Both sexes,"Total, 12 years and over","Positive mental health, flourishing",650500.0,632500.0,668500.0,number,number,
+2015,2015,Nova Scotia,Both sexes,"Total, 12 years and over",Suicidal thoughts (15 years and over),87800.0,73200.0,102400.0,number,number,
+2015,2015,Nova Scotia,Females,12 to 17 years,Consultation with a health professional about emotional or mental health,5200.0,2700.0,7700.0,number,number,E
+2015,2015,Nova Scotia,Females,12 to 17 years,"Positive mental health, flourishing",24900.0,22200.0,27600.0,number,number,
+2015,2015,Nova Scotia,Females,18 to 34 years,Consultation with a health professional about emotional or mental health,23000.0,14800.0,31200.0,number,number,E
+2015,2015,Nova Scotia,Females,18 to 34 years,"Positive mental health, flourishing",80400.0,73600.0,87100.0,number,number,
+2015,2015,Nova Scotia,Females,18 to 34 years,Suicidal thoughts (15 years and over),13300.0,6200.0,20400.0,number,number,E
+2015,2015,Nova Scotia,Females,35 to 49 years,Consultation with a health professional about emotional or mental health,26400.0,19600.0,33100.0,number,number,
+2015,2015,Nova Scotia,Females,35 to 49 years,"Positive mental health, flourishing",74000.0,68000.0,80000.0,number,number,
+2015,2015,Nova Scotia,Females,35 to 49 years,Suicidal thoughts (15 years and over),10400.0,6100.0,14700.0,number,number,E
+2015,2015,Nova Scotia,Females,50 to 64 years,Consultation with a health professional about emotional or mental health,26900.0,19300.0,34400.0,number,number,
+2015,2015,Nova Scotia,Females,50 to 64 years,"Positive mental health, flourishing",94900.0,88700.0,101000.0,number,number,
+2015,2015,Nova Scotia,Females,50 to 64 years,Suicidal thoughts (15 years and over),13500.0,8300.0,18800.0,number,number,E
+2015,2015,Nova Scotia,Females,65 years and over,Consultation with a health professional about emotional or mental health,7300.0,4100.0,10500.0,number,number,E
+2015,2015,Nova Scotia,Females,65 years and over,"Positive mental health, flourishing",71400.0,66700.0,76100.0,number,number,
+2015,2015,Nova Scotia,Females,65 years and over,Suicidal thoughts (15 years and over),6800.0,3700.0,10000.0,number,number,E
+2015,2015,Nova Scotia,Females,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,88700.0,74000.0,103400.0,number,number,
+2015,2015,Nova Scotia,Females,"Total, 12 years and over","Positive mental health, flourishing",345600.0,332800.0,358400.0,number,number,
+2015,2015,Nova Scotia,Females,"Total, 12 years and over",Suicidal thoughts (15 years and over),45200.0,34500.0,56000.0,number,number,
+2015,2015,Nova Scotia,Males,12 to 17 years,Consultation with a health professional about emotional or mental health,3600.0,1400.0,5900.0,number,number,E
+2015,2015,Nova Scotia,Males,12 to 17 years,"Positive mental health, flourishing",24700.0,22200.0,27100.0,number,number,
+2015,2015,Nova Scotia,Males,18 to 34 years,Consultation with a health professional about emotional or mental health,13700.0,6700.0,20700.0,number,number,E
+2015,2015,Nova Scotia,Males,18 to 34 years,"Positive mental health, flourishing",70700.0,61300.0,80100.0,number,number,
+2015,2015,Nova Scotia,Males,18 to 34 years,Suicidal thoughts (15 years and over),15800.0,8900.0,22600.0,number,number,E
+2015,2015,Nova Scotia,Males,35 to 49 years,Consultation with a health professional about emotional or mental health,12700.0,6700.0,18700.0,number,number,E
+2015,2015,Nova Scotia,Males,35 to 49 years,"Positive mental health, flourishing",70300.0,64500.0,76100.0,number,number,
+2015,2015,Nova Scotia,Males,35 to 49 years,Suicidal thoughts (15 years and over),12400.0,7000.0,17800.0,number,number,E
+2015,2015,Nova Scotia,Males,50 to 64 years,Consultation with a health professional about emotional or mental health,6600.0,3200.0,10000.0,number,number,E
+2015,2015,Nova Scotia,Males,50 to 64 years,"Positive mental health, flourishing",81200.0,74100.0,88300.0,number,number,
+2015,2015,Nova Scotia,Males,50 to 64 years,Suicidal thoughts (15 years and over),6900.0,3400.0,10500.0,number,number,E
+2015,2015,Nova Scotia,Males,65 years and over,Consultation with a health professional about emotional or mental health,3800.0,1400.0,6200.0,number,number,E
+2015,2015,Nova Scotia,Males,65 years and over,"Positive mental health, flourishing",58100.0,53600.0,62500.0,number,number,
+2015,2015,Nova Scotia,Males,65 years and over,Suicidal thoughts (15 years and over),7000.0,3800.0,10100.0,number,number,E
+2015,2015,Nova Scotia,Males,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,40400.0,30300.0,50500.0,number,number,
+2015,2015,Nova Scotia,Males,"Total, 12 years and over","Positive mental health, flourishing",304900.0,291400.0,318400.0,number,number,
+2015,2015,Nova Scotia,Males,"Total, 12 years and over",Suicidal thoughts (15 years and over),42600.0,32500.0,52700.0,number,number,
+2015,2015,Ontario,Both sexes,12 to 17 years,Consultation with a health professional about emotional or mental health,94700.0,71600.0,117900.0,number,number,
+2015,2015,Ontario,Both sexes,12 to 17 years,"Positive mental health, flourishing",730200.0,700500.0,760000.0,number,number,
+2015,2015,Ontario,Both sexes,12 to 17 years,Suicidal thoughts (15 years and over),40500.0,28700.0,52400.0,number,number,
+2015,2015,Ontario,Both sexes,18 to 34 years,Consultation with a health professional about emotional or mental health,518300.0,450100.0,586600.0,number,number,
+2015,2015,Ontario,Both sexes,18 to 34 years,"Positive mental health, flourishing",2539900.0,2462600.0,2617100.0,number,number,
+2015,2015,Ontario,Both sexes,18 to 34 years,Suicidal thoughts (15 years and over),380200.0,324800.0,435600.0,number,number,
+2015,2015,Ontario,Both sexes,35 to 49 years,Consultation with a health professional about emotional or mental health,404900.0,358100.0,451700.0,number,number,
+2015,2015,Ontario,Both sexes,35 to 49 years,"Positive mental health, flourishing",2197800.0,2135500.0,2260000.0,number,number,
+2015,2015,Ontario,Both sexes,35 to 49 years,Suicidal thoughts (15 years and over),249200.0,209500.0,289000.0,number,number,
+2015,2015,Ontario,Both sexes,50 to 64 years,Consultation with a health professional about emotional or mental health,430200.0,379100.0,481200.0,number,number,
+2015,2015,Ontario,Both sexes,50 to 64 years,"Positive mental health, flourishing",2339000.0,2279200.0,2398800.0,number,number,
+2015,2015,Ontario,Both sexes,50 to 64 years,Suicidal thoughts (15 years and over),327300.0,284900.0,369800.0,number,number,
+2015,2015,Ontario,Both sexes,65 years and over,Consultation with a health professional about emotional or mental health,168300.0,142600.0,194100.0,number,number,
+2015,2015,Ontario,Both sexes,65 years and over,"Positive mental health, flourishing",1521800.0,1473000.0,1570500.0,number,number,
+2015,2015,Ontario,Both sexes,65 years and over,Suicidal thoughts (15 years and over),115500.0,97700.0,133400.0,number,number,
+2015,2015,Ontario,Both sexes,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,1616400.0,1513000.0,1719900.0,number,number,
+2015,2015,Ontario,Both sexes,"Total, 12 years and over","Positive mental health, flourishing",9328700.0,9188000.0,9469300.0,number,number,
+2015,2015,Ontario,Both sexes,"Total, 12 years and over",Suicidal thoughts (15 years and over),1112800.0,1028600.0,1197000.0,number,number,
+2015,2015,Ontario,Females,12 to 17 years,Consultation with a health professional about emotional or mental health,57700.0,41200.0,74300.0,number,number,
+2015,2015,Ontario,Females,12 to 17 years,"Positive mental health, flourishing",345100.0,324100.0,366000.0,number,number,
+2015,2015,Ontario,Females,12 to 17 years,Suicidal thoughts (15 years and over),24300.0,15100.0,33600.0,number,number,E
+2015,2015,Ontario,Females,18 to 34 years,Consultation with a health professional about emotional or mental health,348500.0,295700.0,401200.0,number,number,
+2015,2015,Ontario,Females,18 to 34 years,"Positive mental health, flourishing",1252400.0,1196500.0,1308300.0,number,number,
+2015,2015,Ontario,Females,18 to 34 years,Suicidal thoughts (15 years and over),236900.0,196600.0,277200.0,number,number,
+2015,2015,Ontario,Females,35 to 49 years,Consultation with a health professional about emotional or mental health,246600.0,212000.0,281200.0,number,number,
+2015,2015,Ontario,Females,35 to 49 years,"Positive mental health, flourishing",1139900.0,1098400.0,1181500.0,number,number,
+2015,2015,Ontario,Females,35 to 49 years,Suicidal thoughts (15 years and over),160200.0,126400.0,193900.0,number,number,
+2015,2015,Ontario,Females,50 to 64 years,Consultation with a health professional about emotional or mental health,285900.0,245300.0,326600.0,number,number,
+2015,2015,Ontario,Females,50 to 64 years,"Positive mental health, flourishing",1195800.0,1157900.0,1233700.0,number,number,
+2015,2015,Ontario,Females,50 to 64 years,Suicidal thoughts (15 years and over),200000.0,169800.0,230300.0,number,number,
+2015,2015,Ontario,Females,65 years and over,Consultation with a health professional about emotional or mental health,117400.0,94300.0,140500.0,number,number,
+2015,2015,Ontario,Females,65 years and over,"Positive mental health, flourishing",839100.0,804200.0,874000.0,number,number,
+2015,2015,Ontario,Females,65 years and over,Suicidal thoughts (15 years and over),73500.0,58800.0,88200.0,number,number,
+2015,2015,Ontario,Females,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,1056100.0,975600.0,1136600.0,number,number,
+2015,2015,Ontario,Females,"Total, 12 years and over","Positive mental health, flourishing",4772300.0,4681200.0,4863300.0,number,number,
+2015,2015,Ontario,Females,"Total, 12 years and over",Suicidal thoughts (15 years and over),694900.0,632800.0,757000.0,number,number,
+2015,2015,Ontario,Males,12 to 17 years,Consultation with a health professional about emotional or mental health,37000.0,20600.0,53400.0,number,number,E
+2015,2015,Ontario,Males,12 to 17 years,"Positive mental health, flourishing",385200.0,364900.0,405500.0,number,number,
+2015,2015,Ontario,Males,12 to 17 years,Suicidal thoughts (15 years and over),16200.0,8600.0,23800.0,number,number,E
+2015,2015,Ontario,Males,18 to 34 years,Consultation with a health professional about emotional or mental health,169900.0,129000.0,210700.0,number,number,
+2015,2015,Ontario,Males,18 to 34 years,"Positive mental health, flourishing",1287500.0,1234900.0,1340000.0,number,number,
+2015,2015,Ontario,Males,18 to 34 years,Suicidal thoughts (15 years and over),143300.0,107100.0,179400.0,number,number,
+2015,2015,Ontario,Males,35 to 49 years,Consultation with a health professional about emotional or mental health,158300.0,124800.0,191700.0,number,number,
+2015,2015,Ontario,Males,35 to 49 years,"Positive mental health, flourishing",1057800.0,1013500.0,1102100.0,number,number,
+2015,2015,Ontario,Males,35 to 49 years,Suicidal thoughts (15 years and over),89000.0,67000.0,111100.0,number,number,
+2015,2015,Ontario,Males,50 to 64 years,Consultation with a health professional about emotional or mental health,144200.0,114800.0,173700.0,number,number,
+2015,2015,Ontario,Males,50 to 64 years,"Positive mental health, flourishing",1143200.0,1100000.0,1186400.0,number,number,
+2015,2015,Ontario,Males,50 to 64 years,Suicidal thoughts (15 years and over),127300.0,97200.0,157500.0,number,number,
+2015,2015,Ontario,Males,65 years and over,Consultation with a health professional about emotional or mental health,50900.0,39000.0,62900.0,number,number,
+2015,2015,Ontario,Males,65 years and over,"Positive mental health, flourishing",682700.0,648000.0,717300.0,number,number,
+2015,2015,Ontario,Males,65 years and over,Suicidal thoughts (15 years and over),42000.0,30700.0,53400.0,number,number,
+2015,2015,Ontario,Males,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,560300.0,497000.0,623600.0,number,number,
+2015,2015,Ontario,Males,"Total, 12 years and over","Positive mental health, flourishing",4556400.0,4461900.0,4651000.0,number,number,
+2015,2015,Ontario,Males,"Total, 12 years and over",Suicidal thoughts (15 years and over),417900.0,363300.0,472500.0,number,number,
+2015,2015,Prince Edward Island,Both sexes,12 to 17 years,Consultation with a health professional about emotional or mental health,1200.0,500.0,1800.0,number,number,E
+2015,2015,Prince Edward Island,Both sexes,12 to 17 years,"Positive mental health, flourishing",8700.0,8200.0,9200.0,number,number,
+2015,2015,Prince Edward Island,Both sexes,18 to 34 years,Consultation with a health professional about emotional or mental health,4300.0,2700.0,5900.0,number,number,E
+2015,2015,Prince Edward Island,Both sexes,18 to 34 years,"Positive mental health, flourishing",25500.0,23800.0,27200.0,number,number,
+2015,2015,Prince Edward Island,Both sexes,18 to 34 years,Suicidal thoughts (15 years and over),2200.0,900.0,3500.0,number,number,E
+2015,2015,Prince Edward Island,Both sexes,35 to 49 years,Consultation with a health professional about emotional or mental health,2800.0,1500.0,4200.0,number,number,E
+2015,2015,Prince Edward Island,Both sexes,35 to 49 years,"Positive mental health, flourishing",25300.0,24000.0,26600.0,number,number,
+2015,2015,Prince Edward Island,Both sexes,35 to 49 years,Suicidal thoughts (15 years and over),2800.0,1200.0,4300.0,number,number,E
+2015,2015,Prince Edward Island,Both sexes,50 to 64 years,Consultation with a health professional about emotional or mental health,3500.0,2300.0,4800.0,number,number,E
+2015,2015,Prince Edward Island,Both sexes,50 to 64 years,"Positive mental health, flourishing",28600.0,27100.0,30200.0,number,number,
+2015,2015,Prince Edward Island,Both sexes,50 to 64 years,Suicidal thoughts (15 years and over),4000.0,2400.0,5600.0,number,number,E
+2015,2015,Prince Edward Island,Both sexes,65 years and over,Consultation with a health professional about emotional or mental health,1200.0,500.0,1800.0,number,number,E
+2015,2015,Prince Edward Island,Both sexes,65 years and over,"Positive mental health, flourishing",22200.0,21000.0,23500.0,number,number,
+2015,2015,Prince Edward Island,Both sexes,65 years and over,Suicidal thoughts (15 years and over),700.0,300.0,1200.0,number,number,E
+2015,2015,Prince Edward Island,Both sexes,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,13000.0,10400.0,15600.0,number,number,
+2015,2015,Prince Edward Island,Both sexes,"Total, 12 years and over","Positive mental health, flourishing",110400.0,107400.0,113400.0,number,number,
+2015,2015,Prince Edward Island,Both sexes,"Total, 12 years and over",Suicidal thoughts (15 years and over),10100.0,7400.0,12800.0,number,number,
+2015,2015,Prince Edward Island,Females,12 to 17 years,"Positive mental health, flourishing",4300.0,3900.0,4600.0,number,number,
+2015,2015,Prince Edward Island,Females,18 to 34 years,Consultation with a health professional about emotional or mental health,3300.0,2000.0,4600.0,number,number,E
+2015,2015,Prince Edward Island,Females,18 to 34 years,"Positive mental health, flourishing",13300.0,12500.0,14100.0,number,number,
+2015,2015,Prince Edward Island,Females,35 to 49 years,Consultation with a health professional about emotional or mental health,1400.0,500.0,2200.0,number,number,E
+2015,2015,Prince Edward Island,Females,35 to 49 years,"Positive mental health, flourishing",12400.0,11200.0,13500.0,number,number,
+2015,2015,Prince Edward Island,Females,50 to 64 years,Consultation with a health professional about emotional or mental health,2600.0,1500.0,3600.0,number,number,E
+2015,2015,Prince Edward Island,Females,50 to 64 years,"Positive mental health, flourishing",13900.0,12600.0,15200.0,number,number,
+2015,2015,Prince Edward Island,Females,50 to 64 years,Suicidal thoughts (15 years and over),1900.0,900.0,3000.0,number,number,E
+2015,2015,Prince Edward Island,Females,65 years and over,Consultation with a health professional about emotional or mental health,700.0,300.0,1200.0,number,number,E
+2015,2015,Prince Edward Island,Females,65 years and over,"Positive mental health, flourishing",12500.0,11800.0,13200.0,number,number,
+2015,2015,Prince Edward Island,Females,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,8600.0,6600.0,10600.0,number,number,
+2015,2015,Prince Edward Island,Females,"Total, 12 years and over","Positive mental health, flourishing",56400.0,54300.0,58400.0,number,number,
+2015,2015,Prince Edward Island,Females,"Total, 12 years and over",Suicidal thoughts (15 years and over),4800.0,3200.0,6500.0,number,number,E
+2015,2015,Prince Edward Island,Males,12 to 17 years,"Positive mental health, flourishing",4500.0,4100.0,4800.0,number,number,
+2015,2015,Prince Edward Island,Males,18 to 34 years,"Positive mental health, flourishing",12200.0,10700.0,13800.0,number,number,
+2015,2015,Prince Edward Island,Males,35 to 49 years,"Positive mental health, flourishing",12900.0,12300.0,13600.0,number,number,
+2015,2015,Prince Edward Island,Males,35 to 49 years,Suicidal thoughts (15 years and over),1800.0,600.0,3000.0,number,number,E
+2015,2015,Prince Edward Island,Males,50 to 64 years,"Positive mental health, flourishing",14700.0,13900.0,15500.0,number,number,
+2015,2015,Prince Edward Island,Males,50 to 64 years,Suicidal thoughts (15 years and over),2000.0,800.0,3300.0,number,number,E
+2015,2015,Prince Edward Island,Males,65 years and over,"Positive mental health, flourishing",9700.0,8700.0,10800.0,number,number,
+2015,2015,Prince Edward Island,Males,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,4400.0,2600.0,6200.0,number,number,E
+2015,2015,Prince Edward Island,Males,"Total, 12 years and over","Positive mental health, flourishing",54000.0,51800.0,56200.0,number,number,
+2015,2015,Prince Edward Island,Males,"Total, 12 years and over",Suicidal thoughts (15 years and over),5300.0,3300.0,7300.0,number,number,E
+2015,2015,Quebec,Both sexes,12 to 17 years,Consultation with a health professional about emotional or mental health,44400.0,31600.0,57300.0,number,number,
+2015,2015,Quebec,Both sexes,12 to 17 years,"Positive mental health, flourishing",388100.0,373200.0,403000.0,number,number,
+2015,2015,Quebec,Both sexes,12 to 17 years,Suicidal thoughts (15 years and over),24700.0,15500.0,33900.0,number,number,E
+2015,2015,Quebec,Both sexes,18 to 34 years,Consultation with a health professional about emotional or mental health,286500.0,244300.0,328800.0,number,number,
+2015,2015,Quebec,Both sexes,18 to 34 years,"Positive mental health, flourishing",1385400.0,1335100.0,1435600.0,number,number,
+2015,2015,Quebec,Both sexes,18 to 34 years,Suicidal thoughts (15 years and over),269500.0,230600.0,308300.0,number,number,
+2015,2015,Quebec,Both sexes,35 to 49 years,Consultation with a health professional about emotional or mental health,253400.0,220700.0,286000.0,number,number,
+2015,2015,Quebec,Both sexes,35 to 49 years,"Positive mental health, flourishing",1261400.0,1220800.0,1302100.0,number,number,
+2015,2015,Quebec,Both sexes,35 to 49 years,Suicidal thoughts (15 years and over),253100.0,220100.0,286200.0,number,number,
+2015,2015,Quebec,Both sexes,50 to 64 years,Consultation with a health professional about emotional or mental health,183500.0,156800.0,210300.0,number,number,
+2015,2015,Quebec,Both sexes,50 to 64 years,"Positive mental health, flourishing",1360200.0,1317700.0,1402600.0,number,number,
+2015,2015,Quebec,Both sexes,50 to 64 years,Suicidal thoughts (15 years and over),243000.0,215400.0,270600.0,number,number,
+2015,2015,Quebec,Both sexes,65 years and over,Consultation with a health professional about emotional or mental health,79600.0,62500.0,96600.0,number,number,
+2015,2015,Quebec,Both sexes,65 years and over,"Positive mental health, flourishing",933200.0,898100.0,968200.0,number,number,
+2015,2015,Quebec,Both sexes,65 years and over,Suicidal thoughts (15 years and over),107400.0,89500.0,125300.0,number,number,
+2015,2015,Quebec,Both sexes,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,847400.0,785000.0,909900.0,number,number,
+2015,2015,Quebec,Both sexes,"Total, 12 years and over","Positive mental health, flourishing",5328300.0,5240100.0,5416500.0,number,number,
+2015,2015,Quebec,Both sexes,"Total, 12 years and over",Suicidal thoughts (15 years and over),897600.0,833400.0,961900.0,number,number,
+2015,2015,Quebec,Females,12 to 17 years,Consultation with a health professional about emotional or mental health,23600.0,14600.0,32700.0,number,number,E
+2015,2015,Quebec,Females,12 to 17 years,"Positive mental health, flourishing",185700.0,175600.0,195800.0,number,number,
+2015,2015,Quebec,Females,12 to 17 years,Suicidal thoughts (15 years and over),15400.0,8600.0,22200.0,number,number,E
+2015,2015,Quebec,Females,18 to 34 years,Consultation with a health professional about emotional or mental health,179200.0,147500.0,210900.0,number,number,
+2015,2015,Quebec,Females,18 to 34 years,"Positive mental health, flourishing",669700.0,635700.0,703700.0,number,number,
+2015,2015,Quebec,Females,18 to 34 years,Suicidal thoughts (15 years and over),145600.0,115600.0,175500.0,number,number,
+2015,2015,Quebec,Females,35 to 49 years,Consultation with a health professional about emotional or mental health,166800.0,140400.0,193200.0,number,number,
+2015,2015,Quebec,Females,35 to 49 years,"Positive mental health, flourishing",625200.0,597600.0,652900.0,number,number,
+2015,2015,Quebec,Females,35 to 49 years,Suicidal thoughts (15 years and over),129500.0,105800.0,153300.0,number,number,
+2015,2015,Quebec,Females,50 to 64 years,Consultation with a health professional about emotional or mental health,121100.0,97900.0,144200.0,number,number,
+2015,2015,Quebec,Females,50 to 64 years,"Positive mental health, flourishing",667700.0,639400.0,696000.0,number,number,
+2015,2015,Quebec,Females,50 to 64 years,Suicidal thoughts (15 years and over),130600.0,110100.0,151000.0,number,number,
+2015,2015,Quebec,Females,65 years and over,Consultation with a health professional about emotional or mental health,47500.0,35300.0,59600.0,number,number,
+2015,2015,Quebec,Females,65 years and over,"Positive mental health, flourishing",494700.0,469200.0,520300.0,number,number,
+2015,2015,Quebec,Females,65 years and over,Suicidal thoughts (15 years and over),57200.0,45900.0,68400.0,number,number,
+2015,2015,Quebec,Females,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,538200.0,486600.0,589800.0,number,number,
+2015,2015,Quebec,Females,"Total, 12 years and over","Positive mental health, flourishing",2643100.0,2583700.0,2702500.0,number,number,
+2015,2015,Quebec,Females,"Total, 12 years and over",Suicidal thoughts (15 years and over),478200.0,429600.0,526800.0,number,number,
+2015,2015,Quebec,Males,12 to 17 years,Consultation with a health professional about emotional or mental health,20800.0,11900.0,29700.0,number,number,E
+2015,2015,Quebec,Males,12 to 17 years,"Positive mental health, flourishing",202400.0,191500.0,213400.0,number,number,
+2015,2015,Quebec,Males,12 to 17 years,Suicidal thoughts (15 years and over),9300.0,2900.0,15600.0,number,number,E
+2015,2015,Quebec,Males,18 to 34 years,Consultation with a health professional about emotional or mental health,107300.0,77600.0,137100.0,number,number,
+2015,2015,Quebec,Males,18 to 34 years,"Positive mental health, flourishing",715700.0,682600.0,748700.0,number,number,
+2015,2015,Quebec,Males,18 to 34 years,Suicidal thoughts (15 years and over),123900.0,99800.0,148000.0,number,number,
+2015,2015,Quebec,Males,35 to 49 years,Consultation with a health professional about emotional or mental health,86500.0,67700.0,105400.0,number,number,
+2015,2015,Quebec,Males,35 to 49 years,"Positive mental health, flourishing",636200.0,606100.0,666300.0,number,number,
+2015,2015,Quebec,Males,35 to 49 years,Suicidal thoughts (15 years and over),123600.0,100100.0,147100.0,number,number,
+2015,2015,Quebec,Males,50 to 64 years,Consultation with a health professional about emotional or mental health,62500.0,48700.0,76200.0,number,number,
+2015,2015,Quebec,Males,50 to 64 years,"Positive mental health, flourishing",692500.0,660200.0,724700.0,number,number,
+2015,2015,Quebec,Males,50 to 64 years,Suicidal thoughts (15 years and over),112400.0,92800.0,132100.0,number,number,
+2015,2015,Quebec,Males,65 years and over,Consultation with a health professional about emotional or mental health,32100.0,20100.0,44200.0,number,number,E
+2015,2015,Quebec,Males,65 years and over,"Positive mental health, flourishing",438400.0,413600.0,463300.0,number,number,
+2015,2015,Quebec,Males,65 years and over,Suicidal thoughts (15 years and over),50200.0,36000.0,64400.0,number,number,
+2015,2015,Quebec,Males,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,309200.0,269300.0,349200.0,number,number,
+2015,2015,Quebec,Males,"Total, 12 years and over","Positive mental health, flourishing",2685200.0,2624500.0,2745900.0,number,number,
+2015,2015,Quebec,Males,"Total, 12 years and over",Suicidal thoughts (15 years and over),419400.0,376500.0,462300.0,number,number,
+2015,2015,Saskatchewan,Both sexes,12 to 17 years,Consultation with a health professional about emotional or mental health,5600.0,2800.0,8400.0,number,number,E
+2015,2015,Saskatchewan,Both sexes,12 to 17 years,"Positive mental health, flourishing",62300.0,58000.0,66500.0,number,number,
+2015,2015,Saskatchewan,Both sexes,12 to 17 years,Suicidal thoughts (15 years and over),4300.0,1500.0,7000.0,number,number,E
+2015,2015,Saskatchewan,Both sexes,18 to 34 years,Consultation with a health professional about emotional or mental health,43100.0,31700.0,54400.0,number,number,
+2015,2015,Saskatchewan,Both sexes,18 to 34 years,"Positive mental health, flourishing",215700.0,204200.0,227200.0,number,number,
+2015,2015,Saskatchewan,Both sexes,18 to 34 years,Suicidal thoughts (15 years and over),41900.0,29700.0,54200.0,number,number,
+2015,2015,Saskatchewan,Both sexes,35 to 49 years,Consultation with a health professional about emotional or mental health,38000.0,27300.0,48600.0,number,number,
+2015,2015,Saskatchewan,Both sexes,35 to 49 years,"Positive mental health, flourishing",163300.0,152800.0,173800.0,number,number,
+2015,2015,Saskatchewan,Both sexes,35 to 49 years,Suicidal thoughts (15 years and over),33400.0,23900.0,42800.0,number,number,
+2015,2015,Saskatchewan,Both sexes,50 to 64 years,Consultation with a health professional about emotional or mental health,28900.0,20000.0,37800.0,number,number,E
+2015,2015,Saskatchewan,Both sexes,50 to 64 years,"Positive mental health, flourishing",180400.0,171300.0,189600.0,number,number,
+2015,2015,Saskatchewan,Both sexes,50 to 64 years,Suicidal thoughts (15 years and over),24400.0,16500.0,32200.0,number,number,E
+2015,2015,Saskatchewan,Both sexes,65 years and over,Consultation with a health professional about emotional or mental health,11400.0,7100.0,15700.0,number,number,E
+2015,2015,Saskatchewan,Both sexes,65 years and over,"Positive mental health, flourishing",116400.0,108500.0,124300.0,number,number,
+2015,2015,Saskatchewan,Both sexes,65 years and over,Suicidal thoughts (15 years and over),8300.0,4900.0,11800.0,number,number,E
+2015,2015,Saskatchewan,Both sexes,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,126900.0,107300.0,146400.0,number,number,
+2015,2015,Saskatchewan,Both sexes,"Total, 12 years and over","Positive mental health, flourishing",738100.0,717600.0,758700.0,number,number,
+2015,2015,Saskatchewan,Both sexes,"Total, 12 years and over",Suicidal thoughts (15 years and over),112200.0,94200.0,130300.0,number,number,
+2015,2015,Saskatchewan,Females,12 to 17 years,Consultation with a health professional about emotional or mental health,3800.0,1400.0,6100.0,number,number,E
+2015,2015,Saskatchewan,Females,12 to 17 years,"Positive mental health, flourishing",29400.0,26400.0,32500.0,number,number,
+2015,2015,Saskatchewan,Females,12 to 17 years,Suicidal thoughts (15 years and over),3300.0,1100.0,5600.0,number,number,E
+2015,2015,Saskatchewan,Females,18 to 34 years,Consultation with a health professional about emotional or mental health,32500.0,23700.0,41200.0,number,number,
+2015,2015,Saskatchewan,Females,18 to 34 years,"Positive mental health, flourishing",106200.0,98100.0,114200.0,number,number,
+2015,2015,Saskatchewan,Females,18 to 34 years,Suicidal thoughts (15 years and over),20200.0,12200.0,28200.0,number,number,E
+2015,2015,Saskatchewan,Females,35 to 49 years,Consultation with a health professional about emotional or mental health,21300.0,14200.0,28500.0,number,number,E
+2015,2015,Saskatchewan,Females,35 to 49 years,"Positive mental health, flourishing",78900.0,72400.0,85400.0,number,number,
+2015,2015,Saskatchewan,Females,35 to 49 years,Suicidal thoughts (15 years and over),15000.0,8700.0,21200.0,number,number,E
+2015,2015,Saskatchewan,Females,50 to 64 years,Consultation with a health professional about emotional or mental health,13400.0,8100.0,18600.0,number,number,E
+2015,2015,Saskatchewan,Females,50 to 64 years,"Positive mental health, flourishing",89500.0,84200.0,94800.0,number,number,
+2015,2015,Saskatchewan,Females,50 to 64 years,Suicidal thoughts (15 years and over),11000.0,6600.0,15500.0,number,number,E
+2015,2015,Saskatchewan,Females,65 years and over,Consultation with a health professional about emotional or mental health,8400.0,4600.0,12200.0,number,number,E
+2015,2015,Saskatchewan,Females,65 years and over,"Positive mental health, flourishing",60800.0,54500.0,67200.0,number,number,
+2015,2015,Saskatchewan,Females,65 years and over,Suicidal thoughts (15 years and over),4100.0,1700.0,6600.0,number,number,E
+2015,2015,Saskatchewan,Females,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,79300.0,66200.0,92400.0,number,number,
+2015,2015,Saskatchewan,Females,"Total, 12 years and over","Positive mental health, flourishing",364800.0,351200.0,378400.0,number,number,
+2015,2015,Saskatchewan,Females,"Total, 12 years and over",Suicidal thoughts (15 years and over),53700.0,41600.0,65800.0,number,number,
+2015,2015,Saskatchewan,Males,12 to 17 years,"Positive mental health, flourishing",32800.0,29900.0,35800.0,number,number,
+2015,2015,Saskatchewan,Males,18 to 34 years,Consultation with a health professional about emotional or mental health,10600.0,3900.0,17300.0,number,number,E
+2015,2015,Saskatchewan,Males,18 to 34 years,"Positive mental health, flourishing",109500.0,100600.0,118400.0,number,number,
+2015,2015,Saskatchewan,Males,18 to 34 years,Suicidal thoughts (15 years and over),21700.0,12700.0,30800.0,number,number,E
+2015,2015,Saskatchewan,Males,35 to 49 years,Consultation with a health professional about emotional or mental health,16600.0,8800.0,24500.0,number,number,E
+2015,2015,Saskatchewan,Males,35 to 49 years,"Positive mental health, flourishing",84500.0,77400.0,91500.0,number,number,
+2015,2015,Saskatchewan,Males,35 to 49 years,Suicidal thoughts (15 years and over),18400.0,10700.0,26100.0,number,number,E
+2015,2015,Saskatchewan,Males,50 to 64 years,Consultation with a health professional about emotional or mental health,15500.0,8600.0,22400.0,number,number,E
+2015,2015,Saskatchewan,Males,50 to 64 years,"Positive mental health, flourishing",90900.0,83200.0,98600.0,number,number,
+2015,2015,Saskatchewan,Males,50 to 64 years,Suicidal thoughts (15 years and over),13300.0,7100.0,19500.0,number,number,E
+2015,2015,Saskatchewan,Males,65 years and over,Consultation with a health professional about emotional or mental health,3000.0,1100.0,4900.0,number,number,E
+2015,2015,Saskatchewan,Males,65 years and over,"Positive mental health, flourishing",55600.0,50500.0,60600.0,number,number,
+2015,2015,Saskatchewan,Males,65 years and over,Suicidal thoughts (15 years and over),4200.0,1500.0,6800.0,number,number,E
+2015,2015,Saskatchewan,Males,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,47600.0,34400.0,60800.0,number,number,
+2015,2015,Saskatchewan,Males,"Total, 12 years and over","Positive mental health, flourishing",373300.0,358700.0,387900.0,number,number,
+2015,2015,Saskatchewan,Males,"Total, 12 years and over",Suicidal thoughts (15 years and over),58500.0,44400.0,72700.0,number,number,
+2019,2019,Alberta,Both sexes,12 to 17 years,Consultation with a health professional about emotional or mental health,48100.0,34200.0,62800.0,number,number,E
+2019,2019,Alberta,Both sexes,12 to 17 years,"Positive mental health, flourishing",220000.0,197400.0,247700.0,number,number,
+2019,2019,Alberta,Both sexes,12 to 17 years,Suicidal thoughts (15 years and over),22700.0,12700.0,33900.0,number,number,E
+2019,2019,Alberta,Both sexes,18 to 34 years,Consultation with a health professional about emotional or mental health,236300.0,206300.0,268400.0,number,number,
+2019,2019,Alberta,Both sexes,18 to 34 years,"Positive mental health, flourishing",728300.0,652200.0,809500.0,number,number,
+2019,2019,Alberta,Both sexes,18 to 34 years,Suicidal thoughts (15 years and over),206600.0,171900.0,239800.0,number,number,
+2019,2019,Alberta,Both sexes,35 to 49 years,Consultation with a health professional about emotional or mental health,194600.0,165400.0,226300.0,number,number,
+2019,2019,Alberta,Both sexes,35 to 49 years,"Positive mental health, flourishing",751400.0,695000.0,800800.0,number,number,
+2019,2019,Alberta,Both sexes,35 to 49 years,Suicidal thoughts (15 years and over),129900.0,102700.0,158800.0,number,number,
+2019,2019,Alberta,Both sexes,50 to 64 years,Consultation with a health professional about emotional or mental health,118600.0,95500.0,145600.0,number,number,
+2019,2019,Alberta,Both sexes,50 to 64 years,"Positive mental health, flourishing",617700.0,568800.0,675700.0,number,number,
+2019,2019,Alberta,Both sexes,50 to 64 years,Suicidal thoughts (15 years and over),85500.0,66800.0,109300.0,number,number,
+2019,2019,Alberta,Both sexes,65 years and over,Consultation with a health professional about emotional or mental health,48800.0,42300.0,57600.0,number,number,
+2019,2019,Alberta,Both sexes,65 years and over,"Positive mental health, flourishing",381400.0,350000.0,424400.0,number,number,
+2019,2019,Alberta,Both sexes,65 years and over,Suicidal thoughts (15 years and over),39400.0,32800.0,47100.0,number,number,
+2019,2019,Alberta,Both sexes,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,646400.0,595400.0,701000.0,number,number,
+2019,2019,Alberta,Both sexes,"Total, 12 years and over","Positive mental health, flourishing",2698800.0,2589800.0,2843800.0,number,number,
+2019,2019,Alberta,Both sexes,"Total, 12 years and over",Suicidal thoughts (15 years and over),484000.0,433600.0,537500.0,number,number,
+2019,2019,Alberta,Females,12 to 17 years,Consultation with a health professional about emotional or mental health,25400.0,16100.0,35800.0,number,number,E
+2019,2019,Alberta,Females,12 to 17 years,"Positive mental health, flourishing",99600.0,83800.0,123200.0,number,number,
+2019,2019,Alberta,Females,12 to 17 years,Suicidal thoughts (15 years and over),15300.0,7400.0,24100.0,number,number,E
+2019,2019,Alberta,Females,18 to 34 years,Consultation with a health professional about emotional or mental health,164200.0,143400.0,189300.0,number,number,
+2019,2019,Alberta,Females,18 to 34 years,"Positive mental health, flourishing",371700.0,325500.0,421300.0,number,number,
+2019,2019,Alberta,Females,18 to 34 years,Suicidal thoughts (15 years and over),110100.0,88500.0,133900.0,number,number,
+2019,2019,Alberta,Females,35 to 49 years,Consultation with a health professional about emotional or mental health,122900.0,101900.0,147900.0,number,number,
+2019,2019,Alberta,Females,35 to 49 years,"Positive mental health, flourishing",362600.0,321000.0,399100.0,number,number,
+2019,2019,Alberta,Females,35 to 49 years,Suicidal thoughts (15 years and over),67400.0,51700.0,88400.0,number,number,
+2019,2019,Alberta,Females,50 to 64 years,Consultation with a health professional about emotional or mental health,87400.0,64500.0,112000.0,number,number,
+2019,2019,Alberta,Females,50 to 64 years,"Positive mental health, flourishing",306400.0,255800.0,335000.0,number,number,
+2019,2019,Alberta,Females,50 to 64 years,Suicidal thoughts (15 years and over),46900.0,34200.0,62800.0,number,number,E
+2019,2019,Alberta,Females,65 years and over,Consultation with a health professional about emotional or mental health,34200.0,28400.0,41000.0,number,number,
+2019,2019,Alberta,Females,65 years and over,"Positive mental health, flourishing",205600.0,182500.0,238100.0,number,number,
+2019,2019,Alberta,Females,65 years and over,Suicidal thoughts (15 years and over),23400.0,18800.0,28600.0,number,number,
+2019,2019,Alberta,Females,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,434100.0,398600.0,479300.0,number,number,
+2019,2019,Alberta,Females,"Total, 12 years and over","Positive mental health, flourishing",1346000.0,1263100.0,1420000.0,number,number,
+2019,2019,Alberta,Females,"Total, 12 years and over",Suicidal thoughts (15 years and over),263100.0,232700.0,304300.0,number,number,
+2019,2019,Alberta,Males,12 to 17 years,Consultation with a health professional about emotional or mental health,22700.0,12600.0,33400.0,number,number,E
+2019,2019,Alberta,Males,12 to 17 years,"Positive mental health, flourishing",120400.0,104600.0,134800.0,number,number,
+2019,2019,Alberta,Males,18 to 34 years,Consultation with a health professional about emotional or mental health,72000.0,51500.0,91600.0,number,number,
+2019,2019,Alberta,Males,18 to 34 years,"Positive mental health, flourishing",356600.0,297300.0,414800.0,number,number,
+2019,2019,Alberta,Males,18 to 34 years,Suicidal thoughts (15 years and over),96400.0,69400.0,118900.0,number,number,
+2019,2019,Alberta,Males,35 to 49 years,Consultation with a health professional about emotional or mental health,71700.0,49800.0,92400.0,number,number,
+2019,2019,Alberta,Males,35 to 49 years,"Positive mental health, flourishing",388800.0,351400.0,424400.0,number,number,
+2019,2019,Alberta,Males,35 to 49 years,Suicidal thoughts (15 years and over),62500.0,40400.0,78500.0,number,number,E
+2019,2019,Alberta,Males,50 to 64 years,Consultation with a health professional about emotional or mental health,31200.0,22300.0,41400.0,number,number,E
+2019,2019,Alberta,Males,50 to 64 years,"Positive mental health, flourishing",311300.0,282100.0,361300.0,number,number,
+2019,2019,Alberta,Males,50 to 64 years,Suicidal thoughts (15 years and over),38500.0,26400.0,53400.0,number,number,E
+2019,2019,Alberta,Males,65 years and over,Consultation with a health professional about emotional or mental health,14700.0,10400.0,19500.0,number,number,E
+2019,2019,Alberta,Males,65 years and over,"Positive mental health, flourishing",175800.0,151400.0,204800.0,number,number,
+2019,2019,Alberta,Males,65 years and over,Suicidal thoughts (15 years and over),16000.0,11600.0,21900.0,number,number,E
+2019,2019,Alberta,Males,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,212300.0,180200.0,242200.0,number,number,
+2019,2019,Alberta,Males,"Total, 12 years and over","Positive mental health, flourishing",1352800.0,1273600.0,1460100.0,number,number,
+2019,2019,Alberta,Males,"Total, 12 years and over",Suicidal thoughts (15 years and over),220900.0,182500.0,253300.0,number,number,
+2019,2019,British Columbia,Both sexes,12 to 17 years,Consultation with a health professional about emotional or mental health,45200.0,35500.0,55400.0,number,number,
+2019,2019,British Columbia,Both sexes,12 to 17 years,"Positive mental health, flourishing",251100.0,232600.0,265900.0,number,number,
+2019,2019,British Columbia,Both sexes,12 to 17 years,Suicidal thoughts (15 years and over),14000.0,7500.0,21100.0,number,number,E
+2019,2019,British Columbia,Both sexes,18 to 34 years,Consultation with a health professional about emotional or mental health,231500.0,203200.0,272700.0,number,number,
+2019,2019,British Columbia,Both sexes,18 to 34 years,"Positive mental health, flourishing",754400.0,683400.0,827000.0,number,number,
+2019,2019,British Columbia,Both sexes,18 to 34 years,Suicidal thoughts (15 years and over),194600.0,158700.0,229200.0,number,number,
+2019,2019,British Columbia,Both sexes,35 to 49 years,Consultation with a health professional about emotional or mental health,196500.0,167100.0,226700.0,number,number,
+2019,2019,British Columbia,Both sexes,35 to 49 years,"Positive mental health, flourishing",725500.0,674400.0,782100.0,number,number,
+2019,2019,British Columbia,Both sexes,35 to 49 years,Suicidal thoughts (15 years and over),106000.0,85800.0,126700.0,number,number,
+2019,2019,British Columbia,Both sexes,50 to 64 years,Consultation with a health professional about emotional or mental health,163500.0,136500.0,191300.0,number,number,
+2019,2019,British Columbia,Both sexes,50 to 64 years,"Positive mental health, flourishing",735800.0,677700.0,801700.0,number,number,
+2019,2019,British Columbia,Both sexes,50 to 64 years,Suicidal thoughts (15 years and over),95700.0,79500.0,115400.0,number,number,
+2019,2019,British Columbia,Both sexes,65 years and over,Consultation with a health professional about emotional or mental health,63500.0,52000.0,75200.0,number,number,
+2019,2019,British Columbia,Both sexes,65 years and over,"Positive mental health, flourishing",661400.0,610700.0,712300.0,number,number,
+2019,2019,British Columbia,Both sexes,65 years and over,Suicidal thoughts (15 years and over),50000.0,41700.0,60400.0,number,number,
+2019,2019,British Columbia,Both sexes,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,700200.0,652200.0,765400.0,number,number,
+2019,2019,British Columbia,Both sexes,"Total, 12 years and over","Positive mental health, flourishing",3128200.0,3008600.0,3250100.0,number,number,
+2019,2019,British Columbia,Both sexes,"Total, 12 years and over",Suicidal thoughts (15 years and over),460300.0,414300.0,508000.0,number,number,
+2019,2019,British Columbia,Females,12 to 17 years,Consultation with a health professional about emotional or mental health,27300.0,20200.0,35200.0,number,number,
+2019,2019,British Columbia,Females,12 to 17 years,"Positive mental health, flourishing",121600.0,108800.0,131900.0,number,number,
+2019,2019,British Columbia,Females,12 to 17 years,Suicidal thoughts (15 years and over),9600.0,4300.0,15600.0,number,number,E
+2019,2019,British Columbia,Females,18 to 34 years,Consultation with a health professional about emotional or mental health,152300.0,128900.0,183300.0,number,number,
+2019,2019,British Columbia,Females,18 to 34 years,"Positive mental health, flourishing",375700.0,325100.0,426000.0,number,number,
+2019,2019,British Columbia,Females,18 to 34 years,Suicidal thoughts (15 years and over),97800.0,77500.0,120400.0,number,number,
+2019,2019,British Columbia,Females,35 to 49 years,Consultation with a health professional about emotional or mental health,119200.0,97500.0,144000.0,number,number,
+2019,2019,British Columbia,Females,35 to 49 years,"Positive mental health, flourishing",358600.0,323300.0,399000.0,number,number,
+2019,2019,British Columbia,Females,35 to 49 years,Suicidal thoughts (15 years and over),52500.0,39800.0,67100.0,number,number,
+2019,2019,British Columbia,Females,50 to 64 years,Consultation with a health professional about emotional or mental health,107800.0,86500.0,128300.0,number,number,
+2019,2019,British Columbia,Females,50 to 64 years,"Positive mental health, flourishing",376500.0,326800.0,422600.0,number,number,
+2019,2019,British Columbia,Females,50 to 64 years,Suicidal thoughts (15 years and over),52100.0,41000.0,63800.0,number,number,
+2019,2019,British Columbia,Females,65 years and over,Consultation with a health professional about emotional or mental health,44400.0,35800.0,54100.0,number,number,
+2019,2019,British Columbia,Females,65 years and over,"Positive mental health, flourishing",342200.0,297000.0,375400.0,number,number,
+2019,2019,British Columbia,Females,65 years and over,Suicidal thoughts (15 years and over),30800.0,24200.0,38400.0,number,number,
+2019,2019,British Columbia,Females,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,451000.0,412800.0,499500.0,number,number,
+2019,2019,British Columbia,Females,"Total, 12 years and over","Positive mental health, flourishing",1574600.0,1477000.0,1664200.0,number,number,
+2019,2019,British Columbia,Females,"Total, 12 years and over",Suicidal thoughts (15 years and over),242800.0,214800.0,272500.0,number,number,
+2019,2019,British Columbia,Males,12 to 17 years,Consultation with a health professional about emotional or mental health,17900.0,11300.0,24700.0,number,number,E
+2019,2019,British Columbia,Males,12 to 17 years,"Positive mental health, flourishing",129400.0,116500.0,139300.0,number,number,
+2019,2019,British Columbia,Males,18 to 34 years,Consultation with a health professional about emotional or mental health,79200.0,60100.0,104300.0,number,number,
+2019,2019,British Columbia,Males,18 to 34 years,"Positive mental health, flourishing",378800.0,322700.0,435500.0,number,number,
+2019,2019,British Columbia,Males,18 to 34 years,Suicidal thoughts (15 years and over),96700.0,67700.0,123400.0,number,number,E
+2019,2019,British Columbia,Males,35 to 49 years,Consultation with a health professional about emotional or mental health,77400.0,57200.0,97800.0,number,number,
+2019,2019,British Columbia,Males,35 to 49 years,"Positive mental health, flourishing",366900.0,325000.0,406500.0,number,number,
+2019,2019,British Columbia,Males,35 to 49 years,Suicidal thoughts (15 years and over),53500.0,37500.0,68300.0,number,number,
+2019,2019,British Columbia,Males,50 to 64 years,Consultation with a health professional about emotional or mental health,55700.0,37400.0,74200.0,number,number,E
+2019,2019,British Columbia,Males,50 to 64 years,"Positive mental health, flourishing",359300.0,318600.0,405000.0,number,number,
+2019,2019,British Columbia,Males,50 to 64 years,Suicidal thoughts (15 years and over),43600.0,31600.0,59300.0,number,number,E
+2019,2019,British Columbia,Males,65 years and over,Consultation with a health professional about emotional or mental health,19000.0,12700.0,26400.0,number,number,E
+2019,2019,British Columbia,Males,65 years and over,"Positive mental health, flourishing",319200.0,290200.0,355300.0,number,number,
+2019,2019,British Columbia,Males,65 years and over,Suicidal thoughts (15 years and over),19200.0,14000.0,25500.0,number,number,E
+2019,2019,British Columbia,Males,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,249200.0,215100.0,288700.0,number,number,
+2019,2019,British Columbia,Males,"Total, 12 years and over","Positive mental health, flourishing",1553600.0,1474800.0,1648300.0,number,number,
+2019,2019,British Columbia,Males,"Total, 12 years and over",Suicidal thoughts (15 years and over),217400.0,178200.0,252700.0,number,number,
+2019,2019,Canada (excluding territories),Both sexes,12 to 17 years,Consultation with a health professional about emotional or mental health,361300.0,325000.0,399500.0,number,number,
+2019,2019,Canada (excluding territories),Both sexes,12 to 17 years,"Positive mental health, flourishing",1890500.0,1823600.0,1960100.0,number,number,
+2019,2019,Canada (excluding territories),Both sexes,12 to 17 years,Suicidal thoughts (15 years and over),129200.0,103500.0,155200.0,number,number,
+2019,2019,Canada (excluding territories),Both sexes,18 to 34 years,Consultation with a health professional about emotional or mental health,1712000.0,1624200.0,1816200.0,number,number,
+2019,2019,Canada (excluding territories),Both sexes,18 to 34 years,"Positive mental health, flourishing",6426100.0,6204400.0,6619800.0,number,number,
+2019,2019,Canada (excluding territories),Both sexes,18 to 34 years,Suicidal thoughts (15 years and over),1417300.0,1323200.0,1515000.0,number,number,
+2019,2019,Canada (excluding territories),Both sexes,35 to 49 years,Consultation with a health professional about emotional or mental health,1353300.0,1285900.0,1448500.0,number,number,
+2019,2019,Canada (excluding territories),Both sexes,35 to 49 years,"Positive mental health, flourishing",5845400.0,5690500.0,6019900.0,number,number,
+2019,2019,Canada (excluding territories),Both sexes,35 to 49 years,Suicidal thoughts (15 years and over),865100.0,802900.0,929800.0,number,number,
+2019,2019,Canada (excluding territories),Both sexes,50 to 64 years,Consultation with a health professional about emotional or mental health,1048000.0,986800.0,1128100.0,number,number,
+2019,2019,Canada (excluding territories),Both sexes,50 to 64 years,"Positive mental health, flourishing",6010300.0,5822500.0,6164700.0,number,number,
+2019,2019,Canada (excluding territories),Both sexes,50 to 64 years,Suicidal thoughts (15 years and over),863300.0,813300.0,931100.0,number,number,
+2019,2019,Canada (excluding territories),Both sexes,65 years and over,Consultation with a health professional about emotional or mental health,419800.0,393700.0,452600.0,number,number,
+2019,2019,Canada (excluding territories),Both sexes,65 years and over,"Positive mental health, flourishing",4668700.0,4521400.0,4814100.0,number,number,
+2019,2019,Canada (excluding territories),Both sexes,65 years and over,Suicidal thoughts (15 years and over),412300.0,387700.0,444500.0,number,number,
+2019,2019,Canada (excluding territories),Both sexes,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,4894400.0,4776600.0,5077000.0,number,number,
+2019,2019,Canada (excluding territories),Both sexes,"Total, 12 years and over","Positive mental health, flourishing",24841000.0,24470500.0,25204000.0,number,number,
+2019,2019,Canada (excluding territories),Both sexes,"Total, 12 years and over",Suicidal thoughts (15 years and over),3687200.0,3576000.0,3834200.0,number,number,
+2019,2019,Canada (excluding territories),Females,12 to 17 years,Consultation with a health professional about emotional or mental health,223700.0,194900.0,253300.0,number,number,
+2019,2019,Canada (excluding territories),Females,12 to 17 years,"Positive mental health, flourishing",880000.0,830800.0,934900.0,number,number,
+2019,2019,Canada (excluding territories),Females,12 to 17 years,Suicidal thoughts (15 years and over),93800.0,71400.0,115800.0,number,number,
+2019,2019,Canada (excluding territories),Females,18 to 34 years,Consultation with a health professional about emotional or mental health,1156800.0,1090600.0,1236700.0,number,number,
+2019,2019,Canada (excluding territories),Females,18 to 34 years,"Positive mental health, flourishing",3167900.0,3009600.0,3333600.0,number,number,
+2019,2019,Canada (excluding territories),Females,18 to 34 years,Suicidal thoughts (15 years and over),726100.0,669800.0,796000.0,number,number,
+2019,2019,Canada (excluding territories),Females,35 to 49 years,Consultation with a health professional about emotional or mental health,863200.0,814800.0,933500.0,number,number,
+2019,2019,Canada (excluding territories),Females,35 to 49 years,"Positive mental health, flourishing",2987100.0,2867500.0,3085400.0,number,number,
+2019,2019,Canada (excluding territories),Females,35 to 49 years,Suicidal thoughts (15 years and over),476700.0,433200.0,525100.0,number,number,
+2019,2019,Canada (excluding territories),Females,50 to 64 years,Consultation with a health professional about emotional or mental health,665000.0,617600.0,724700.0,number,number,
+2019,2019,Canada (excluding territories),Females,50 to 64 years,"Positive mental health, flourishing",2993100.0,2844000.0,3103700.0,number,number,
+2019,2019,Canada (excluding territories),Females,50 to 64 years,Suicidal thoughts (15 years and over),464100.0,428000.0,511100.0,number,number,
+2019,2019,Canada (excluding territories),Females,65 years and over,Consultation with a health professional about emotional or mental health,288800.0,265300.0,314700.0,number,number,
+2019,2019,Canada (excluding territories),Females,65 years and over,"Positive mental health, flourishing",2507800.0,2396000.0,2608100.0,number,number,
+2019,2019,Canada (excluding territories),Females,65 years and over,Suicidal thoughts (15 years and over),260300.0,238200.0,287500.0,number,number,
+2019,2019,Canada (excluding territories),Females,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,3197300.0,3104500.0,3338300.0,number,number,
+2019,2019,Canada (excluding territories),Females,"Total, 12 years and over","Positive mental health, flourishing",12535800.0,12246300.0,12783000.0,number,number,
+2019,2019,Canada (excluding territories),Females,"Total, 12 years and over",Suicidal thoughts (15 years and over),2021100.0,1940400.0,2128600.0,number,number,
+2019,2019,Canada (excluding territories),Males,12 to 17 years,Consultation with a health professional about emotional or mental health,137700.0,112600.0,159700.0,number,number,
+2019,2019,Canada (excluding territories),Males,12 to 17 years,"Positive mental health, flourishing",1010500.0,960300.0,1057400.0,number,number,
+2019,2019,Canada (excluding territories),Males,12 to 17 years,Suicidal thoughts (15 years and over),35400.0,21400.0,50200.0,number,number,E
+2019,2019,Canada (excluding territories),Males,18 to 34 years,Consultation with a health professional about emotional or mental health,555200.0,495700.0,619800.0,number,number,
+2019,2019,Canada (excluding territories),Males,18 to 34 years,"Positive mental health, flourishing",3258200.0,3099000.0,3403000.0,number,number,
+2019,2019,Canada (excluding territories),Males,18 to 34 years,Suicidal thoughts (15 years and over),691200.0,614300.0,759800.0,number,number,
+2019,2019,Canada (excluding territories),Males,35 to 49 years,Consultation with a health professional about emotional or mental health,490100.0,441600.0,545900.0,number,number,
+2019,2019,Canada (excluding territories),Males,35 to 49 years,"Positive mental health, flourishing",2858400.0,2735600.0,2992400.0,number,number,
+2019,2019,Canada (excluding territories),Males,35 to 49 years,Suicidal thoughts (15 years and over),388400.0,341400.0,435200.0,number,number,
+2019,2019,Canada (excluding territories),Males,50 to 64 years,Consultation with a health professional about emotional or mental health,383100.0,339700.0,432100.0,number,number,
+2019,2019,Canada (excluding territories),Males,50 to 64 years,"Positive mental health, flourishing",3017200.0,2906400.0,3134300.0,number,number,
+2019,2019,Canada (excluding territories),Males,50 to 64 years,Suicidal thoughts (15 years and over),399200.0,359900.0,447400.0,number,number,
+2019,2019,Canada (excluding territories),Males,65 years and over,Consultation with a health professional about emotional or mental health,131000.0,115900.0,150600.0,number,number,
+2019,2019,Canada (excluding territories),Males,65 years and over,"Positive mental health, flourishing",2160900.0,2062000.0,2257700.0,number,number,
+2019,2019,Canada (excluding territories),Males,65 years and over,Suicidal thoughts (15 years and over),152000.0,135900.0,170400.0,number,number,
+2019,2019,Canada (excluding territories),Males,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,1697100.0,1605400.0,1792400.0,number,number,
+2019,2019,Canada (excluding territories),Males,"Total, 12 years and over","Positive mental health, flourishing",12305200.0,12063700.0,12552300.0,number,number,
+2019,2019,Canada (excluding territories),Males,"Total, 12 years and over",Suicidal thoughts (15 years and over),1666200.0,1564900.0,1761900.0,number,number,
+2019,2019,Manitoba,Both sexes,12 to 17 years,Consultation with a health professional about emotional or mental health,8600.0,5100.0,13400.0,number,number,E
+2019,2019,Manitoba,Both sexes,12 to 17 years,"Positive mental health, flourishing",74000.0,64400.0,84000.0,number,number,
+2019,2019,Manitoba,Both sexes,18 to 34 years,Consultation with a health professional about emotional or mental health,59400.0,45800.0,74600.0,number,number,
+2019,2019,Manitoba,Both sexes,18 to 34 years,"Positive mental health, flourishing",264900.0,237000.0,280000.0,number,number,
+2019,2019,Manitoba,Both sexes,18 to 34 years,Suicidal thoughts (15 years and over),66300.0,50200.0,82200.0,number,number,
+2019,2019,Manitoba,Both sexes,35 to 49 years,Consultation with a health professional about emotional or mental health,29700.0,22600.0,40000.0,number,number,E
+2019,2019,Manitoba,Both sexes,35 to 49 years,"Positive mental health, flourishing",202500.0,171000.0,225600.0,number,number,
+2019,2019,Manitoba,Both sexes,35 to 49 years,Suicidal thoughts (15 years and over),26900.0,19400.0,37600.0,number,number,E
+2019,2019,Manitoba,Both sexes,50 to 64 years,Consultation with a health professional about emotional or mental health,39100.0,29800.0,52800.0,number,number,E
+2019,2019,Manitoba,Both sexes,50 to 64 years,"Positive mental health, flourishing",188800.0,162500.0,204800.0,number,number,
+2019,2019,Manitoba,Both sexes,50 to 64 years,Suicidal thoughts (15 years and over),34500.0,26300.0,47500.0,number,number,E
+2019,2019,Manitoba,Both sexes,65 years and over,Consultation with a health professional about emotional or mental health,15000.0,12200.0,17900.0,number,number,
+2019,2019,Manitoba,Both sexes,65 years and over,"Positive mental health, flourishing",152900.0,132400.0,167000.0,number,number,
+2019,2019,Manitoba,Both sexes,65 years and over,Suicidal thoughts (15 years and over),15100.0,12300.0,18200.0,number,number,
+2019,2019,Manitoba,Both sexes,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,151800.0,135700.0,178800.0,number,number,
+2019,2019,Manitoba,Both sexes,"Total, 12 years and over","Positive mental health, flourishing",883100.0,818300.0,915000.0,number,number,
+2019,2019,Manitoba,Both sexes,"Total, 12 years and over",Suicidal thoughts (15 years and over),146400.0,128200.0,171100.0,number,number,
+2019,2019,Manitoba,Females,12 to 17 years,Consultation with a health professional about emotional or mental health,5300.0,2700.0,9200.0,number,number,E
+2019,2019,Manitoba,Females,12 to 17 years,"Positive mental health, flourishing",35200.0,29000.0,40800.0,number,number,
+2019,2019,Manitoba,Females,18 to 34 years,Consultation with a health professional about emotional or mental health,43200.0,33000.0,54500.0,number,number,
+2019,2019,Manitoba,Females,18 to 34 years,"Positive mental health, flourishing",127800.0,113000.0,139300.0,number,number,
+2019,2019,Manitoba,Females,18 to 34 years,Suicidal thoughts (15 years and over),34600.0,24200.0,46300.0,number,number,E
+2019,2019,Manitoba,Females,35 to 49 years,Consultation with a health professional about emotional or mental health,22700.0,16600.0,32200.0,number,number,E
+2019,2019,Manitoba,Females,35 to 49 years,"Positive mental health, flourishing",111800.0,97100.0,119100.0,number,number,
+2019,2019,Manitoba,Females,35 to 49 years,Suicidal thoughts (15 years and over),16400.0,10700.0,24400.0,number,number,E
+2019,2019,Manitoba,Females,50 to 64 years,Consultation with a health professional about emotional or mental health,23500.0,17500.0,33900.0,number,number,E
+2019,2019,Manitoba,Females,50 to 64 years,"Positive mental health, flourishing",93200.0,77900.0,104600.0,number,number,
+2019,2019,Manitoba,Females,50 to 64 years,Suicidal thoughts (15 years and over),17700.0,12500.0,26400.0,number,number,E
+2019,2019,Manitoba,Females,65 years and over,Consultation with a health professional about emotional or mental health,10100.0,7900.0,12600.0,number,number,
+2019,2019,Manitoba,Females,65 years and over,"Positive mental health, flourishing",88600.0,77800.0,99200.0,number,number,
+2019,2019,Manitoba,Females,65 years and over,Suicidal thoughts (15 years and over),8600.0,6800.0,10700.0,number,number,
+2019,2019,Manitoba,Females,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,104800.0,92300.0,125800.0,number,number,
+2019,2019,Manitoba,Females,"Total, 12 years and over","Positive mental health, flourishing",456600.0,428100.0,477600.0,number,number,
+2019,2019,Manitoba,Females,"Total, 12 years and over",Suicidal thoughts (15 years and over),80500.0,68900.0,99000.0,number,number,
+2019,2019,Manitoba,Males,12 to 17 years,"Positive mental health, flourishing",38800.0,30800.0,44700.0,number,number,
+2019,2019,Manitoba,Males,18 to 34 years,Consultation with a health professional about emotional or mental health,16200.0,9200.0,25300.0,number,number,E
+2019,2019,Manitoba,Males,18 to 34 years,"Positive mental health, flourishing",137100.0,113900.0,148100.0,number,number,
+2019,2019,Manitoba,Males,18 to 34 years,Suicidal thoughts (15 years and over),31700.0,19400.0,44000.0,number,number,E
+2019,2019,Manitoba,Males,35 to 49 years,Consultation with a health professional about emotional or mental health,7100.0,3800.0,11700.0,number,number,E
+2019,2019,Manitoba,Males,35 to 49 years,"Positive mental health, flourishing",90700.0,65000.0,113300.0,number,number,
+2019,2019,Manitoba,Males,35 to 49 years,Suicidal thoughts (15 years and over),10500.0,5700.0,16800.0,number,number,E
+2019,2019,Manitoba,Males,50 to 64 years,Consultation with a health professional about emotional or mental health,15600.0,8500.0,23700.0,number,number,E
+2019,2019,Manitoba,Males,50 to 64 years,"Positive mental health, flourishing",95700.0,76100.0,107900.0,number,number,
+2019,2019,Manitoba,Males,50 to 64 years,Suicidal thoughts (15 years and over),16800.0,10600.0,25500.0,number,number,E
+2019,2019,Manitoba,Males,65 years and over,Consultation with a health professional about emotional or mental health,4900.0,3300.0,6500.0,number,number,E
+2019,2019,Manitoba,Males,65 years and over,"Positive mental health, flourishing",64300.0,47500.0,73900.0,number,number,
+2019,2019,Manitoba,Males,65 years and over,Suicidal thoughts (15 years and over),6500.0,4300.0,8900.0,number,number,E
+2019,2019,Manitoba,Males,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,47000.0,37900.0,59600.0,number,number,
+2019,2019,Manitoba,Males,"Total, 12 years and over","Positive mental health, flourishing",426500.0,375300.0,454900.0,number,number,
+2019,2019,Manitoba,Males,"Total, 12 years and over",Suicidal thoughts (15 years and over),65900.0,51100.0,82000.0,number,number,
+2019,2019,New Brunswick,Both sexes,12 to 17 years,Consultation with a health professional about emotional or mental health,7700.0,4500.0,10800.0,number,number,E
+2019,2019,New Brunswick,Both sexes,12 to 17 years,"Positive mental health, flourishing",35100.0,25200.0,43100.0,number,number,
+2019,2019,New Brunswick,Both sexes,18 to 34 years,Consultation with a health professional about emotional or mental health,40400.0,30400.0,48100.0,number,number,
+2019,2019,New Brunswick,Both sexes,18 to 34 years,"Positive mental health, flourishing",151100.0,108100.0,193400.0,number,number,
+2019,2019,New Brunswick,Both sexes,18 to 34 years,Suicidal thoughts (15 years and over),32000.0,23400.0,39900.0,number,number,
+2019,2019,New Brunswick,Both sexes,35 to 49 years,Consultation with a health professional about emotional or mental health,22200.0,14700.0,30000.0,number,number,E
+2019,2019,New Brunswick,Both sexes,35 to 49 years,"Positive mental health, flourishing",105100.0,73000.0,140700.0,number,number,E
+2019,2019,New Brunswick,Both sexes,35 to 49 years,Suicidal thoughts (15 years and over),19900.0,13100.0,26200.0,number,number,E
+2019,2019,New Brunswick,Both sexes,50 to 64 years,Consultation with a health professional about emotional or mental health,18200.0,12400.0,24200.0,number,number,E
+2019,2019,New Brunswick,Both sexes,50 to 64 years,"Positive mental health, flourishing",134800.0,102600.0,161100.0,number,number,
+2019,2019,New Brunswick,Both sexes,50 to 64 years,Suicidal thoughts (15 years and over),26400.0,18300.0,34200.0,number,number,E
+2019,2019,New Brunswick,Both sexes,65 years and over,Consultation with a health professional about emotional or mental health,9600.0,7800.0,11400.0,number,number,
+2019,2019,New Brunswick,Both sexes,65 years and over,"Positive mental health, flourishing",112900.0,85900.0,140600.0,number,number,
+2019,2019,New Brunswick,Both sexes,65 years and over,Suicidal thoughts (15 years and over),8200.0,6500.0,10000.0,number,number,
+2019,2019,New Brunswick,Both sexes,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,98100.0,83400.0,110500.0,number,number,
+2019,2019,New Brunswick,Both sexes,"Total, 12 years and over","Positive mental health, flourishing",539000.0,457600.0,616900.0,number,number,
+2019,2019,New Brunswick,Both sexes,"Total, 12 years and over",Suicidal thoughts (15 years and over),88600.0,73800.0,101200.0,number,number,
+2019,2019,New Brunswick,Females,12 to 17 years,Consultation with a health professional about emotional or mental health,4800.0,2400.0,7400.0,number,number,E
+2019,2019,New Brunswick,Females,12 to 17 years,"Positive mental health, flourishing",16900.0,8100.0,24500.0,number,number,E
+2019,2019,New Brunswick,Females,18 to 34 years,Consultation with a health professional about emotional or mental health,23700.0,16700.0,29600.0,number,number,
+2019,2019,New Brunswick,Females,18 to 34 years,"Positive mental health, flourishing",58400.0,35900.0,84700.0,number,number,E
+2019,2019,New Brunswick,Females,18 to 34 years,Suicidal thoughts (15 years and over),15900.0,10300.0,21500.0,number,number,E
+2019,2019,New Brunswick,Females,35 to 49 years,Consultation with a health professional about emotional or mental health,14000.0,8600.0,20100.0,number,number,E
+2019,2019,New Brunswick,Females,35 to 49 years,"Positive mental health, flourishing",64800.0,37200.0,92500.0,number,number,E
+2019,2019,New Brunswick,Females,35 to 49 years,Suicidal thoughts (15 years and over),10600.0,6300.0,15100.0,number,number,E
+2019,2019,New Brunswick,Females,50 to 64 years,Consultation with a health professional about emotional or mental health,7800.0,5100.0,11200.0,number,number,E
+2019,2019,New Brunswick,Females,50 to 64 years,"Positive mental health, flourishing",65800.0,45500.0,87000.0,number,number,E
+2019,2019,New Brunswick,Females,50 to 64 years,Suicidal thoughts (15 years and over),14900.0,8700.0,21600.0,number,number,E
+2019,2019,New Brunswick,Females,65 years and over,Consultation with a health professional about emotional or mental health,7100.0,5500.0,8900.0,number,number,
+2019,2019,New Brunswick,Females,65 years and over,"Positive mental health, flourishing",58400.0,42600.0,77600.0,number,number,E
+2019,2019,New Brunswick,Females,65 years and over,Suicidal thoughts (15 years and over),4900.0,3700.0,6200.0,number,number,
+2019,2019,New Brunswick,Females,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,57500.0,48000.0,67000.0,number,number,
+2019,2019,New Brunswick,Females,"Total, 12 years and over","Positive mental health, flourishing",264300.0,211600.0,321000.0,number,number,
+2019,2019,New Brunswick,Females,"Total, 12 years and over",Suicidal thoughts (15 years and over),47900.0,37100.0,58800.0,number,number,
+2019,2019,New Brunswick,Males,12 to 17 years,"Positive mental health, flourishing",18300.0,11800.0,24800.0,number,number,E
+2019,2019,New Brunswick,Males,18 to 34 years,Consultation with a health professional about emotional or mental health,16700.0,9000.0,22200.0,number,number,E
+2019,2019,New Brunswick,Males,18 to 34 years,"Positive mental health, flourishing",92600.0,59000.0,122700.0,number,number,E
+2019,2019,New Brunswick,Males,18 to 34 years,Suicidal thoughts (15 years and over),16100.0,8900.0,23600.0,number,number,E
+2019,2019,New Brunswick,Males,35 to 49 years,Consultation with a health professional about emotional or mental health,8200.0,3900.0,13400.0,number,number,E
+2019,2019,New Brunswick,Males,35 to 49 years,"Positive mental health, flourishing",40300.0,22100.0,65300.0,number,number,E
+2019,2019,New Brunswick,Males,35 to 49 years,Suicidal thoughts (15 years and over),9300.0,4200.0,14500.0,number,number,E
+2019,2019,New Brunswick,Males,50 to 64 years,Consultation with a health professional about emotional or mental health,10400.0,5400.0,15200.0,number,number,E
+2019,2019,New Brunswick,Males,50 to 64 years,"Positive mental health, flourishing",69000.0,41900.0,88000.0,number,number,E
+2019,2019,New Brunswick,Males,50 to 64 years,Suicidal thoughts (15 years and over),11600.0,7000.0,16100.0,number,number,E
+2019,2019,New Brunswick,Males,65 years and over,Consultation with a health professional about emotional or mental health,2500.0,1600.0,3400.0,number,number,E
+2019,2019,New Brunswick,Males,65 years and over,"Positive mental health, flourishing",54500.0,37300.0,74400.0,number,number,E
+2019,2019,New Brunswick,Males,65 years and over,Suicidal thoughts (15 years and over),3400.0,2300.0,4500.0,number,number,E
+2019,2019,New Brunswick,Males,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,40700.0,30400.0,49800.0,number,number,
+2019,2019,New Brunswick,Males,"Total, 12 years and over","Positive mental health, flourishing",274700.0,222900.0,316800.0,number,number,
+2019,2019,New Brunswick,Males,"Total, 12 years and over",Suicidal thoughts (15 years and over),40700.0,31100.0,49900.0,number,number,
+2019,2019,Newfoundland and Labrador,Both sexes,12 to 17 years,Consultation with a health professional about emotional or mental health,5100.0,2800.0,7600.0,number,number,E
+2019,2019,Newfoundland and Labrador,Both sexes,12 to 17 years,"Positive mental health, flourishing",26700.0,18600.0,34900.0,number,number,E
+2019,2019,Newfoundland and Labrador,Both sexes,18 to 34 years,Consultation with a health professional about emotional or mental health,19600.0,14300.0,27100.0,number,number,E
+2019,2019,Newfoundland and Labrador,Both sexes,18 to 34 years,"Positive mental health, flourishing",65400.0,40100.0,95000.0,number,number,E
+2019,2019,Newfoundland and Labrador,Both sexes,18 to 34 years,Suicidal thoughts (15 years and over),19100.0,12300.0,26000.0,number,number,E
+2019,2019,Newfoundland and Labrador,Both sexes,35 to 49 years,Consultation with a health professional about emotional or mental health,18700.0,12500.0,25600.0,number,number,E
+2019,2019,Newfoundland and Labrador,Both sexes,35 to 49 years,"Positive mental health, flourishing",92000.0,49900.0,133800.0,number,number,E
+2019,2019,Newfoundland and Labrador,Both sexes,35 to 49 years,Suicidal thoughts (15 years and over),12200.0,7000.0,17100.0,number,number,E
+2019,2019,Newfoundland and Labrador,Both sexes,50 to 64 years,Consultation with a health professional about emotional or mental health,17200.0,11700.0,23400.0,number,number,E
+2019,2019,Newfoundland and Labrador,Both sexes,50 to 64 years,"Positive mental health, flourishing",97900.0,64900.0,131700.0,number,number,E
+2019,2019,Newfoundland and Labrador,Both sexes,50 to 64 years,Suicidal thoughts (15 years and over),10500.0,6000.0,15400.0,number,number,E
+2019,2019,Newfoundland and Labrador,Both sexes,65 years and over,Consultation with a health professional about emotional or mental health,5100.0,3800.0,6600.0,number,number,
+2019,2019,Newfoundland and Labrador,Both sexes,65 years and over,"Positive mental health, flourishing",81300.0,59400.0,106900.0,number,number,
+2019,2019,Newfoundland and Labrador,Both sexes,65 years and over,Suicidal thoughts (15 years and over),3300.0,2000.0,4400.0,number,number,E
+2019,2019,Newfoundland and Labrador,Both sexes,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,65700.0,55900.0,78600.0,number,number,
+2019,2019,Newfoundland and Labrador,Both sexes,"Total, 12 years and over","Positive mental health, flourishing",363300.0,283200.0,448700.0,number,number,
+2019,2019,Newfoundland and Labrador,Both sexes,"Total, 12 years and over",Suicidal thoughts (15 years and over),46800.0,37200.0,56800.0,number,number,
+2019,2019,Newfoundland and Labrador,Females,12 to 17 years,Consultation with a health professional about emotional or mental health,3700.0,1400.0,5600.0,number,number,E
+2019,2019,Newfoundland and Labrador,Females,18 to 34 years,Consultation with a health professional about emotional or mental health,11500.0,7100.0,17200.0,number,number,E
+2019,2019,Newfoundland and Labrador,Females,18 to 34 years,"Positive mental health, flourishing",29100.0,13700.0,46500.0,number,number,E
+2019,2019,Newfoundland and Labrador,Females,35 to 49 years,Consultation with a health professional about emotional or mental health,12900.0,7500.0,18100.0,number,number,E
+2019,2019,Newfoundland and Labrador,Females,35 to 49 years,"Positive mental health, flourishing",33800.0,18300.0,59300.0,number,number,E
+2019,2019,Newfoundland and Labrador,Females,35 to 49 years,Suicidal thoughts (15 years and over),7900.0,3000.0,12400.0,number,number,E
+2019,2019,Newfoundland and Labrador,Females,50 to 64 years,Consultation with a health professional about emotional or mental health,11300.0,7500.0,16300.0,number,number,E
+2019,2019,Newfoundland and Labrador,Females,50 to 64 years,"Positive mental health, flourishing",54900.0,26400.0,79100.0,number,number,E
+2019,2019,Newfoundland and Labrador,Females,50 to 64 years,Suicidal thoughts (15 years and over),5800.0,2700.0,9200.0,number,number,E
+2019,2019,Newfoundland and Labrador,Females,65 years and over,Consultation with a health professional about emotional or mental health,3600.0,2500.0,4700.0,number,number,E
+2019,2019,Newfoundland and Labrador,Females,65 years and over,"Positive mental health, flourishing",44800.0,31600.0,62100.0,number,number,E
+2019,2019,Newfoundland and Labrador,Females,65 years and over,Suicidal thoughts (15 years and over),1500.0,700.0,2200.0,number,number,E
+2019,2019,Newfoundland and Labrador,Females,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,43000.0,33600.0,52900.0,number,number,
+2019,2019,Newfoundland and Labrador,Females,"Total, 12 years and over","Positive mental health, flourishing",169700.0,129600.0,218800.0,number,number,
+2019,2019,Newfoundland and Labrador,Females,"Total, 12 years and over",Suicidal thoughts (15 years and over),19600.0,13500.0,26100.0,number,number,E
+2019,2019,Newfoundland and Labrador,Males,12 to 17 years,"Positive mental health, flourishing",19700.0,13100.0,26800.0,number,number,E
+2019,2019,Newfoundland and Labrador,Males,18 to 34 years,Consultation with a health professional about emotional or mental health,8100.0,4600.0,13100.0,number,number,E
+2019,2019,Newfoundland and Labrador,Males,18 to 34 years,"Positive mental health, flourishing",36200.0,17200.0,58600.0,number,number,E
+2019,2019,Newfoundland and Labrador,Males,18 to 34 years,Suicidal thoughts (15 years and over),15100.0,9000.0,20400.0,number,number,E
+2019,2019,Newfoundland and Labrador,Males,35 to 49 years,Consultation with a health professional about emotional or mental health,5800.0,3100.0,9800.0,number,number,E
+2019,2019,Newfoundland and Labrador,Males,35 to 49 years,"Positive mental health, flourishing",58200.0,22300.0,87400.0,number,number,E
+2019,2019,Newfoundland and Labrador,Males,35 to 49 years,Suicidal thoughts (15 years and over),4400.0,2300.0,7000.0,number,number,E
+2019,2019,Newfoundland and Labrador,Males,50 to 64 years,Consultation with a health professional about emotional or mental health,5900.0,3000.0,9300.0,number,number,E
+2019,2019,Newfoundland and Labrador,Males,50 to 64 years,"Positive mental health, flourishing",43000.0,27900.0,66600.0,number,number,E
+2019,2019,Newfoundland and Labrador,Males,50 to 64 years,Suicidal thoughts (15 years and over),4800.0,1900.0,8000.0,number,number,E
+2019,2019,Newfoundland and Labrador,Males,65 years and over,Consultation with a health professional about emotional or mental health,1600.0,800.0,2400.0,number,number,E
+2019,2019,Newfoundland and Labrador,Males,65 years and over,"Positive mental health, flourishing",36500.0,21100.0,54100.0,number,number,E
+2019,2019,Newfoundland and Labrador,Males,65 years and over,Suicidal thoughts (15 years and over),1800.0,1000.0,2800.0,number,number,E
+2019,2019,Newfoundland and Labrador,Males,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,22700.0,17800.0,30200.0,number,number,
+2019,2019,Newfoundland and Labrador,Males,"Total, 12 years and over","Positive mental health, flourishing",193600.0,139000.0,246900.0,number,number,
+2019,2019,Newfoundland and Labrador,Males,"Total, 12 years and over",Suicidal thoughts (15 years and over),27200.0,19500.0,34500.0,number,number,
+2019,2019,Nova Scotia,Both sexes,12 to 17 years,Consultation with a health professional about emotional or mental health,8600.0,4900.0,12200.0,number,number,E
+2019,2019,Nova Scotia,Both sexes,12 to 17 years,"Positive mental health, flourishing",37100.0,28300.0,46600.0,number,number,
+2019,2019,Nova Scotia,Both sexes,18 to 34 years,Consultation with a health professional about emotional or mental health,55500.0,45500.0,67600.0,number,number,
+2019,2019,Nova Scotia,Both sexes,18 to 34 years,"Positive mental health, flourishing",140200.0,101000.0,170800.0,number,number,
+2019,2019,Nova Scotia,Both sexes,18 to 34 years,Suicidal thoughts (15 years and over),36400.0,26700.0,48500.0,number,number,
+2019,2019,Nova Scotia,Both sexes,35 to 49 years,Consultation with a health professional about emotional or mental health,38300.0,30700.0,48200.0,number,number,
+2019,2019,Nova Scotia,Both sexes,35 to 49 years,"Positive mental health, flourishing",110300.0,74100.0,149400.0,number,number,E
+2019,2019,Nova Scotia,Both sexes,35 to 49 years,Suicidal thoughts (15 years and over),29100.0,21700.0,38200.0,number,number,
+2019,2019,Nova Scotia,Both sexes,50 to 64 years,Consultation with a health professional about emotional or mental health,38500.0,29800.0,46800.0,number,number,
+2019,2019,Nova Scotia,Both sexes,50 to 64 years,"Positive mental health, flourishing",179600.0,140500.0,221000.0,number,number,
+2019,2019,Nova Scotia,Both sexes,50 to 64 years,Suicidal thoughts (15 years and over),28100.0,20800.0,37300.0,number,number,E
+2019,2019,Nova Scotia,Both sexes,65 years and over,Consultation with a health professional about emotional or mental health,15500.0,12700.0,18200.0,number,number,
+2019,2019,Nova Scotia,Both sexes,65 years and over,"Positive mental health, flourishing",156000.0,120400.0,187700.0,number,number,
+2019,2019,Nova Scotia,Both sexes,65 years and over,Suicidal thoughts (15 years and over),11600.0,9300.0,14100.0,number,number,
+2019,2019,Nova Scotia,Both sexes,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,156500.0,138800.0,175900.0,number,number,
+2019,2019,Nova Scotia,Both sexes,"Total, 12 years and over","Positive mental health, flourishing",623200.0,531800.0,704200.0,number,number,
+2019,2019,Nova Scotia,Both sexes,"Total, 12 years and over",Suicidal thoughts (15 years and over),107500.0,92600.0,126300.0,number,number,
+2019,2019,Nova Scotia,Females,12 to 17 years,Consultation with a health professional about emotional or mental health,4700.0,2200.0,7100.0,number,number,E
+2019,2019,Nova Scotia,Females,12 to 17 years,"Positive mental health, flourishing",16300.0,8400.0,24600.0,number,number,E
+2019,2019,Nova Scotia,Females,18 to 34 years,Consultation with a health professional about emotional or mental health,40300.0,32500.0,49600.0,number,number,
+2019,2019,Nova Scotia,Females,18 to 34 years,"Positive mental health, flourishing",84900.0,58400.0,103600.0,number,number,
+2019,2019,Nova Scotia,Females,18 to 34 years,Suicidal thoughts (15 years and over),22200.0,15500.0,30200.0,number,number,E
+2019,2019,Nova Scotia,Females,35 to 49 years,Consultation with a health professional about emotional or mental health,27800.0,21300.0,35700.0,number,number,
+2019,2019,Nova Scotia,Females,35 to 49 years,"Positive mental health, flourishing",63300.0,32100.0,90900.0,number,number,E
+2019,2019,Nova Scotia,Females,35 to 49 years,Suicidal thoughts (15 years and over),17700.0,11900.0,23800.0,number,number,E
+2019,2019,Nova Scotia,Females,50 to 64 years,Consultation with a health professional about emotional or mental health,21900.0,16100.0,27900.0,number,number,
+2019,2019,Nova Scotia,Females,50 to 64 years,"Positive mental health, flourishing",102500.0,73800.0,132300.0,number,number,
+2019,2019,Nova Scotia,Females,50 to 64 years,Suicidal thoughts (15 years and over),11900.0,7900.0,16700.0,number,number,E
+2019,2019,Nova Scotia,Females,65 years and over,Consultation with a health professional about emotional or mental health,9900.0,7600.0,12100.0,number,number,
+2019,2019,Nova Scotia,Females,65 years and over,"Positive mental health, flourishing",88100.0,62300.0,107300.0,number,number,
+2019,2019,Nova Scotia,Females,65 years and over,Suicidal thoughts (15 years and over),6600.0,4900.0,8600.0,number,number,
+2019,2019,Nova Scotia,Females,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,104600.0,91900.0,119300.0,number,number,
+2019,2019,Nova Scotia,Females,"Total, 12 years and over","Positive mental health, flourishing",355000.0,292000.0,406800.0,number,number,
+2019,2019,Nova Scotia,Females,"Total, 12 years and over",Suicidal thoughts (15 years and over),60200.0,50000.0,72700.0,number,number,
+2019,2019,Nova Scotia,Males,12 to 17 years,"Positive mental health, flourishing",20800.0,13800.0,28200.0,number,number,E
+2019,2019,Nova Scotia,Males,18 to 34 years,Consultation with a health professional about emotional or mental health,15200.0,8300.0,22300.0,number,number,E
+2019,2019,Nova Scotia,Males,18 to 34 years,"Positive mental health, flourishing",55300.0,33800.0,77600.0,number,number,E
+2019,2019,Nova Scotia,Males,18 to 34 years,Suicidal thoughts (15 years and over),14300.0,7200.0,22400.0,number,number,E
+2019,2019,Nova Scotia,Males,35 to 49 years,Consultation with a health professional about emotional or mental health,10600.0,6000.0,16500.0,number,number,E
+2019,2019,Nova Scotia,Males,35 to 49 years,"Positive mental health, flourishing",47000.0,28300.0,74800.0,number,number,E
+2019,2019,Nova Scotia,Males,35 to 49 years,Suicidal thoughts (15 years and over),11400.0,6000.0,17600.0,number,number,E
+2019,2019,Nova Scotia,Males,50 to 64 years,Consultation with a health professional about emotional or mental health,16600.0,10500.0,22000.0,number,number,E
+2019,2019,Nova Scotia,Males,50 to 64 years,"Positive mental health, flourishing",77000.0,49500.0,102400.0,number,number,E
+2019,2019,Nova Scotia,Males,50 to 64 years,Suicidal thoughts (15 years and over),16200.0,10700.0,23600.0,number,number,E
+2019,2019,Nova Scotia,Males,65 years and over,Consultation with a health professional about emotional or mental health,5600.0,4100.0,7400.0,number,number,E
+2019,2019,Nova Scotia,Males,65 years and over,"Positive mental health, flourishing",68000.0,47900.0,89700.0,number,number,E
+2019,2019,Nova Scotia,Males,65 years and over,Suicidal thoughts (15 years and over),5000.0,3600.0,6600.0,number,number,E
+2019,2019,Nova Scotia,Males,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,51800.0,40100.0,63300.0,number,number,
+2019,2019,Nova Scotia,Males,"Total, 12 years and over","Positive mental health, flourishing",268100.0,225500.0,316700.0,number,number,
+2019,2019,Nova Scotia,Males,"Total, 12 years and over",Suicidal thoughts (15 years and over),47300.0,36800.0,59500.0,number,number,
+2019,2019,Ontario,Both sexes,12 to 17 years,Consultation with a health professional about emotional or mental health,158200.0,129200.0,188300.0,number,number,
+2019,2019,Ontario,Both sexes,12 to 17 years,"Positive mental health, flourishing",780400.0,731100.0,829300.0,number,number,
+2019,2019,Ontario,Both sexes,12 to 17 years,Suicidal thoughts (15 years and over),61000.0,40100.0,81900.0,number,number,E
+2019,2019,Ontario,Both sexes,18 to 34 years,Consultation with a health professional about emotional or mental health,676600.0,611100.0,751500.0,number,number,
+2019,2019,Ontario,Both sexes,18 to 34 years,"Positive mental health, flourishing",2662300.0,2497000.0,2825200.0,number,number,
+2019,2019,Ontario,Both sexes,18 to 34 years,Suicidal thoughts (15 years and over),552200.0,488300.0,622900.0,number,number,
+2019,2019,Ontario,Both sexes,35 to 49 years,Consultation with a health professional about emotional or mental health,498800.0,453400.0,558100.0,number,number,
+2019,2019,Ontario,Both sexes,35 to 49 years,"Positive mental health, flourishing",2333300.0,2214300.0,2435200.0,number,number,
+2019,2019,Ontario,Both sexes,35 to 49 years,Suicidal thoughts (15 years and over),302200.0,258300.0,348400.0,number,number,
+2019,2019,Ontario,Both sexes,50 to 64 years,Consultation with a health professional about emotional or mental health,416600.0,370200.0,465700.0,number,number,
+2019,2019,Ontario,Both sexes,50 to 64 years,"Positive mental health, flourishing",2477300.0,2338400.0,2569900.0,number,number,
+2019,2019,Ontario,Both sexes,50 to 64 years,Suicidal thoughts (15 years and over),298600.0,258500.0,342800.0,number,number,
+2019,2019,Ontario,Both sexes,65 years and over,Consultation with a health professional about emotional or mental health,174200.0,155600.0,199900.0,number,number,
+2019,2019,Ontario,Both sexes,65 years and over,"Positive mental health, flourishing",1752600.0,1641900.0,1859500.0,number,number,
+2019,2019,Ontario,Both sexes,65 years and over,Suicidal thoughts (15 years and over),153100.0,132600.0,176400.0,number,number,
+2019,2019,Ontario,Both sexes,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,1924500.0,1830200.0,2041600.0,number,number,
+2019,2019,Ontario,Both sexes,"Total, 12 years and over","Positive mental health, flourishing",10005900.0,9730100.0,10242900.0,number,number,
+2019,2019,Ontario,Both sexes,"Total, 12 years and over",Suicidal thoughts (15 years and over),1367200.0,1275000.0,1462800.0,number,number,
+2019,2019,Ontario,Females,12 to 17 years,Consultation with a health professional about emotional or mental health,96600.0,74600.0,121500.0,number,number,
+2019,2019,Ontario,Females,12 to 17 years,"Positive mental health, flourishing",364400.0,327600.0,399000.0,number,number,
+2019,2019,Ontario,Females,12 to 17 years,Suicidal thoughts (15 years and over),43400.0,26700.0,61300.0,number,number,E
+2019,2019,Ontario,Females,18 to 34 years,Consultation with a health professional about emotional or mental health,454900.0,407200.0,503800.0,number,number,
+2019,2019,Ontario,Females,18 to 34 years,"Positive mental health, flourishing",1315200.0,1190900.0,1443900.0,number,number,
+2019,2019,Ontario,Females,18 to 34 years,Suicidal thoughts (15 years and over),279500.0,237300.0,323700.0,number,number,
+2019,2019,Ontario,Females,35 to 49 years,Consultation with a health professional about emotional or mental health,315800.0,280900.0,358600.0,number,number,
+2019,2019,Ontario,Females,35 to 49 years,"Positive mental health, flourishing",1221800.0,1129100.0,1279300.0,number,number,
+2019,2019,Ontario,Females,35 to 49 years,Suicidal thoughts (15 years and over),168400.0,138800.0,197500.0,number,number,
+2019,2019,Ontario,Females,50 to 64 years,Consultation with a health professional about emotional or mental health,250100.0,217400.0,288000.0,number,number,
+2019,2019,Ontario,Females,50 to 64 years,"Positive mental health, flourishing",1252500.0,1156500.0,1325800.0,number,number,
+2019,2019,Ontario,Females,50 to 64 years,Suicidal thoughts (15 years and over),169700.0,141400.0,199000.0,number,number,
+2019,2019,Ontario,Females,65 years and over,Consultation with a health professional about emotional or mental health,117400.0,100600.0,137400.0,number,number,
+2019,2019,Ontario,Females,65 years and over,"Positive mental health, flourishing",957500.0,872800.0,1038900.0,number,number,
+2019,2019,Ontario,Females,65 years and over,Suicidal thoughts (15 years and over),101300.0,84100.0,120800.0,number,number,
+2019,2019,Ontario,Females,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,1234800.0,1164300.0,1324600.0,number,number,
+2019,2019,Ontario,Females,"Total, 12 years and over","Positive mental health, flourishing",5111400.0,4906700.0,5273900.0,number,number,
+2019,2019,Ontario,Females,"Total, 12 years and over",Suicidal thoughts (15 years and over),762200.0,702800.0,825900.0,number,number,
+2019,2019,Ontario,Males,12 to 17 years,Consultation with a health professional about emotional or mental health,61500.0,43100.0,79100.0,number,number,E
+2019,2019,Ontario,Males,12 to 17 years,"Positive mental health, flourishing",415900.0,383600.0,448900.0,number,number,
+2019,2019,Ontario,Males,12 to 17 years,Suicidal thoughts (15 years and over),17600.0,6400.0,29000.0,number,number,E
+2019,2019,Ontario,Males,18 to 34 years,Consultation with a health professional about emotional or mental health,221700.0,179100.0,271700.0,number,number,
+2019,2019,Ontario,Males,18 to 34 years,"Positive mental health, flourishing",1347100.0,1231400.0,1450200.0,number,number,
+2019,2019,Ontario,Males,18 to 34 years,Suicidal thoughts (15 years and over),272800.0,222000.0,324700.0,number,number,
+2019,2019,Ontario,Males,35 to 49 years,Consultation with a health professional about emotional or mental health,183100.0,151100.0,218800.0,number,number,
+2019,2019,Ontario,Males,35 to 49 years,"Positive mental health, flourishing",1111500.0,1025300.0,1201100.0,number,number,
+2019,2019,Ontario,Males,35 to 49 years,Suicidal thoughts (15 years and over),133800.0,103000.0,166700.0,number,number,
+2019,2019,Ontario,Males,50 to 64 years,Consultation with a health professional about emotional or mental health,166500.0,133000.0,200600.0,number,number,
+2019,2019,Ontario,Males,50 to 64 years,"Positive mental health, flourishing",1224800.0,1131900.0,1291200.0,number,number,
+2019,2019,Ontario,Males,50 to 64 years,Suicidal thoughts (15 years and over),129000.0,102500.0,160300.0,number,number,
+2019,2019,Ontario,Males,65 years and over,Consultation with a health professional about emotional or mental health,56800.0,45900.0,70500.0,number,number,
+2019,2019,Ontario,Males,65 years and over,"Positive mental health, flourishing",795100.0,722200.0,866500.0,number,number,
+2019,2019,Ontario,Males,65 years and over,Suicidal thoughts (15 years and over),51900.0,41800.0,64000.0,number,number,
+2019,2019,Ontario,Males,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,689600.0,621300.0,759900.0,number,number,
+2019,2019,Ontario,Males,"Total, 12 years and over","Positive mental health, flourishing",4894400.0,4714400.0,5054300.0,number,number,
+2019,2019,Ontario,Males,"Total, 12 years and over",Suicidal thoughts (15 years and over),605000.0,535300.0,678600.0,number,number,
+2019,2019,Prince Edward Island,Both sexes,12 to 17 years,Consultation with a health professional about emotional or mental health,1500.0,700.0,2300.0,number,number,E
+2019,2019,Prince Edward Island,Both sexes,12 to 17 years,"Positive mental health, flourishing",9600.0,6400.0,14400.0,number,number,E
+2019,2019,Prince Edward Island,Both sexes,18 to 34 years,Consultation with a health professional about emotional or mental health,10900.0,7900.0,13400.0,number,number,
+2019,2019,Prince Edward Island,Both sexes,18 to 34 years,"Positive mental health, flourishing",20500.0,11600.0,31400.0,number,number,E
+2019,2019,Prince Edward Island,Both sexes,18 to 34 years,Suicidal thoughts (15 years and over),7000.0,4600.0,9500.0,number,number,E
+2019,2019,Prince Edward Island,Both sexes,35 to 49 years,Consultation with a health professional about emotional or mental health,6200.0,4400.0,8500.0,number,number,E
+2019,2019,Prince Edward Island,Both sexes,35 to 49 years,"Positive mental health, flourishing",24800.0,16100.0,37600.0,number,number,E
+2019,2019,Prince Edward Island,Both sexes,35 to 49 years,Suicidal thoughts (15 years and over),2000.0,1000.0,3400.0,number,number,E
+2019,2019,Prince Edward Island,Both sexes,50 to 64 years,Consultation with a health professional about emotional or mental health,5200.0,3000.0,7400.0,number,number,E
+2019,2019,Prince Edward Island,Both sexes,50 to 64 years,"Positive mental health, flourishing",27700.0,17800.0,40700.0,number,number,E
+2019,2019,Prince Edward Island,Both sexes,50 to 64 years,Suicidal thoughts (15 years and over),2400.0,1000.0,4000.0,number,number,E
+2019,2019,Prince Edward Island,Both sexes,65 years and over,Consultation with a health professional about emotional or mental health,2100.0,1700.0,2600.0,number,number,
+2019,2019,Prince Edward Island,Both sexes,65 years and over,"Positive mental health, flourishing",25400.0,17500.0,35000.0,number,number,E
+2019,2019,Prince Edward Island,Both sexes,65 years and over,Suicidal thoughts (15 years and over),1600.0,1200.0,2000.0,number,number,
+2019,2019,Prince Edward Island,Both sexes,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,25900.0,21600.0,30100.0,number,number,
+2019,2019,Prince Edward Island,Both sexes,"Total, 12 years and over","Positive mental health, flourishing",108000.0,93700.0,132200.0,number,number,
+2019,2019,Prince Edward Island,Both sexes,"Total, 12 years and over",Suicidal thoughts (15 years and over),14000.0,10900.0,17600.0,number,number,
+2019,2019,Prince Edward Island,Females,18 to 34 years,Consultation with a health professional about emotional or mental health,7800.0,5300.0,9500.0,number,number,
+2019,2019,Prince Edward Island,Females,18 to 34 years,"Positive mental health, flourishing",10100.0,4800.0,17400.0,number,number,E
+2019,2019,Prince Edward Island,Females,18 to 34 years,Suicidal thoughts (15 years and over),4400.0,2500.0,6300.0,number,number,E
+2019,2019,Prince Edward Island,Females,35 to 49 years,Consultation with a health professional about emotional or mental health,4200.0,2800.0,5900.0,number,number,E
+2019,2019,Prince Edward Island,Females,35 to 49 years,"Positive mental health, flourishing",11300.0,6500.0,20400.0,number,number,E
+2019,2019,Prince Edward Island,Females,35 to 49 years,Suicidal thoughts (15 years and over),1400.0,700.0,2600.0,number,number,E
+2019,2019,Prince Edward Island,Females,50 to 64 years,Consultation with a health professional about emotional or mental health,4000.0,1900.0,5700.0,number,number,E
+2019,2019,Prince Edward Island,Females,50 to 64 years,"Positive mental health, flourishing",9800.0,4900.0,17000.0,number,number,E
+2019,2019,Prince Edward Island,Females,65 years and over,Consultation with a health professional about emotional or mental health,1400.0,1000.0,1800.0,number,number,
+2019,2019,Prince Edward Island,Females,65 years and over,"Positive mental health, flourishing",12000.0,7200.0,18500.0,number,number,E
+2019,2019,Prince Edward Island,Females,65 years and over,Suicidal thoughts (15 years and over),900.0,700.0,1200.0,number,number,E
+2019,2019,Prince Edward Island,Females,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,18500.0,14900.0,21200.0,number,number,
+2019,2019,Prince Edward Island,Females,"Total, 12 years and over","Positive mental health, flourishing",49400.0,39600.0,65600.0,number,number,
+2019,2019,Prince Edward Island,Females,"Total, 12 years and over",Suicidal thoughts (15 years and over),9100.0,6700.0,11700.0,number,number,
+2019,2019,Prince Edward Island,Males,18 to 34 years,Consultation with a health professional about emotional or mental health,3100.0,1500.0,5000.0,number,number,E
+2019,2019,Prince Edward Island,Males,18 to 34 years,Suicidal thoughts (15 years and over),2600.0,1100.0,4300.0,number,number,E
+2019,2019,Prince Edward Island,Males,35 to 49 years,"Positive mental health, flourishing",13500.0,6200.0,23800.0,number,number,E
+2019,2019,Prince Edward Island,Males,50 to 64 years,"Positive mental health, flourishing",17900.0,9300.0,29600.0,number,number,E
+2019,2019,Prince Edward Island,Males,65 years and over,Consultation with a health professional about emotional or mental health,700.0,500.0,1000.0,number,number,E
+2019,2019,Prince Edward Island,Males,65 years and over,"Positive mental health, flourishing",13400.0,6900.0,20900.0,number,number,E
+2019,2019,Prince Edward Island,Males,65 years and over,Suicidal thoughts (15 years and over),600.0,400.0,900.0,number,number,E
+2019,2019,Prince Edward Island,Males,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,7400.0,5100.0,10400.0,number,number,E
+2019,2019,Prince Edward Island,Males,"Total, 12 years and over","Positive mental health, flourishing",58600.0,44100.0,78400.0,number,number,
+2019,2019,Prince Edward Island,Males,"Total, 12 years and over",Suicidal thoughts (15 years and over),4900.0,3000.0,7000.0,number,number,E
+2019,2019,Quebec,Both sexes,12 to 17 years,Consultation with a health professional about emotional or mental health,65100.0,50700.0,78000.0,number,number,
+2019,2019,Quebec,Both sexes,12 to 17 years,"Positive mental health, flourishing",387200.0,355300.0,416300.0,number,number,
+2019,2019,Quebec,Both sexes,12 to 17 years,Suicidal thoughts (15 years and over),17400.0,11400.0,24000.0,number,number,E
+2019,2019,Quebec,Both sexes,18 to 34 years,Consultation with a health professional about emotional or mental health,326600.0,285200.0,365900.0,number,number,
+2019,2019,Quebec,Both sexes,18 to 34 years,"Positive mental health, flourishing",1437200.0,1360800.0,1510700.0,number,number,
+2019,2019,Quebec,Both sexes,18 to 34 years,Suicidal thoughts (15 years and over),260900.0,223400.0,299700.0,number,number,
+2019,2019,Quebec,Both sexes,35 to 49 years,Consultation with a health professional about emotional or mental health,293100.0,259700.0,327500.0,number,number,
+2019,2019,Quebec,Both sexes,35 to 49 years,"Positive mental health, flourishing",1317900.0,1248700.0,1403900.0,number,number,
+2019,2019,Quebec,Both sexes,35 to 49 years,Suicidal thoughts (15 years and over),209700.0,182300.0,237500.0,number,number,
+2019,2019,Quebec,Both sexes,50 to 64 years,Consultation with a health professional about emotional or mental health,208800.0,179600.0,239200.0,number,number,
+2019,2019,Quebec,Both sexes,50 to 64 years,"Positive mental health, flourishing",1370900.0,1284700.0,1458600.0,number,number,
+2019,2019,Quebec,Both sexes,50 to 64 years,Suicidal thoughts (15 years and over),251300.0,224400.0,283700.0,number,number,
+2019,2019,Quebec,Both sexes,65 years and over,Consultation with a health professional about emotional or mental health,74300.0,61700.0,89700.0,number,number,
+2019,2019,Quebec,Both sexes,65 years and over,"Positive mental health, flourishing",1204500.0,1132900.0,1252500.0,number,number,
+2019,2019,Quebec,Both sexes,65 years and over,Suicidal thoughts (15 years and over),119200.0,105400.0,135500.0,number,number,
+2019,2019,Quebec,Both sexes,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,967900.0,905800.0,1028300.0,number,number,
+2019,2019,Quebec,Both sexes,"Total, 12 years and over","Positive mental health, flourishing",5717700.0,5556900.0,5881100.0,number,number,
+2019,2019,Quebec,Both sexes,"Total, 12 years and over",Suicidal thoughts (15 years and over),858400.0,801400.0,921100.0,number,number,
+2019,2019,Quebec,Females,12 to 17 years,Consultation with a health professional about emotional or mental health,49900.0,36700.0,61800.0,number,number,
+2019,2019,Quebec,Females,12 to 17 years,"Positive mental health, flourishing",178300.0,155500.0,200300.0,number,number,
+2019,2019,Quebec,Females,12 to 17 years,Suicidal thoughts (15 years and over),14400.0,8700.0,20600.0,number,number,E
+2019,2019,Quebec,Females,18 to 34 years,Consultation with a health professional about emotional or mental health,226000.0,191100.0,257600.0,number,number,
+2019,2019,Quebec,Females,18 to 34 years,"Positive mental health, flourishing",680700.0,627700.0,735900.0,number,number,
+2019,2019,Quebec,Females,18 to 34 years,Suicidal thoughts (15 years and over),137200.0,109500.0,168100.0,number,number,
+2019,2019,Quebec,Females,35 to 49 years,Consultation with a health professional about emotional or mental health,189000.0,160600.0,218100.0,number,number,
+2019,2019,Quebec,Females,35 to 49 years,"Positive mental health, flourishing",675300.0,625300.0,731300.0,number,number,
+2019,2019,Quebec,Females,35 to 49 years,Suicidal thoughts (15 years and over),120100.0,98500.0,143300.0,number,number,
+2019,2019,Quebec,Females,50 to 64 years,Consultation with a health professional about emotional or mental health,140000.0,117400.0,163700.0,number,number,
+2019,2019,Quebec,Females,50 to 64 years,"Positive mental health, flourishing",650200.0,589400.0,717500.0,number,number,
+2019,2019,Quebec,Females,50 to 64 years,Suicidal thoughts (15 years and over),132300.0,111800.0,155500.0,number,number,
+2019,2019,Quebec,Females,65 years and over,Consultation with a health professional about emotional or mental health,52300.0,42700.0,63500.0,number,number,
+2019,2019,Quebec,Females,65 years and over,"Positive mental health, flourishing",630700.0,580600.0,671200.0,number,number,
+2019,2019,Quebec,Females,65 years and over,Suicidal thoughts (15 years and over),74600.0,64400.0,87200.0,number,number,
+2019,2019,Quebec,Females,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,657000.0,606200.0,707700.0,number,number,
+2019,2019,Quebec,Females,"Total, 12 years and over","Positive mental health, flourishing",2815100.0,2703200.0,2942600.0,number,number,
+2019,2019,Quebec,Females,"Total, 12 years and over",Suicidal thoughts (15 years and over),478500.0,439300.0,525600.0,number,number,
+2019,2019,Quebec,Males,12 to 17 years,Consultation with a health professional about emotional or mental health,15200.0,9500.0,21200.0,number,number,E
+2019,2019,Quebec,Males,12 to 17 years,"Positive mental health, flourishing",208900.0,189100.0,225900.0,number,number,
+2019,2019,Quebec,Males,18 to 34 years,Consultation with a health professional about emotional or mental health,100600.0,77600.0,122200.0,number,number,
+2019,2019,Quebec,Males,18 to 34 years,"Positive mental health, flourishing",756500.0,705300.0,798300.0,number,number,
+2019,2019,Quebec,Males,18 to 34 years,Suicidal thoughts (15 years and over),123700.0,97600.0,148200.0,number,number,
+2019,2019,Quebec,Males,35 to 49 years,Consultation with a health professional about emotional or mental health,104100.0,85000.0,127700.0,number,number,
+2019,2019,Quebec,Males,35 to 49 years,"Positive mental health, flourishing",642600.0,586800.0,705300.0,number,number,
+2019,2019,Quebec,Males,35 to 49 years,Suicidal thoughts (15 years and over),89500.0,69900.0,109400.0,number,number,
+2019,2019,Quebec,Males,50 to 64 years,Consultation with a health professional about emotional or mental health,68900.0,52500.0,88100.0,number,number,
+2019,2019,Quebec,Males,50 to 64 years,"Positive mental health, flourishing",720700.0,666200.0,773900.0,number,number,
+2019,2019,Quebec,Males,50 to 64 years,Suicidal thoughts (15 years and over),119000.0,99600.0,140000.0,number,number,
+2019,2019,Quebec,Males,65 years and over,Consultation with a health professional about emotional or mental health,22000.0,14500.0,30600.0,number,number,E
+2019,2019,Quebec,Males,65 years and over,"Positive mental health, flourishing",573800.0,531100.0,603200.0,number,number,
+2019,2019,Quebec,Males,65 years and over,Suicidal thoughts (15 years and over),44600.0,35100.0,55000.0,number,number,
+2019,2019,Quebec,Males,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,310800.0,275700.0,348700.0,number,number,
+2019,2019,Quebec,Males,"Total, 12 years and over","Positive mental health, flourishing",2902500.0,2787000.0,2996400.0,number,number,
+2019,2019,Quebec,Males,"Total, 12 years and over",Suicidal thoughts (15 years and over),379900.0,341500.0,423100.0,number,number,
+2019,2019,Saskatchewan,Both sexes,12 to 17 years,Consultation with a health professional about emotional or mental health,13300.0,8900.0,18400.0,number,number,E
+2019,2019,Saskatchewan,Both sexes,12 to 17 years,"Positive mental health, flourishing",69300.0,62000.0,74000.0,number,number,
+2019,2019,Saskatchewan,Both sexes,18 to 34 years,Consultation with a health professional about emotional or mental health,55300.0,42200.0,72000.0,number,number,
+2019,2019,Saskatchewan,Both sexes,18 to 34 years,"Positive mental health, flourishing",201900.0,176000.0,229000.0,number,number,
+2019,2019,Saskatchewan,Both sexes,18 to 34 years,Suicidal thoughts (15 years and over),42200.0,31200.0,58100.0,number,number,E
+2019,2019,Saskatchewan,Both sexes,35 to 49 years,Consultation with a health professional about emotional or mental health,55000.0,40500.0,68500.0,number,number,
+2019,2019,Saskatchewan,Both sexes,35 to 49 years,"Positive mental health, flourishing",182600.0,165500.0,201300.0,number,number,
+2019,2019,Saskatchewan,Both sexes,35 to 49 years,Suicidal thoughts (15 years and over),27300.0,17300.0,38900.0,number,number,E
+2019,2019,Saskatchewan,Both sexes,50 to 64 years,Consultation with a health professional about emotional or mental health,22200.0,15200.0,32200.0,number,number,E
+2019,2019,Saskatchewan,Both sexes,50 to 64 years,"Positive mental health, flourishing",179700.0,162000.0,196100.0,number,number,
+2019,2019,Saskatchewan,Both sexes,50 to 64 years,Suicidal thoughts (15 years and over),30300.0,19600.0,41000.0,number,number,E
+2019,2019,Saskatchewan,Both sexes,65 years and over,Consultation with a health professional about emotional or mental health,11600.0,9300.0,14500.0,number,number,
+2019,2019,Saskatchewan,Both sexes,65 years and over,"Positive mental health, flourishing",140300.0,122600.0,152400.0,number,number,
+2019,2019,Saskatchewan,Both sexes,65 years and over,Suicidal thoughts (15 years and over),10800.0,8400.0,14100.0,number,number,
+2019,2019,Saskatchewan,Both sexes,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,157500.0,137900.0,184700.0,number,number,
+2019,2019,Saskatchewan,Both sexes,"Total, 12 years and over","Positive mental health, flourishing",773800.0,730700.0,809500.0,number,number,
+2019,2019,Saskatchewan,Both sexes,"Total, 12 years and over",Suicidal thoughts (15 years and over),113900.0,95700.0,137300.0,number,number,
+2019,2019,Saskatchewan,Females,12 to 17 years,Consultation with a health professional about emotional or mental health,4900.0,2400.0,8500.0,number,number,E
+2019,2019,Saskatchewan,Females,12 to 17 years,"Positive mental health, flourishing",34500.0,18300.0,49500.0,number,number,E
+2019,2019,Saskatchewan,Females,18 to 34 years,Consultation with a health professional about emotional or mental health,32900.0,24600.0,43900.0,number,number,E
+2019,2019,Saskatchewan,Females,18 to 34 years,"Positive mental health, flourishing",114300.0,99200.0,121000.0,number,number,
+2019,2019,Saskatchewan,Females,18 to 34 years,Suicidal thoughts (15 years and over),20500.0,13000.0,29800.0,number,number,E
+2019,2019,Saskatchewan,Females,35 to 49 years,Consultation with a health professional about emotional or mental health,34700.0,24900.0,45200.0,number,number,
+2019,2019,Saskatchewan,Females,35 to 49 years,"Positive mental health, flourishing",83700.0,71300.0,100000.0,number,number,
+2019,2019,Saskatchewan,Females,35 to 49 years,Suicidal thoughts (15 years and over),14400.0,7500.0,22700.0,number,number,E
+2019,2019,Saskatchewan,Females,50 to 64 years,Consultation with a health professional about emotional or mental health,11100.0,6200.0,18000.0,number,number,E
+2019,2019,Saskatchewan,Females,50 to 64 years,"Positive mental health, flourishing",81300.0,66400.0,96300.0,number,number,
+2019,2019,Saskatchewan,Females,50 to 64 years,Suicidal thoughts (15 years and over),11400.0,6000.0,17400.0,number,number,E
+2019,2019,Saskatchewan,Females,65 years and over,Consultation with a health professional about emotional or mental health,8400.0,6200.0,11100.0,number,number,E
+2019,2019,Saskatchewan,Females,65 years and over,"Positive mental health, flourishing",79800.0,68100.0,85400.0,number,number,
+2019,2019,Saskatchewan,Females,65 years and over,Suicidal thoughts (15 years and over),7800.0,5500.0,10600.0,number,number,E
+2019,2019,Saskatchewan,Females,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,91900.0,77600.0,111300.0,number,number,
+2019,2019,Saskatchewan,Females,"Total, 12 years and over","Positive mental health, flourishing",393600.0,360100.0,418300.0,number,number,
+2019,2019,Saskatchewan,Females,"Total, 12 years and over",Suicidal thoughts (15 years and over),57000.0,46100.0,71600.0,number,number,
+2019,2019,Saskatchewan,Males,12 to 17 years,Consultation with a health professional about emotional or mental health,8400.0,4600.0,11900.0,number,number,E
+2019,2019,Saskatchewan,Males,12 to 17 years,"Positive mental health, flourishing",34800.0,20000.0,51300.0,number,number,E
+2019,2019,Saskatchewan,Males,18 to 34 years,Consultation with a health professional about emotional or mental health,22500.0,13700.0,33800.0,number,number,E
+2019,2019,Saskatchewan,Males,18 to 34 years,"Positive mental health, flourishing",87500.0,67600.0,113100.0,number,number,
+2019,2019,Saskatchewan,Males,18 to 34 years,Suicidal thoughts (15 years and over),21700.0,13500.0,35100.0,number,number,E
+2019,2019,Saskatchewan,Males,35 to 49 years,Consultation with a health professional about emotional or mental health,20300.0,11500.0,28700.0,number,number,E
+2019,2019,Saskatchewan,Males,35 to 49 years,"Positive mental health, flourishing",98900.0,85900.0,107400.0,number,number,
+2019,2019,Saskatchewan,Males,35 to 49 years,Suicidal thoughts (15 years and over),12900.0,7000.0,20600.0,number,number,E
+2019,2019,Saskatchewan,Males,50 to 64 years,Consultation with a health professional about emotional or mental health,11200.0,6200.0,18300.0,number,number,E
+2019,2019,Saskatchewan,Males,50 to 64 years,"Positive mental health, flourishing",98400.0,87700.0,105200.0,number,number,
+2019,2019,Saskatchewan,Males,50 to 64 years,Suicidal thoughts (15 years and over),18900.0,8700.0,27500.0,number,number,E
+2019,2019,Saskatchewan,Males,65 years and over,Consultation with a health professional about emotional or mental health,3200.0,2000.0,4600.0,number,number,E
+2019,2019,Saskatchewan,Males,65 years and over,"Positive mental health, flourishing",60500.0,48600.0,70900.0,number,number,
+2019,2019,Saskatchewan,Males,65 years and over,Suicidal thoughts (15 years and over),3000.0,2000.0,4400.0,number,number,E
+2019,2019,Saskatchewan,Males,"Total, 12 years and over",Consultation with a health professional about emotional or mental health,65500.0,52300.0,82800.0,number,number,
+2019,2019,Saskatchewan,Males,"Total, 12 years and over","Positive mental health, flourishing",380200.0,347000.0,413900.0,number,number,
+2019,2019,Saskatchewan,Males,"Total, 12 years and over",Suicidal thoughts (15 years and over),56900.0,42200.0,74400.0,number,number,

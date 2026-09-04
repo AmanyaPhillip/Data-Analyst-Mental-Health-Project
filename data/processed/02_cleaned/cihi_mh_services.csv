@@ -1,264 +1,264 @@
-indicator,breakdown,group,value,ci_low,ci_high
-Self-rated mental health in youth,Sex,Males,71.8,68.4,75.2
-Self-rated mental health in youth,Sex,Females,52.3,48.4,56.3
-Self-rated mental health in youth,Sex,Total population,62.2,59.7,64.8
-Happiness in youth,Sex,Males,75.7,72.1,79.3
-Happiness in youth,Sex,Females,70.1,66.5,73.7
-Happiness in youth,Sex,Total population,73.0,70.4,75.5
-Life satisfaction in youth,Sex,Males,8.7,8.6,8.8
-Life satisfaction in youth,Sex,Females,8.2,8.1,8.4
-Life satisfaction in youth,Sex,Total population,8.4,8.4,8.5
-Psychological well-being: Autonomy in youth,Sex,Males,81.4,80.1,82.8
-Psychological well-being: Autonomy in youth,Sex,Females,80.1,78.7,81.5
-Psychological well-being: Autonomy in youth,Sex,Total population,80.8,79.8,81.7
-Psychological well-being: Competence in youth,Sex,Males,85.3,83.9,86.6
-Psychological well-being: Competence in youth,Sex,Females,83.2,81.8,84.6
-Psychological well-being: Competence in youth,Sex,Total population,84.3,83.3,85.2
-Social well-being in youth,Sex,Males,89.1,88.0,90.2
-Social well-being in youth,Sex,Females,89.6,88.5,90.8
-Social well-being in youth,Sex,Total population,89.3,88.6,90.1
-Self-rated mental health in adults,Sex,Males,62.2,60.9,63.5
-Self-rated mental health in adults,Sex,Females,55.8,54.5,57.0
-Self-rated mental health in adults,Sex,Total population,58.9,58.0,59.8
-Self-rated mental health in adults,Age,18-24,46.8,43.1,50.5
-Self-rated mental health in adults,Age,25-44,55.3,53.7,57.0
-Self-rated mental health in adults,Age,45-64,60.3,58.7,61.8
-Self-rated mental health in adults,Age,65+,68.3,67.0,69.5
-Self-rated mental health in adults,Age,Total population,58.9,58.0,59.8
-Happiness in adults,Sex,Males,72.7,71.5,74.0
-Happiness in adults,Sex,Females,74.4,73.3,75.6
-Happiness in adults,Sex,Total population,73.6,72.8,74.4
-Happiness in adults,Age,18-24,65.1,61.3,68.9
-Happiness in adults,Age,25-44,73.2,71.6,74.7
-Happiness in adults,Age,45-64,74.4,73.0,75.8
-Happiness in adults,Age,65+,77.0,75.9,78.1
-Happiness in adults,Age,Total population,73.6,72.8,74.4
-Life satisfaction in adults,Sex,Males,7.9,7.9,8.0
-Life satisfaction in adults,Sex,Females,7.9,7.9,7.9
-Life satisfaction in adults,Sex,Total population,7.9,7.9,7.9
-Life satisfaction in adults,Age,18-24,7.9,7.8,8.0
-Life satisfaction in adults,Age,25-44,7.9,7.8,7.9
-Life satisfaction in adults,Age,45-64,7.9,7.8,7.9
-Life satisfaction in adults,Age,65+,8.0,8.0,8.1
-Life satisfaction in adults,Age,Total population,7.9,7.9,7.9
-Psychological well-being in adults,Sex,Males,75.9,73.8,77.9
-Psychological well-being in adults,Sex,Females,73.6,71.5,75.7
-Psychological well-being in adults,Sex,Total population,74.7,73.3,76.1
-Psychological well-being in adults,Age,18-24,65.6,59.0,72.2
-Psychological well-being in adults,Age,25-44,72.9,70.3,75.5
-Psychological well-being in adults,Age,45-64,77.1,73.4,80.8
-Psychological well-being in adults,Age,65+,79.2,77.0,81.4
-Psychological well-being in adults,Age,Total population,74.7,73.3,76.1
-Social well-being in adults,Sex,Males,67.6,66.2,69.0
-Social well-being in adults,Sex,Females,68.8,67.7,69.9
-Social well-being in adults,Sex,Total population,68.2,67.3,69.1
-Social well-being in adults,Age,18-24,70.0,66.8,73.3
-Social well-being in adults,Age,25-44,63.6,61.9,65.3
-Social well-being in adults,Age,45-64,68.6,67.1,70.0
-Social well-being in adults,Age,65+,74.3,73.1,75.5
-Social well-being in adults,Age,Total population,68.2,67.3,69.1
-Mental disorders,Sex,Males,38.3,36.7,39.9
-Mental disorders,Sex,Females,28.4,27.0,29.8
-Mental disorders,Sex,Total population,33.3,32.2,34.4
-Mental disorders,Age,15-34,33.1,31.3,34.9
-Mental disorders,Age,35-49,35.2,33.0,37.4
-Mental disorders,Age,50-64,38.3,36.1,40.5
-Mental disorders,Age,65-79,25.6,23.7,27.6
-Mental disorders,Age,80+,13.7,11.1,16.4
-Mental disorders,Age,Total population,33.3,32.2,34.3
-Mood and/or anxiety disorders,Sex,Males,11.0,10.2,11.8
-Mood and/or anxiety disorders,Sex,Females,18.1,17.1,19.1
-Mood and/or anxiety disorders,Sex,Total population,14.6,13.9,15.2
-Mood and/or anxiety disorders,Age,24-Dec,15.6,13.9,17.3
-Mood and/or anxiety disorders,Age,25-34,17.3,15.3,19.2
-Mood and/or anxiety disorders,Age,35-44,15.2,13.6,16.8
-Mood and/or anxiety disorders,Age,45-54,16.6,14.7,18.4
-Mood and/or anxiety disorders,Age,55-64,13.7,12.4,15.1
-Mood and/or anxiety disorders,Age,65+,10.2,9.5,11.0
-Mood and/or anxiety disorders,Age,Total population,14.6,13.9,15.2
-Schizophrenia,Sex,Males,1.16,1.15,1.16
-Schizophrenia,Sex,Females,0.83,0.83,0.83
-Schizophrenia,Sex,Total population,1.0,0.99,1.0
-Schizophrenia,Age,19-Oct,0.09,0.09,0.1
-Schizophrenia,Age,20-34,0.89,0.88,0.9
-Schizophrenia,Age,35-49,1.23,1.22,1.24
-Schizophrenia,Age,50-64,1.36,1.35,1.37
-Schizophrenia,Age,65-79,1.15,1.14,1.16
-Schizophrenia,Age,80+,0.8,0.79,0.81
-Schizophrenia,Age,Total population,1.0,0.99,1.0
-Eating disorders,Sex,Males,0.2,0.1,0.3
-Eating disorders,Sex,Females,0.6,0.4,0.8
-Eating disorders,Sex,Total population,0.4,0.3,0.5
-Post-traumatic stress disorder,Sex,Males,0.9,0.7,1.2
-Post-traumatic stress disorder,Sex,Females,2.4,1.9,2.9
-Post-traumatic stress disorder,Sex,Total population,1.7,1.4,2.0
-Post-traumatic stress disorder,Age,15-24,1.3,0.7,1.9
-Post-traumatic stress disorder,Age,25-34,2.0,0.8,3.2
-Post-traumatic stress disorder,Age,35-44,1.9,1.2,2.5
-Post-traumatic stress disorder,Age,45-54,2.2,1.6,2.9
-Post-traumatic stress disorder,Age,55-64,1.8,1.2,2.3
-Post-traumatic stress disorder,Age,65+,0.8,0.6,1.1
-Post-traumatic stress disorder,Age,Total population,1.7,1.4,2.0
-Self-reported mental health care use,Sex,Males,14.0,13.0,14.9
-Self-reported mental health care use,Sex,Females,22.5,21.4,23.7
-Self-reported mental health care use,Sex,Total population,18.3,17.6,19.1
-Self-reported mental health care use,Age,24-Dec,23.1,20.9,25.3
-Self-reported mental health care use,Age,25-34,25.2,23.1,27.3
-Self-reported mental health care use,Age,35-44,23.6,21.7,25.6
-Self-reported mental health care use,Age,45-54,19.5,17.6,21.5
-Self-reported mental health care use,Age,55-64,13.3,11.9,14.7
-Self-reported mental health care use,Age,65+,7.7,7.0,8.4
-Self-reported mental health care use,Age,Total population,18.3,17.6,19.1
-Perceived need for mental health care,Sex,Males,44.3,40.6,48.0
-Perceived need for mental health care,Sex,Females,44.4,41.7,47.1
-Perceived need for mental health care,Sex,Total population,44.4,42.2,46.5
-Perceived need for mental health care,Age,24-Dec,48.7,43.5,53.8
-Perceived need for mental health care,Age,25-34,49.1,44.2,54.0
-Perceived need for mental health care,Age,35-44,45.7,41.5,49.9
-Perceived need for mental health care,Age,45-54,42.8,37.8,47.9
-Perceived need for mental health care,Age,55-64,34.9,29.9,39.8
-Perceived need for mental health care,Age,65+,34.1,29.5,38.7
-Perceived need for mental health care,Age,Total population,44.4,42.2,46.5
-Use of health services: Mental illness and alcohol/drug induced disorders,Sex,Males,13.71,13.69,13.72
-Use of health services: Mental illness and alcohol/drug induced disorders,Sex,Females,18.69,18.67,18.71
-Use of health services: Mental illness and alcohol/drug induced disorders,Sex,Total population,16.2,16.19,16.22
-Use of health services: Mental illness and alcohol/drug induced disorders,Age,19-Jan,12.98,12.95,13.0
-Use of health services: Mental illness and alcohol/drug induced disorders,Age,20-34,17.77,17.74,17.8
-Use of health services: Mental illness and alcohol/drug induced disorders,Age,35-49,18.02,17.99,18.05
-Use of health services: Mental illness and alcohol/drug induced disorders,Age,50-64,16.8,16.77,16.83
-Use of health services: Mental illness and alcohol/drug induced disorders,Age,65-79,14.36,14.32,14.39
-Use of health services: Mental illness and alcohol/drug induced disorders,Age,80+,16.21,16.15,16.26
-Use of health services: Mental illness and alcohol/drug induced disorders,Age,Total population,16.2,16.19,16.22
-Use of health services: Mood and anxiety disorders,Sex,Males,8.1,8.08,8.11
-Use of health services: Mood and anxiety disorders,Sex,Females,14.44,14.42,14.45
-Use of health services: Mood and anxiety disorders,Sex,Total population,11.26,11.25,11.27
-Use of health services: Mood and anxiety disorders,Age,19-Jan,5.53,5.51,5.54
-Use of health services: Mood and anxiety disorders,Age,20-34,13.88,13.85,13.91
-Use of health services: Mood and anxiety disorders,Age,35-49,13.68,13.66,13.71
-Use of health services: Mood and anxiety disorders,Age,50-64,12.43,12.4,12.45
-Use of health services: Mood and anxiety disorders,Age,65-79,10.31,10.28,10.33
-Use of health services: Mood and anxiety disorders,Age,80+,10.44,10.39,10.49
-Use of health services: Mood and anxiety disorders,Age,Total population,11.26,11.25,11.27
-Use of health services: Schizophrenia,Sex,Males,0.48,0.48,0.49
-Use of health services: Schizophrenia,Sex,Females,0.32,0.32,0.32
-Use of health services: Schizophrenia,Sex,Total population,0.4,0.4,0.4
-Use of health services: Schizophrenia,Age,19-Jan,0.06,0.06,0.07
-Use of health services: Schizophrenia,Age,20-34,0.52,0.52,0.53
-Use of health services: Schizophrenia,Age,35-49,0.54,0.53,0.54
-Use of health services: Schizophrenia,Age,50-64,0.53,0.52,0.53
-Use of health services: Schizophrenia,Age,65-79,0.4,0.39,0.4
-Use of health services: Schizophrenia,Age,80+,0.26,0.25,0.27
-Use of health services: Schizophrenia,Age,Total population,0.4,0.4,0.4
-Mortality,Sex,Males,16.5,,
-Mortality,Sex,Females,5.4,,
-Mortality,Sex,Total population,10.9,,
-Mortality,Age,14-Oct,1.9,,
-Mortality,Age,15-19,8.5,,
-Mortality,Age,20-24,12.7,,
-Mortality,Age,25-29,13.5,,
-Mortality,Age,30-34,14.2,,
-Mortality,Age,35-39,13.2,,
-Mortality,Age,40-44,14.2,,
-Mortality,Age,45-49,14.7,,
-Mortality,Age,50-54,13.9,,
-Mortality,Age,55-59,16.5,,
-Mortality,Age,60-64,12.7,,
-Mortality,Age,65-69,10.0,,
-Mortality,Age,70-74,9.8,,
-Mortality,Age,75-79,10.9,,
-Mortality,Age,80-84,10.1,,
-Mortality,Age,85-89,12.7,,
-Mortality,Age,90+,11.6,,
-Mortality,Age,Total population,10.9,,
-Self-inflicted injuries: Hospitalizations,Sex,Males,44.0,,
-Self-inflicted injuries: Hospitalizations,Sex,Females,79.0,,
-Self-inflicted injuries: Hospitalizations,Sex,Total population,61.0,,
-Self-inflicted injuries: Hospitalizations,Age,14-Oct,62.0,,
-Self-inflicted injuries: Hospitalizations,Age,15-19,166.0,,
-Self-inflicted injuries: Hospitalizations,Age,20-24,112.0,,
-Self-inflicted injuries: Hospitalizations,Age,25-29,74.0,,
-Self-inflicted injuries: Hospitalizations,Age,30-34,61.0,,
-Self-inflicted injuries: Hospitalizations,Age,35-39,55.0,,
-Self-inflicted injuries: Hospitalizations,Age,40-44,52.0,,
-Self-inflicted injuries: Hospitalizations,Age,45-49,50.0,,
-Self-inflicted injuries: Hospitalizations,Age,50-54,51.0,,
-Self-inflicted injuries: Hospitalizations,Age,55-59,41.0,,
-Self-inflicted injuries: Hospitalizations,Age,60-64,33.0,,
-Self-inflicted injuries: Hospitalizations,Age,65-69,24.0,,
-Self-inflicted injuries: Hospitalizations,Age,70-74,23.0,,
-Self-inflicted injuries: Hospitalizations,Age,75-79,21.0,,
-Self-inflicted injuries: Hospitalizations,Age,80-84,23.0,,
-Self-inflicted injuries: Hospitalizations,Age,85+,25.0,,
-Self-inflicted injuries: Hospitalizations,Age,Total population,61.0,,
-Self-inflicted injuries: Emergency department in Ontario,Sex,Males,243.6,,
-Self-inflicted injuries: Emergency department in Ontario,Sex,Females,314.5,,
-Self-inflicted injuries: Emergency department in Ontario,Sex,Total population,279.4,,
-Self-inflicted injuries: Emergency department in Ontario,Age,14-Oct,351.2,,
-Self-inflicted injuries: Emergency department in Ontario,Age,15-19,716.2,,
-Self-inflicted injuries: Emergency department in Ontario,Age,20-24,449.8,,
-Self-inflicted injuries: Emergency department in Ontario,Age,25-29,340.3,,
-Self-inflicted injuries: Emergency department in Ontario,Age,30-34,290.9,,
-Self-inflicted injuries: Emergency department in Ontario,Age,35-39,265.0,,
-Self-inflicted injuries: Emergency department in Ontario,Age,40-44,263.1,,
-Self-inflicted injuries: Emergency department in Ontario,Age,45-49,248.3,,
-Self-inflicted injuries: Emergency department in Ontario,Age,50-54,236.4,,
-Self-inflicted injuries: Emergency department in Ontario,Age,55-59,238.0,,
-Self-inflicted injuries: Emergency department in Ontario,Age,60-64,211.8,,
-Self-inflicted injuries: Emergency department in Ontario,Age,65-69,190.5,,
-Self-inflicted injuries: Emergency department in Ontario,Age,70-74,190.9,,
-Self-inflicted injuries: Emergency department in Ontario,Age,75-79,217.3,,
-Self-inflicted injuries: Emergency department in Ontario,Age,80-84,243.0,,
-Self-inflicted injuries: Emergency department in Ontario,Age,85-89,285.3,,
-Self-inflicted injuries: Emergency department in Ontario,Age,90+,338.7,,
-Self-inflicted injuries: Emergency department in Ontario,Age,Total population,279.4,,
-Self-inflicted injuries: Emergency department in Alberta,Sex,Males,365.7,,
-Self-inflicted injuries: Emergency department in Alberta,Sex,Females,463.1,,
-Self-inflicted injuries: Emergency department in Alberta,Sex,Total population,414.2,,
-Self-inflicted injuries: Emergency department in Alberta,Age,14-Oct,561.9,,
-Self-inflicted injuries: Emergency department in Alberta,Age,15-19,1049.0,,
-Self-inflicted injuries: Emergency department in Alberta,Age,20-24,686.4,,
-Self-inflicted injuries: Emergency department in Alberta,Age,25-29,540.4,,
-Self-inflicted injuries: Emergency department in Alberta,Age,30-34,462.1,,
-Self-inflicted injuries: Emergency department in Alberta,Age,35-39,380.9,,
-Self-inflicted injuries: Emergency department in Alberta,Age,40-44,370.1,,
-Self-inflicted injuries: Emergency department in Alberta,Age,45-49,337.0,,
-Self-inflicted injuries: Emergency department in Alberta,Age,50-54,353.0,,
-Self-inflicted injuries: Emergency department in Alberta,Age,55-59,367.2,,
-Self-inflicted injuries: Emergency department in Alberta,Age,60-64,305.6,,
-Self-inflicted injuries: Emergency department in Alberta,Age,65-69,286.2,,
-Self-inflicted injuries: Emergency department in Alberta,Age,70-74,299.6,,
-Self-inflicted injuries: Emergency department in Alberta,Age,75-79,318.3,,
-Self-inflicted injuries: Emergency department in Alberta,Age,80-84,353.3,,
-Self-inflicted injuries: Emergency department in Alberta,Age,85-89,392.8,,
-Self-inflicted injuries: Emergency department in Alberta,Age,90+,416.3,,
-Self-inflicted injuries: Emergency department in Alberta,Age,Total population,414.2,,
-Self-inflicted injuries: Emergency department in CHIRPP,Sex,Males,3772.0,,
-Self-inflicted injuries: Emergency department in CHIRPP,Sex,Females,16647.0,,
-Self-inflicted injuries: Emergency department in CHIRPP,Sex,Total population,9997.0,,
-Self-inflicted injuries: Emergency department in CHIRPP,Age,14-Oct,8504.0,,
-Self-inflicted injuries: Emergency department in CHIRPP,Age,15-19,13612.0,,
-Self-inflicted injuries: Emergency department in CHIRPP,Age,20-24,3484.0,,
-Self-inflicted injuries: Emergency department in CHIRPP,Age,Total population,9997.0,,
-Suicidal thoughts,Sex,Males,2.6,2.1,3.0
-Suicidal thoughts,Sex,Females,2.7,2.3,3.1
-Suicidal thoughts,Sex,Total population,2.6,2.3,2.9
-Suicidal thoughts,Age,15-24,6.2,4.9,7.5
-Suicidal thoughts,Age,25-34,3.8,2.8,4.9
-Suicidal thoughts,Age,35-44,2.2,1.6,2.8
-Suicidal thoughts,Age,45-54,2.4,1.7,3.2
-Suicidal thoughts,Age,55-64,1.2,0.8,1.7
-Suicidal thoughts,Age,65+,1.0,0.7,1.2
-Suicidal thoughts,Age,Total population,2.6,2.3,2.9
-Suicide plans,Sex,Males,0.7,0.5,0.9
-Suicide plans,Sex,Females,0.9,0.6,1.2
-Suicide plans,Sex,Total population,0.8,0.6,1.0
-Suicide plans,Age,15-24,1.8,1.2,2.4
-Suicide plans,Age,25-34,1.4,0.6,2.1
-Suicide plans,Age,35-44,0.6,0.3,0.9
-Suicide plans,Age,45-54,0.6,0.3,0.9
-Suicide plans,Age,65+,0.3,0.2,0.5
-Suicide plans,Age,Total population,0.8,0.6,1.0
-Suicide attempts,Sex,Males,0.1,0.1,0.2
-Suicide attempts,Sex,Females,0.5,0.2,0.7
-Suicide attempts,Sex,Total population,0.3,0.2,0.4
-Suicide attempts,Age,Total population,0.3,0.2,0.4
+indicator,breakdown,group,value,ci_low,ci_high,metric_type,unit_label
+Self-rated mental health in youth,Sex,Males,71.8,68.4,75.2,percent,Percentage (%)
+Self-rated mental health in youth,Sex,Females,52.3,48.4,56.3,percent,Percentage (%)
+Self-rated mental health in youth,Sex,Total population,62.2,59.7,64.8,percent,Percentage (%)
+Happiness in youth,Sex,Males,75.7,72.1,79.3,percent,Percentage (%)
+Happiness in youth,Sex,Females,70.1,66.5,73.7,percent,Percentage (%)
+Happiness in youth,Sex,Total population,73.0,70.4,75.5,percent,Percentage (%)
+Life satisfaction in youth,Sex,Males,8.7,8.6,8.8,mean_score,Mean
+Life satisfaction in youth,Sex,Females,8.2,8.1,8.4,mean_score,Mean
+Life satisfaction in youth,Sex,Total population,8.4,8.4,8.5,mean_score,Mean
+Psychological well-being: Autonomy in youth,Sex,Males,81.4,80.1,82.8,percent,Percentage (%)
+Psychological well-being: Autonomy in youth,Sex,Females,80.1,78.7,81.5,percent,Percentage (%)
+Psychological well-being: Autonomy in youth,Sex,Total population,80.8,79.8,81.7,percent,Percentage (%)
+Psychological well-being: Competence in youth,Sex,Males,85.3,83.9,86.6,percent,Percentage (%)
+Psychological well-being: Competence in youth,Sex,Females,83.2,81.8,84.6,percent,Percentage (%)
+Psychological well-being: Competence in youth,Sex,Total population,84.3,83.3,85.2,percent,Percentage (%)
+Social well-being in youth,Sex,Males,89.1,88.0,90.2,percent,Percentage (%)
+Social well-being in youth,Sex,Females,89.6,88.5,90.8,percent,Percentage (%)
+Social well-being in youth,Sex,Total population,89.3,88.6,90.1,percent,Percentage (%)
+Self-rated mental health in adults,Sex,Males,62.2,60.9,63.5,percent,Percentage (%)
+Self-rated mental health in adults,Sex,Females,55.8,54.5,57.0,percent,Percentage (%)
+Self-rated mental health in adults,Sex,Total population,58.9,58.0,59.8,percent,Percentage (%)
+Self-rated mental health in adults,Age,18-24,46.8,43.1,50.5,percent,Percentage (%)
+Self-rated mental health in adults,Age,25-44,55.3,53.7,57.0,percent,Percentage (%)
+Self-rated mental health in adults,Age,45-64,60.3,58.7,61.8,percent,Percentage (%)
+Self-rated mental health in adults,Age,65+,68.3,67.0,69.5,percent,Percentage (%)
+Self-rated mental health in adults,Age,Total population,58.9,58.0,59.8,percent,Percentage (%)
+Happiness in adults,Sex,Males,72.7,71.5,74.0,percent,Percentage (%)
+Happiness in adults,Sex,Females,74.4,73.3,75.6,percent,Percentage (%)
+Happiness in adults,Sex,Total population,73.6,72.8,74.4,percent,Percentage (%)
+Happiness in adults,Age,18-24,65.1,61.3,68.9,percent,Percentage (%)
+Happiness in adults,Age,25-44,73.2,71.6,74.7,percent,Percentage (%)
+Happiness in adults,Age,45-64,74.4,73.0,75.8,percent,Percentage (%)
+Happiness in adults,Age,65+,77.0,75.9,78.1,percent,Percentage (%)
+Happiness in adults,Age,Total population,73.6,72.8,74.4,percent,Percentage (%)
+Life satisfaction in adults,Sex,Males,7.9,7.9,8.0,mean_score,Mean
+Life satisfaction in adults,Sex,Females,7.9,7.9,7.9,mean_score,Mean
+Life satisfaction in adults,Sex,Total population,7.9,7.9,7.9,mean_score,Mean
+Life satisfaction in adults,Age,18-24,7.9,7.8,8.0,mean_score,Mean
+Life satisfaction in adults,Age,25-44,7.9,7.8,7.9,mean_score,Mean
+Life satisfaction in adults,Age,45-64,7.9,7.8,7.9,mean_score,Mean
+Life satisfaction in adults,Age,65+,8.0,8.0,8.1,mean_score,Mean
+Life satisfaction in adults,Age,Total population,7.9,7.9,7.9,mean_score,Mean
+Psychological well-being in adults,Sex,Males,75.9,73.8,77.9,percent,Percentage (%)
+Psychological well-being in adults,Sex,Females,73.6,71.5,75.7,percent,Percentage (%)
+Psychological well-being in adults,Sex,Total population,74.7,73.3,76.1,percent,Percentage (%)
+Psychological well-being in adults,Age,18-24,65.6,59.0,72.2,percent,Percentage (%)
+Psychological well-being in adults,Age,25-44,72.9,70.3,75.5,percent,Percentage (%)
+Psychological well-being in adults,Age,45-64,77.1,73.4,80.8,percent,Percentage (%)
+Psychological well-being in adults,Age,65+,79.2,77.0,81.4,percent,Percentage (%)
+Psychological well-being in adults,Age,Total population,74.7,73.3,76.1,percent,Percentage (%)
+Social well-being in adults,Sex,Males,67.6,66.2,69.0,percent,Percentage (%)
+Social well-being in adults,Sex,Females,68.8,67.7,69.9,percent,Percentage (%)
+Social well-being in adults,Sex,Total population,68.2,67.3,69.1,percent,Percentage (%)
+Social well-being in adults,Age,18-24,70.0,66.8,73.3,percent,Percentage (%)
+Social well-being in adults,Age,25-44,63.6,61.9,65.3,percent,Percentage (%)
+Social well-being in adults,Age,45-64,68.6,67.1,70.0,percent,Percentage (%)
+Social well-being in adults,Age,65+,74.3,73.1,75.5,percent,Percentage (%)
+Social well-being in adults,Age,Total population,68.2,67.3,69.1,percent,Percentage (%)
+Mental disorders,Sex,Males,38.3,36.7,39.9,percent,Percentage (%)
+Mental disorders,Sex,Females,28.4,27.0,29.8,percent,Percentage (%)
+Mental disorders,Sex,Total population,33.3,32.2,34.4,percent,Percentage (%)
+Mental disorders,Age,15-34,33.1,31.3,34.9,percent,Percentage (%)
+Mental disorders,Age,35-49,35.2,33.0,37.4,percent,Percentage (%)
+Mental disorders,Age,50-64,38.3,36.1,40.5,percent,Percentage (%)
+Mental disorders,Age,65-79,25.6,23.7,27.6,percent,Percentage (%)
+Mental disorders,Age,80+,13.7,11.1,16.4,percent,Percentage (%)
+Mental disorders,Age,Total population,33.3,32.2,34.3,percent,Percentage (%)
+Mood and/or anxiety disorders,Sex,Males,11.0,10.2,11.8,percent,Percentage (%)
+Mood and/or anxiety disorders,Sex,Females,18.1,17.1,19.1,percent,Percentage (%)
+Mood and/or anxiety disorders,Sex,Total population,14.6,13.9,15.2,percent,Percentage (%)
+Mood and/or anxiety disorders,Age,12-24,15.6,13.9,17.3,percent,Percentage (%)
+Mood and/or anxiety disorders,Age,25-34,17.3,15.3,19.2,percent,Percentage (%)
+Mood and/or anxiety disorders,Age,35-44,15.2,13.6,16.8,percent,Percentage (%)
+Mood and/or anxiety disorders,Age,45-54,16.6,14.7,18.4,percent,Percentage (%)
+Mood and/or anxiety disorders,Age,55-64,13.7,12.4,15.1,percent,Percentage (%)
+Mood and/or anxiety disorders,Age,65+,10.2,9.5,11.0,percent,Percentage (%)
+Mood and/or anxiety disorders,Age,Total population,14.6,13.9,15.2,percent,Percentage (%)
+Schizophrenia,Sex,Males,1.16,1.15,1.16,percent,Percentage (%)
+Schizophrenia,Sex,Females,0.83,0.83,0.83,percent,Percentage (%)
+Schizophrenia,Sex,Total population,1.0,0.99,1.0,percent,Percentage (%)
+Schizophrenia,Age,10-19,0.09,0.09,0.1,percent,Percentage (%)
+Schizophrenia,Age,20-34,0.89,0.88,0.9,percent,Percentage (%)
+Schizophrenia,Age,35-49,1.23,1.22,1.24,percent,Percentage (%)
+Schizophrenia,Age,50-64,1.36,1.35,1.37,percent,Percentage (%)
+Schizophrenia,Age,65-79,1.15,1.14,1.16,percent,Percentage (%)
+Schizophrenia,Age,80+,0.8,0.79,0.81,percent,Percentage (%)
+Schizophrenia,Age,Total population,1.0,0.99,1.0,percent,Percentage (%)
+Eating disorders,Sex,Males,0.2,0.1,0.3,percent,Percentage (%)
+Eating disorders,Sex,Females,0.6,0.4,0.8,percent,Percentage (%)
+Eating disorders,Sex,Total population,0.4,0.3,0.5,percent,Percentage (%)
+Post-traumatic stress disorder,Sex,Males,0.9,0.7,1.2,percent,Percentage (%)
+Post-traumatic stress disorder,Sex,Females,2.4,1.9,2.9,percent,Percentage (%)
+Post-traumatic stress disorder,Sex,Total population,1.7,1.4,2.0,percent,Percentage (%)
+Post-traumatic stress disorder,Age,15-24,1.3,0.7,1.9,percent,Percentage (%)
+Post-traumatic stress disorder,Age,25-34,2.0,0.8,3.2,percent,Percentage (%)
+Post-traumatic stress disorder,Age,35-44,1.9,1.2,2.5,percent,Percentage (%)
+Post-traumatic stress disorder,Age,45-54,2.2,1.6,2.9,percent,Percentage (%)
+Post-traumatic stress disorder,Age,55-64,1.8,1.2,2.3,percent,Percentage (%)
+Post-traumatic stress disorder,Age,65+,0.8,0.6,1.1,percent,Percentage (%)
+Post-traumatic stress disorder,Age,Total population,1.7,1.4,2.0,percent,Percentage (%)
+Self-reported mental health care use,Sex,Males,14.0,13.0,14.9,percent,Percentage (%)
+Self-reported mental health care use,Sex,Females,22.5,21.4,23.7,percent,Percentage (%)
+Self-reported mental health care use,Sex,Total population,18.3,17.6,19.1,percent,Percentage (%)
+Self-reported mental health care use,Age,12-24,23.1,20.9,25.3,percent,Percentage (%)
+Self-reported mental health care use,Age,25-34,25.2,23.1,27.3,percent,Percentage (%)
+Self-reported mental health care use,Age,35-44,23.6,21.7,25.6,percent,Percentage (%)
+Self-reported mental health care use,Age,45-54,19.5,17.6,21.5,percent,Percentage (%)
+Self-reported mental health care use,Age,55-64,13.3,11.9,14.7,percent,Percentage (%)
+Self-reported mental health care use,Age,65+,7.7,7.0,8.4,percent,Percentage (%)
+Self-reported mental health care use,Age,Total population,18.3,17.6,19.1,percent,Percentage (%)
+Perceived need for mental health care,Sex,Males,44.3,40.6,48.0,percent,Percentage (%)
+Perceived need for mental health care,Sex,Females,44.4,41.7,47.1,percent,Percentage (%)
+Perceived need for mental health care,Sex,Total population,44.4,42.2,46.5,percent,Percentage (%)
+Perceived need for mental health care,Age,12-24,48.7,43.5,53.8,percent,Percentage (%)
+Perceived need for mental health care,Age,25-34,49.1,44.2,54.0,percent,Percentage (%)
+Perceived need for mental health care,Age,35-44,45.7,41.5,49.9,percent,Percentage (%)
+Perceived need for mental health care,Age,45-54,42.8,37.8,47.9,percent,Percentage (%)
+Perceived need for mental health care,Age,55-64,34.9,29.9,39.8,percent,Percentage (%)
+Perceived need for mental health care,Age,65+,34.1,29.5,38.7,percent,Percentage (%)
+Perceived need for mental health care,Age,Total population,44.4,42.2,46.5,percent,Percentage (%)
+Use of health services: Mental illness and alcohol/drug induced disorders,Sex,Males,13.71,13.69,13.72,percent,Percentage (%)
+Use of health services: Mental illness and alcohol/drug induced disorders,Sex,Females,18.69,18.67,18.71,percent,Percentage (%)
+Use of health services: Mental illness and alcohol/drug induced disorders,Sex,Total population,16.2,16.19,16.22,percent,Percentage (%)
+Use of health services: Mental illness and alcohol/drug induced disorders,Age,1-19,12.98,12.95,13.0,percent,Percentage (%)
+Use of health services: Mental illness and alcohol/drug induced disorders,Age,20-34,17.77,17.74,17.8,percent,Percentage (%)
+Use of health services: Mental illness and alcohol/drug induced disorders,Age,35-49,18.02,17.99,18.05,percent,Percentage (%)
+Use of health services: Mental illness and alcohol/drug induced disorders,Age,50-64,16.8,16.77,16.83,percent,Percentage (%)
+Use of health services: Mental illness and alcohol/drug induced disorders,Age,65-79,14.36,14.32,14.39,percent,Percentage (%)
+Use of health services: Mental illness and alcohol/drug induced disorders,Age,80+,16.21,16.15,16.26,percent,Percentage (%)
+Use of health services: Mental illness and alcohol/drug induced disorders,Age,Total population,16.2,16.19,16.22,percent,Percentage (%)
+Use of health services: Mood and anxiety disorders,Sex,Males,8.1,8.08,8.11,percent,Percentage (%)
+Use of health services: Mood and anxiety disorders,Sex,Females,14.44,14.42,14.45,percent,Percentage (%)
+Use of health services: Mood and anxiety disorders,Sex,Total population,11.26,11.25,11.27,percent,Percentage (%)
+Use of health services: Mood and anxiety disorders,Age,1-19,5.53,5.51,5.54,percent,Percentage (%)
+Use of health services: Mood and anxiety disorders,Age,20-34,13.88,13.85,13.91,percent,Percentage (%)
+Use of health services: Mood and anxiety disorders,Age,35-49,13.68,13.66,13.71,percent,Percentage (%)
+Use of health services: Mood and anxiety disorders,Age,50-64,12.43,12.4,12.45,percent,Percentage (%)
+Use of health services: Mood and anxiety disorders,Age,65-79,10.31,10.28,10.33,percent,Percentage (%)
+Use of health services: Mood and anxiety disorders,Age,80+,10.44,10.39,10.49,percent,Percentage (%)
+Use of health services: Mood and anxiety disorders,Age,Total population,11.26,11.25,11.27,percent,Percentage (%)
+Use of health services: Schizophrenia,Sex,Males,0.48,0.48,0.49,percent,Percentage (%)
+Use of health services: Schizophrenia,Sex,Females,0.32,0.32,0.32,percent,Percentage (%)
+Use of health services: Schizophrenia,Sex,Total population,0.4,0.4,0.4,percent,Percentage (%)
+Use of health services: Schizophrenia,Age,1-19,0.06,0.06,0.07,percent,Percentage (%)
+Use of health services: Schizophrenia,Age,20-34,0.52,0.52,0.53,percent,Percentage (%)
+Use of health services: Schizophrenia,Age,35-49,0.54,0.53,0.54,percent,Percentage (%)
+Use of health services: Schizophrenia,Age,50-64,0.53,0.52,0.53,percent,Percentage (%)
+Use of health services: Schizophrenia,Age,65-79,0.4,0.39,0.4,percent,Percentage (%)
+Use of health services: Schizophrenia,Age,80+,0.26,0.25,0.27,percent,Percentage (%)
+Use of health services: Schizophrenia,Age,Total population,0.4,0.4,0.4,percent,Percentage (%)
+Mortality,Sex,Males,16.5,,,rate_per_100k_pop,"Rate per 100,000 population"
+Mortality,Sex,Females,5.4,,,rate_per_100k_pop,"Rate per 100,000 population"
+Mortality,Sex,Total population,10.9,,,rate_per_100k_pop,"Rate per 100,000 population"
+Mortality,Age,10-14,1.9,,,rate_per_100k_pop,"Rate per 100,000 population"
+Mortality,Age,15-19,8.5,,,rate_per_100k_pop,"Rate per 100,000 population"
+Mortality,Age,20-24,12.7,,,rate_per_100k_pop,"Rate per 100,000 population"
+Mortality,Age,25-29,13.5,,,rate_per_100k_pop,"Rate per 100,000 population"
+Mortality,Age,30-34,14.2,,,rate_per_100k_pop,"Rate per 100,000 population"
+Mortality,Age,35-39,13.2,,,rate_per_100k_pop,"Rate per 100,000 population"
+Mortality,Age,40-44,14.2,,,rate_per_100k_pop,"Rate per 100,000 population"
+Mortality,Age,45-49,14.7,,,rate_per_100k_pop,"Rate per 100,000 population"
+Mortality,Age,50-54,13.9,,,rate_per_100k_pop,"Rate per 100,000 population"
+Mortality,Age,55-59,16.5,,,rate_per_100k_pop,"Rate per 100,000 population"
+Mortality,Age,60-64,12.7,,,rate_per_100k_pop,"Rate per 100,000 population"
+Mortality,Age,65-69,10.0,,,rate_per_100k_pop,"Rate per 100,000 population"
+Mortality,Age,70-74,9.8,,,rate_per_100k_pop,"Rate per 100,000 population"
+Mortality,Age,75-79,10.9,,,rate_per_100k_pop,"Rate per 100,000 population"
+Mortality,Age,80-84,10.1,,,rate_per_100k_pop,"Rate per 100,000 population"
+Mortality,Age,85-89,12.7,,,rate_per_100k_pop,"Rate per 100,000 population"
+Mortality,Age,90+,11.6,,,rate_per_100k_pop,"Rate per 100,000 population"
+Mortality,Age,Total population,10.9,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Hospitalizations,Sex,Males,44.0,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Hospitalizations,Sex,Females,79.0,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Hospitalizations,Sex,Total population,61.0,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Hospitalizations,Age,10-14,62.0,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Hospitalizations,Age,15-19,166.0,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Hospitalizations,Age,20-24,112.0,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Hospitalizations,Age,25-29,74.0,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Hospitalizations,Age,30-34,61.0,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Hospitalizations,Age,35-39,55.0,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Hospitalizations,Age,40-44,52.0,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Hospitalizations,Age,45-49,50.0,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Hospitalizations,Age,50-54,51.0,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Hospitalizations,Age,55-59,41.0,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Hospitalizations,Age,60-64,33.0,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Hospitalizations,Age,65-69,24.0,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Hospitalizations,Age,70-74,23.0,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Hospitalizations,Age,75-79,21.0,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Hospitalizations,Age,80-84,23.0,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Hospitalizations,Age,85+,25.0,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Hospitalizations,Age,Total population,61.0,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Ontario,Sex,Males,243.6,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Ontario,Sex,Females,314.5,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Ontario,Sex,Total population,279.4,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Ontario,Age,10-14,351.2,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Ontario,Age,15-19,716.2,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Ontario,Age,20-24,449.8,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Ontario,Age,25-29,340.3,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Ontario,Age,30-34,290.9,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Ontario,Age,35-39,265.0,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Ontario,Age,40-44,263.1,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Ontario,Age,45-49,248.3,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Ontario,Age,50-54,236.4,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Ontario,Age,55-59,238.0,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Ontario,Age,60-64,211.8,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Ontario,Age,65-69,190.5,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Ontario,Age,70-74,190.9,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Ontario,Age,75-79,217.3,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Ontario,Age,80-84,243.0,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Ontario,Age,85-89,285.3,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Ontario,Age,90+,338.7,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Ontario,Age,Total population,279.4,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Alberta,Sex,Males,365.7,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Alberta,Sex,Females,463.1,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Alberta,Sex,Total population,414.2,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Alberta,Age,10-14,561.9,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Alberta,Age,15-19,1049.0,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Alberta,Age,20-24,686.4,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Alberta,Age,25-29,540.4,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Alberta,Age,30-34,462.1,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Alberta,Age,35-39,380.9,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Alberta,Age,40-44,370.1,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Alberta,Age,45-49,337.0,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Alberta,Age,50-54,353.0,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Alberta,Age,55-59,367.2,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Alberta,Age,60-64,305.6,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Alberta,Age,65-69,286.2,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Alberta,Age,70-74,299.6,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Alberta,Age,75-79,318.3,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Alberta,Age,80-84,353.3,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Alberta,Age,85-89,392.8,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Alberta,Age,90+,416.3,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in Alberta,Age,Total population,414.2,,,rate_per_100k_pop,"Rate per 100,000 population"
+Self-inflicted injuries: Emergency department in CHIRPP,Sex,Males,3772.0,,,rate_per_100k_presentations,"Rate per 100,000 presentations"
+Self-inflicted injuries: Emergency department in CHIRPP,Sex,Females,16647.0,,,rate_per_100k_presentations,"Rate per 100,000 presentations"
+Self-inflicted injuries: Emergency department in CHIRPP,Sex,Total population,9997.0,,,rate_per_100k_presentations,"Rate per 100,000 presentations"
+Self-inflicted injuries: Emergency department in CHIRPP,Age,10-14,8504.0,,,rate_per_100k_presentations,"Rate per 100,000 presentations"
+Self-inflicted injuries: Emergency department in CHIRPP,Age,15-19,13612.0,,,rate_per_100k_presentations,"Rate per 100,000 presentations"
+Self-inflicted injuries: Emergency department in CHIRPP,Age,20-24,3484.0,,,rate_per_100k_presentations,"Rate per 100,000 presentations"
+Self-inflicted injuries: Emergency department in CHIRPP,Age,Total population,9997.0,,,rate_per_100k_presentations,"Rate per 100,000 presentations"
+Suicidal thoughts,Sex,Males,2.6,2.1,3.0,percent,Percentage (%)
+Suicidal thoughts,Sex,Females,2.7,2.3,3.1,percent,Percentage (%)
+Suicidal thoughts,Sex,Total population,2.6,2.3,2.9,percent,Percentage (%)
+Suicidal thoughts,Age,15-24,6.2,4.9,7.5,percent,Percentage (%)
+Suicidal thoughts,Age,25-34,3.8,2.8,4.9,percent,Percentage (%)
+Suicidal thoughts,Age,35-44,2.2,1.6,2.8,percent,Percentage (%)
+Suicidal thoughts,Age,45-54,2.4,1.7,3.2,percent,Percentage (%)
+Suicidal thoughts,Age,55-64,1.2,0.8,1.7,percent,Percentage (%)
+Suicidal thoughts,Age,65+,1.0,0.7,1.2,percent,Percentage (%)
+Suicidal thoughts,Age,Total population,2.6,2.3,2.9,percent,Percentage (%)
+Suicide plans,Sex,Males,0.7,0.5,0.9,percent,Percentage (%)
+Suicide plans,Sex,Females,0.9,0.6,1.2,percent,Percentage (%)
+Suicide plans,Sex,Total population,0.8,0.6,1.0,percent,Percentage (%)
+Suicide plans,Age,15-24,1.8,1.2,2.4,percent,Percentage (%)
+Suicide plans,Age,25-34,1.4,0.6,2.1,percent,Percentage (%)
+Suicide plans,Age,35-44,0.6,0.3,0.9,percent,Percentage (%)
+Suicide plans,Age,45-54,0.6,0.3,0.9,percent,Percentage (%)
+Suicide plans,Age,65+,0.3,0.2,0.5,percent,Percentage (%)
+Suicide plans,Age,Total population,0.8,0.6,1.0,percent,Percentage (%)
+Suicide attempts,Sex,Males,0.1,0.1,0.2,percent,Percentage (%)
+Suicide attempts,Sex,Females,0.5,0.2,0.7,percent,Percentage (%)
+Suicide attempts,Sex,Total population,0.3,0.2,0.4,percent,Percentage (%)
+Suicide attempts,Age,Total population,0.3,0.2,0.4,percent,Percentage (%)
