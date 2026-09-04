@@ -1,0 +1,11 @@
+real_kpi,synthetic_kpi,value,note,data_source
+national_fair_poor_mh_latest_pct,synthetic_high_risk_pct,23.7,% classified High risk,Synthetic Kaggle sandbox (mirrors data/processed/04_kpi_summary.csv structure)
+highest_burden_province,highest_burden_segment,Remote (24.9%),work_environment substituted for province - no geography in this dataset,Synthetic Kaggle sandbox (mirrors data/processed/04_kpi_summary.csv structure)
+lowest_burden_province,lowest_burden_segment,On-site (22.7%),work_environment substituted for province - no geography in this dataset,Synthetic Kaggle sandbox (mirrors data/processed/04_kpi_summary.csv structure)
+provinces_worsening_count,segments_worsening_count,N/A,single cross-sectional snapshot - no repeated time points,Synthetic Kaggle sandbox (mirrors data/processed/04_kpi_summary.csv structure)
+national_suicidal_thoughts_latest_pct,severe_depression_band_pct,26.2,"% with depression_score >= 23 (top quartile) - proxy only, not suicidality",Synthetic Kaggle sandbox (mirrors data/processed/04_kpi_summary.csv structure)
+female_minus_male_mood_disorder_pp,female_minus_male_high_risk_pp,-0.9,"pp gap in % High risk, Female minus Male",Synthetic Kaggle sandbox (mirrors data/processed/04_kpi_summary.csv structure)
+male_to_female_suicide_mortality_ratio,-,N/A,no mortality data in this dataset,Synthetic Kaggle sandbox (mirrors data/processed/04_kpi_summary.csv structure)
+national_unassisted_crisis_headcount,history_no_treatment_headcount,1855,has a mental-health history but is NOT currently seeking treatment,Synthetic Kaggle sandbox (mirrors data/processed/04_kpi_summary.csv structure)
+post_covid_adult_health_deterioration_millions,-,N/A,no repeated time points to take a before/after delta,Synthetic Kaggle sandbox (mirrors data/processed/04_kpi_summary.csv structure)
+youth_ed_visit_rate_latest_per100k,youngest_quartile_high_risk_rate_per1000,"226.4 per 1,000","age <= 30 (youngest quartile, adults only - not comparable to real 5-17 youth data)",Synthetic Kaggle sandbox (mirrors data/processed/04_kpi_summary.csv structure)

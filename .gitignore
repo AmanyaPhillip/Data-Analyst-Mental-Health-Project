@@ -228,3 +228,4 @@ __marimo__/
 # trained models (binaries) - keep metrics json, not the pickles
 models/*.joblib
 models/*.pkl
+.claude/launch.json

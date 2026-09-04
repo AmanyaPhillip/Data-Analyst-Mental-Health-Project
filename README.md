@@ -61,12 +61,14 @@ MHACS microdata → regression / feature-importance.
 notebooks/
   01_data_understanding.ipynb   raw profiling → data/processed/01_*
   02_data_cleaning.ipynb        raw → data/processed/02_cleaned/  (+ §4·FIX cell)
-  03_eda.ipynb                  exploratory analysis
-  04_analysis.ipynb             SQL analysis + KPI development (SQLite)
-  05_ml_synthetic_sandbox.ipynb ML workflow demo on the synthetic set
+  03_eda.ipynb                  exploratory analysis, all 8 datasets
+  04_analysis.ipynb             SQL analysis + KPI development (SQLite, real data)
+  05_ml_synthetic_sandbox.ipynb ML workflow demo on the synthetic set (+ KPIs mirrored from real data)
+  06_trend_direction_model.ipynb real-data model: does a reported % rise or fall next cycle
 data/
   raw/                          original downloads — LOCAL ONLY (gitignored)
   processed/02_cleaned/         cleaned analytical tables
+  processed/mh_long.csv         unified long table for 04/06 (all StatCan sources)
   synthetic_kaggle/             ML sandbox input
 docs/
   data_inventory.md             every dataset: scope, coverage, limits
@@ -87,15 +89,16 @@ dashboard/  automation/  presentation/   later pipeline stages
 |---|---|---|
 | 1 | Dataset selection | ✅ |
 | 2 | Data cleaning & preparation | ✅ — StatCan `clean_statcan_long` fix pending team sync (`02_data_cleaning.ipynb` §4·FIX) |
-| 3 | Exploratory Data Analysis | 🔄 in progress |
-| 4 | KPI definition | 🔄 in progress (`docs/kpi_definitions.md` TBD) |
-| 5 | SQL analysis | 🔄 skeleton runs on sample data; waits on `data/processed/mh_long.csv` |
+| 3 | Exploratory Data Analysis | 🔄 substantial — all 8 datasets covered in `03_eda.ipynb` |
+| 4 | KPI definition | 🔄 10 KPIs computed on real data → `data/processed/04_kpi_summary.csv` |
+| 5 | SQL analysis | ✅ runs on real `data/processed/mh_long.csv` / `cihi_children.csv` |
 | 6 | Data visualization | ⬜ |
 | 7 | Interactive dashboard | ⬜ |
 | 8 | Automation | ⬜ |
 | 9 | Insights & recommendations | ⬜ |
 | 10 | Final presentation | ⬜ |
 | — | ML sandbox (side track) | ✅ `05_ml_synthetic_sandbox.ipynb` |
+| — | Trend-direction model (side track) | ✅ `06_trend_direction_model.ipynb` — real-data Up/Down classifier |
 
 ---
 
