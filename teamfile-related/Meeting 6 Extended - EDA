@@ -1,0 +1,76 @@
+2026-09-04
+
+# Data Cleaning Root Cause and Fix
+
+- Core issue: 4 raw files contained mixed metric types (percentage, mean, count, rate) collapsed into a single value column with no label preserved
+  - Cleaning notebook filtered to percentage only before pivoting CI rows, silently discarding all absolute count and population rows
+  - Result: clean files showed metric percentage for every row; population counts and scale-level data never made it through
+  - Perceived health quality data appeared doubled; row counts were drastically reduced after cleaning
+  - Scale context also lost: Stats Canada explicitly sets count scale to thousands, so a value like 17 means ~17 million people
+- Fix agreed: Option B, split into 2 separate CSVs per dataset (percent file and count file), one source per metric type
+  - Simpler than Option A since the pivot logic itself does not need to change
+  - Affected datasets: stress coping, suicidal thoughts, perceived health, all-stats
+  - Perceived health count values to be multiplied by 1,000 to restore the raw scale
+  - Retain the raw Y-axis label column as a dedicated metric column in clean output
+  - Pass a UOM column through every clean file so EDA can filter by measurement type without requiring deep knowledge of the source
+- Backward compatibility: original file names kept as aliases so existing code does not break
+- Lock files in the processed folder are artifacts from file-opening events, not real data; Samir will remove them; team should use only the CSV files
+
+# EDA Notebook Structure and SQLite Architecture
+
+- EDA display structure: side-by-side view voted in (Option A, 2 votes vs. 1 for separate sections)
+  - Percentage and count EDA shown within each dataset section for direct comparison
+  - Dedicated cross-dataset paradox section added at the end to surface patterns across datasets
+  - Existing percentage EDA sections preserved as-is; new count-based sections added alongside
+- SQLite analysis notebook (Notebook 4): hybrid relational model chosen (Option A)
+  - Each clean dataset loaded as its own SQL table
+  - A consolidated unified cross-indicator KPI table built on top via joins
+  - Query focus: CTEs, window functions, cross-dataset joins, paired with Pandas/Matplotlib for visualization
+  - Pure multi-table relational only (Option B) and SQL-heavy KPI with minimal visualization (Option C) were considered and rejected
+- Samir completing the joining logic in the analysis notebook today; once done, cross-table queries become available
+
+# Key EDA Insights Surfaced
+
+- Suicidal ideation and gender gap
+  - 3.6 million Canadians experienced suicidal ideation in 2019
+  - Women have higher ideation counts, but consult professionals at vastly higher rates: ~3M women consulted vs. ~1M men
+  - Men’s consultation rate barely equals their ideation count; women’s exceeds female ideation by over 1 million
+  - This absolute headcount gap directly contextualizes why male suicidal mortality is roughly 3x higher than female
+- Mental health by income: lower-income bands report lower mental health issues than middle class (noted as a notable and somewhat counterintuitive finding)
+- Regional stress: Ontario accounts for over 60% of Canadians coping with daily demands; Atlantic provinces show lower coping percentages
+- Data quality signal: CI widths of 0-10 percentage points indicate a small confidence interval, suggesting the data is statistically reliable
+- Women consult at 1.5x the rate relative to ideation; men consult at roughly 1x
+- Younger people more vulnerable to suicidal thoughts; women more anxiety-prone; men described as more self-reliant (less likely to seek help)
+- Remaining EDA cleanup still needed:
+  - Decode Gen 1 labels (e.g. Gen 1 = self-rated mental health) into plain English
+  - Replace age band codes (e.g. age band 8 = 35s) with readable labels
+  - Decode geo codes into province or region names
+  - Source for correct naming: Report 2 documentation shared previously
+
+# Presentation, Task Ownership, and Deadlines
+
+- Presentation workflow assigned to Jyoti
+  - Take all clean CSVs plus EDA (Notebook 3) and analysis (Notebook 4) notebooks, feed into AI
+  - Have a conversation with the AI to extract accurate, presentation-worthy insights
+  - Pick insights that fit, add each to a new presentation file, and commit after every addition to build GitHub contribution history
+  - Philip suggested creating a slide template in the existing shared presentation file
+- Rebal: same incremental commit strategy, commit after every small change rather than one large commit
+- Philip: will provide Samir with the automation skeleton and MPC draft over the weekend
+- Danny: asked to help with visualization; can review EDA Notebook 3 as the primary reference
+- Misa and Rebal: to coordinate a Power BI walkthrough session; Misa to show Rebal her workflow (Misa has a guest this weekend, so Monday or Tuesday preferred)
+- Full team meetup planned for Tuesday; Misa to walk everyone through Power BI at that session
+- Timeline:
+  - This weekend: rest, no hard pushes expected
+  - Monday: open for work
+  - Tuesday: full team sync, Power BI walkthrough
+  - Wednesday: touch base on individual progress
+  - Thursday: tasks due
+  - 15th September: project deadline; team discussed possibility of presenting first
+
+# Next Steps
+
+- **Split and regenerate all 4 dual-metric clean CSVs** (Samir)
+- **Decode all coded labels in EDA notebook**
+- **Start presentation file with AI-assisted insight extraction** (Jyoti)
+- **Deliver automation skeleton and MPC draft to Samir** (Philip)
+- **Power BI walkthrough for the full team on Tuesday** (Misa)
