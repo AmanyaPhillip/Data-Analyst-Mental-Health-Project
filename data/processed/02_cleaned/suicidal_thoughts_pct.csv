@@ -1,5 +1,5 @@
 ref_date_raw,start_year,geo,sex,age_group,indicator,value,ci_low,ci_high,uom,metric_type,quality_flag
-2015,2015,Alberta,Both sexes,12 to 17 years,Consultation with a health professional about emotional or mental health,15.1,10.8,19.4,percent,percent,
+2015,2015, Alberta,Both sexes,12 to 17 years,Consultation with a health professional about emotional or mental health,15.1,10.8,19.4,percent,percent,
 2015,2015,Alberta,Both sexes,12 to 17 years,"Positive mental health, flourishing",87.9,83.9,91.8,percent,percent,
 2015,2015,Alberta,Both sexes,12 to 17 years,Suicidal thoughts (15 years and over),11.6,6.4,16.7,percent,percent,E
 2015,2015,Alberta,Both sexes,18 to 34 years,Consultation with a health professional about emotional or mental health,18.0,15.2,20.7,percent,percent,
