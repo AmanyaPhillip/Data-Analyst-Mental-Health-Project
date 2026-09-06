@@ -10,6 +10,3 @@ jupyter==1.1.1
 nbconvert==7.17.1
 nbformat==5.11.1
 ipykernel==7.3.0
-fastapi==0.141.1          # api_service: live StatCan feed + model serving
-uvicorn==0.52.4           # api_service: dev server
-requests==2.34.2          # api_service: call StatCan WDS
