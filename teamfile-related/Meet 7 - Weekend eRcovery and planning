@@ -1,0 +1,77 @@
+# Power BI Issues
+
+- Datasets load as individual files only, no bulk import option found
+  - ~15–16 files total after Philip’s percentage-based splits created duplicates
+  - Each CSV must be imported individually, making pipeline setup tedious
+  - Suggested fix: build a pipeline after importing to manage the volume
+- Auto-detect relationships consistently fails despite shared indicators (e.g., age groups)
+  - Manual relationship creation attempted but yields no fields to define
+  - One attempt produced coherent numbers briefly, then corrupted on refresh
+  - Relationship panel accessible via left side of Power BI; drag-and-drop merge suggested but unresolved
+- Workaround suggested: use only Philip’s percentage-based files as the primary base dataset
+  - Other datasets appear to only join cleanly against that one
+  - Numeric/incremental fields work for some additions; non-numeric fields corrupt the model
+- Tried uploading the Power BI file to Gemini for help with join issues; partially explored
+- Misa is the team’s main Power BI resource but was absent today (migraine)
+  - Rebal to watch YouTube tutorials as a stopgap
+- Backup plan: use the interactive website dashboard if Power BI remains unresolved before presentation
+
+# Website Status and Naming
+
+- Website is live on Vercel under one team member’s free-tier account
+  - Any pushed changes require the account holder to re-trigger deployment (add a space to force rebuild)
+  - Contributors push their changes; account holder pulls and redeploys
+- Data Explorer section is present but still buggy; needs testing before presentation
+- Insights section populated from EDA diagrams; charts render but provincial comparison view not displaying correctly
+- Charts need labeled x/y axes and numeric values added before being copied into the PowerPoint
+- Name agreed: “Canadian Health Metrics” (or close variation)
+  - “Canadian Wellness” already taken by a spa business
+  - Previous placeholder name considered weak; team aligned on something reflecting the Canadian mental health data focus
+- Legal/disclaimer text needed on the site
+  - Philip already added a disclaimer block in the GitHub repo README
+  - Suggested approach: create a separate About or Legal page on the website rather than embedding it inline
+- Jyoti’s full insights document to be added as a downloadable button on the site
+  - Currently uploaded as a Word document; needs to be converted to Markdown (.md) format for the repo
+  - A “Download Full Insights” button proposed as the surface point on the website
+
+# Final Presentation Plan
+
+- Format: PowerPoint slides integrated directly into the website
+  - Agreed as the primary presentation artifact; website serves as the live demo surface
+  - Possibility discussed of embedding slides as a carousel or navigation element within the site
+- Individual presentation format confirmed per Blackboard instructions
+  - Each team member presents their own section; flexible on exact split
+  - Philip noted he used a “card” from a prior agreement to skip presenting last time; that card is now spent
+- ML model section to cover four models: gradient boosting, random forest, logistic regression, and baseline
+  - Best performer on validation: gradient boosting
+  - Two parallel model tracks exist:
+    - Track 1: real processed data (team-cleaned dataset)
+    - Track 2: synthesized data from Cogly with added percentage features
+  - Presentation should highlight key model comparison results; full detail to live in the repo
+  - Agreed to keep the ML section focused and not overwhelm the audience with both tracks in full
+- Key insight to anchor the narrative: youth aged 15–24 are the highest-risk group across anxiety, cannabis use, suicidal ideation, and need for mental health services; women report more health conditions than men
+  - Charts should reference these findings directly with labeled visuals
+- Chatbot idea proposed: connect the MCP server to the website as a small pop-up support chatbot
+  - Users could ask questions about the data and receive insight-driven answers
+  - Described as a high-impact demo moment if live during the presentation
+
+# Automation Scope
+
+- Three automation workstreams agreed for the project:
+  1. Automated ETL pipeline: sync script via Statistics Canada REST API fetches updated vectors; lightweight scraper for CIHI database replaces manual CSV downloads; appends new data points to existing files
+  2. Data quality assurance: automated validation layer for suppression codes, missing values, and duplicate entries; addresses bugs that caused prior issues in the pipeline
+  3. MCP server: lightweight Python server exposing read-only SQL tools (e.g., get_provincial_KPI, run_sql_query, get_gender_paradox_stats); any connected LLM can answer natural-language questions against the data without hallucination
+- Papermill orchestrator also scoped: single script runs all six notebooks end-to-end, logs memory usage and execution time, can be triggered locally or via GitHub Actions
+  - Agreed it can be written and documented even if not fully deployed in production
+- Automated relational database rebuild also discussed: recreates the unified SQLite database from raw data on demand; solves the in-memory database problem where data is lost when notebooks close
+- Philip to decide between prioritizing SQL automation or MCP server first; README with automation steps already pushed to the repo
+- MCP server seen as the highest-impact demo item: plan to connect it to Ollama locally and run live queries during the presentation
+
+# Next Steps
+
+- **Rename website to "Canadian Health Metrics" and update the site** (Rebal)
+- **Contribute to the website and push changes via GitHub** (Rebal)
+- **Add downloadable insights button and slides section to the website**
+- **Label chart axes and add numeric values to all EDA visualizations**
+- **Build the MCP server and automated ETL pipeline this week** (Philip)
+- **Convert Jyoti's insights document to Markdown and push to the repo**
