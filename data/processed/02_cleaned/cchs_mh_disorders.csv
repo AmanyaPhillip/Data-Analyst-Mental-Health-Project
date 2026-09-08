@@ -1,7 +1,7 @@
 ref_date_raw,start_year,geo,sex,age_group,indicator,value,ci_low,ci_high,uom,metric_type,quality_flag
 2002,2002,Alberta,Men+,15 to 24 years,"Cannabis use, 12 months",37.4,31.1,43.7,percent,percent,
 2002,2002,Alberta,Men+,15 to 24 years,"Cannabis use, life",56.4,49.3,63.6,percent,percent,
-2002,2002,Alberta,Men+,15 to 24 years,"Major depressive episode, 12 months",5.2,2.4,7.9,percent,percent,E
+2002,2002,Alberta,Men+,15 to 24 years,"Major depressive episode, 12 months",5.2,2.4,7.9,percent, percent,E
 2002,2002,Alberta,Men+,15 to 24 years,"Major depressive episode, life",7.1,3.7,10.4,percent,percent,E
 2002,2002,Alberta,Men+,15 to 24 years,"Perceived mental health, fair or poor",3.1,1.5,4.8,percent,percent,E
 2002,2002,Alberta,Men+,15 to 24 years,"Perceived mental health, good",26.2,20.0,32.3,percent,percent,
