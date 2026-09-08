@@ -1,0 +1,129 @@
+# Power BI Issues
+
+- Datasets load as individual files only; no bulk import option found
+  - ~15–16 files total after Philip’s percentage-based splits created duplicates
+  - Each CSV must be imported individually, making pipeline setup tedious
+  - Suggested fix: build a pipeline after importing to manage the volume
+- Auto-detect relationships consistently fails despite shared indicators (e.g., age groups)
+  - Manual relationship creation attempted but yields no fields to define
+  - One attempt produced coherent numbers briefly, then corrupted on refresh
+  - Relationship panel accessible via left side of Power BI; drag-and-drop merge suggested but unresolved
+- Workaround suggested: use only Philip’s percentage-based files as the primary base dataset
+  - Other datasets appear to only join cleanly against that one
+  - Numeric/incremental fields work for some additions; non-numeric fields corrupt the model
+- Tried uploading the Power BI file to Gemini for help with join issues; partially explored
+- Misa is the team’s main Power BI resource 
+- Backup plan: use the interactive website dashboard if Power BI remains unresolved before presentation
+
+# Website Status and Naming
+
+- Website is live on Vercel under one team member’s free-tier account
+  - Any pushed changes require the account holder to re-trigger deployment (add a space to force rebuild)
+  - Contributors push their changes; account holder pulls and redeploys
+- Data Explorer section is present but still buggy; needs testing before presentation
+- Insights section populated from EDA diagrams; charts render but provincial comparison view not displaying correctly
+- Charts need labeled x/y axes and numeric values added before being copied into the PowerPoint
+- Name agreed: “Canadian Health Metrics” (or close variation)
+  - “Canadian Wellness” already taken by a spa business
+  - Previous placeholder name considered weak; team aligned on something reflecting the Canadian mental health data focus
+- Legal/disclaimer text needed on the site
+  - Philip already added a disclaimer block in the GitHub repo README
+  - Suggested approach: create a separate About or Legal page on the website rather than embedding it inline
+- Jyoti’s full insights document to be added as a downloadable button on the site
+  - Currently uploaded as a Word document; needs to be converted to Markdown (.md) format for the repo
+  - A “Download Full Insights” button proposed as the surface point on the website
+
+# Final Presentation Plan
+
+- Format: PowerPoint slides integrated directly into the website
+  - Agreed as the primary presentation artifact; website serves as the live demo surface
+  - Possibility discussed of embedding slides as a carousel or navigation element within the site
+- Individual presentation format confirmed per Blackboard instructions
+  - Each team member presents their own section; flexible on exact split
+  - Philip noted he used a “card” from a prior agreement to skip presenting last time; that card is now spent
+- ML model section to cover four models: gradient boosting, random forest, logistic regression, and baseline
+  - Best performer on validation: gradient boosting
+  - Two parallel model tracks exist:
+    - Track 1: real processed data (team-cleaned dataset)
+    - Track 2: synthesized data from Cogly with added percentage features
+  - Presentation should highlight key model comparison results; full detail to live in the repo
+  - Agreed to keep the ML section focused and not overwhelm the audience with both tracks in full
+- Key insight to anchor the narrative: youth aged 15–24 are the highest-risk group across anxiety, cannabis use, suicidal ideation, and need for mental health services; women report more health conditions than men
+  - Charts should reference these findings directly with labeled visuals
+- Chatbot idea proposed: connect the MCP server to the website as a small pop-up support chatbot
+  - Users could ask questions about the data and receive insight-driven answers
+  - Described as a high-impact demo moment if live during the presentation
+
+# Final Presentation Structure and Scope
+
+- Format: PowerPoint slides integrated directly into the website
+  - Agreed as the primary presentation artifact; website serves as the live demo surface
+  - Slides could be embedded as a carousel or navigation element within the site; exact implementation still open
+  - Philip started a draft PowerPoint today and walked the team through it for feedback
+- Individual presentation format confirmed per Blackboard instructions
+  - Each team member presents their own section; flexible on exact split per slide
+  - Philip noted he used a prior agreement card to skip presenting last time; that card is now spent
+  - Suggestion from the group: each person can speak to their own slide, or two people can co-present a section
+- Presentation feedback from the walkthrough today:
+  - Slide 3 (longitudinal mental health + cannabis) was too dense with two charts on one slide
+    - Suggested fix: split into two slides, one for the mental health line chart and one for the cannabis chart
+    - When explaining both simultaneously, it was difficult for listeners to follow which chart was being referenced
+  - Script language flagged as too technical in places
+    - Phrases like “lethality to diagnosis ratio” and “cumulative vocation and trauma exposures” need plain-language rewrites
+    - Suggestion: explain as if speaking to a smart 12-year-old; use simple words and then move on
+    - Adding a concrete example of real-world impact would help anchor abstract statistics
+  - Gender paradox slide was well-received overall
+    - Key finding: women report mood disorders at 10% vs. men at 6%; anxiety at 13% vs. 7%; professional consultancy at 21.4% vs. 12%
+    - Men report suicide deaths at 16.5 per 100K vs. women at 5.4 per 100K
+    - Lethality-to-diagnosis ratio is 4 times higher in males; needs clearer plain-language framing
+    - Suicidal ideation and consultation volume chart: Mazin suggested converting to a stacked bar showing gender split within each total bar
+    - Title should explicitly reference gender (e.g., “Ideation Volume and Consultation by Gender”)
+  - Eating disorders / acute triage slide agreed to be removed
+    - Does not align with the team’s core narrative thread; team voted to cut it
+  - Provincial slide still needs work
+    - Nova Scotia and Alberta lead in daily life distress and diagnosed mood disorder; Quebec shows apparent resilience
+    - Quebec data is an outlier due to different provincial reporting standards, not genuine lower rates
+    - Suggested layout change: show numbers before charts for logical flow; bar graph to follow the numeric summary
+  - Actionable policy slide present but terminology needs softening
+    - “Lethality paradox” and similar phrases flagged as unclear to a general audience
+- ML model section scope agreed
+  - Four models used: gradient boosting, random forest, logistic regression, and baseline
+  - Best performer on validation: gradient boosting
+  - Two parallel model tracks exist:
+    - Track 1: real processed data (team-cleaned dataset)
+    - Track 2: synthesized data from Cogly with added percentage features
+  - Presentation should highlight key comparison results only; full detail lives in the repo
+  - Agreed not to present both tracks in full depth as it would be too heavy for the audience to follow
+  - Chatbot idea proposed as a high-impact demo moment
+  - Connect the MCP server to the website as a small pop-up support chatbot
+  - Users could type questions about the data and receive insight-driven answers in natural language
+  - Philip confirmed this is technically feasible and part of the MCP server plan
+
+# Automation Scope
+
+- Three automation workstreams agreed for the project:
+  - Sync script via Statistics Canada REST API fetches updated data vectors automatically
+  - Lightweight web scraper using requests for the CIHI database, which is locked to multi-sheet web print
+  - Appends new data points to existing manual file downloads and re-extracts as needed
+  - Automated validation layer for suppression codes, missing values, and duplicate entries
+  - Addresses bugs that caused prior pipeline failures
+- Automated relational database rebuild also discussed
+  - Current problem: the in-memory SQL database is lost every time a Jupyter notebook is closed
+  - Solution: create a persistent SQLite file that can be opened externally and rebuilt from raw data with one command
+  - Enables external dashboards (e.g., Power BI) to connect directly to the database
+- Philip to decide between prioritizing the SQL automation or MCP server first this week
+  - README with automation steps already pushed to the repo
+  - MCP server seen as the highest-impact demo item for the final presentation
+- Future project discussed post-Empower: Mazin proposed a cancer patient correlation/causation study
+  - Mazin has a master’s in data science and access to palliative care hospital data
+  - Team expressed interest in continuing monthly collaborative projects after the course ends
+
+
+# Next Steps
+
+- **Rename website to "Canadian Health Metrics" and update the site** (Rebal)
+- **Contribute to the website and push changes via GitHub** (Rebal)
+- **Add downloadable insights button and slides section to the website**
+- **Label chart axes and add numeric values to all EDA visualizations**
+- **Build the MCP server and automated ETL pipeline this week** (Philip)
+- **Convert Jyoti's insights document to Markdown and push to the repo**
