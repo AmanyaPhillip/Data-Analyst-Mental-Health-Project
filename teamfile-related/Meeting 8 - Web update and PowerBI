@@ -1,0 +1,100 @@
+2026-09-10
+
+# Website Review and Content Changes
+
+- Group reviewed the site together, page by page, evaluating: look, information clarity, font sizes, and tab structure
+- Tab consolidation proposed (too many tabs flagged as overwhelming):
+  - Keep: Home, Dashboard, Insights, Data Workflow
+  - Merge Insights and Presentation into one tab so users scroll down for detail rather than switching tabs
+- Homepage changes agreed:
+  - Bold the key stats (6% to 15.3% mental health decline figures) to make them stand out visually
+  - Remove the “Project Impact” section to keep the homepage clean and minimal
+  - Remove duplicate nav links cluttering the bottom of the page
+  - Suicide prevention hotline reference to be made a clickable link (low priority)
+- Key stats noted as dynamic, not hardcoded: linked to uploaded CSV files, so figures update automatically
+- Title change: “CanWell Metrics” disliked by all
+  - Was an AI-generated placeholder (Claude/ChatGPT suggested “Canadian Wellness” + “MindMetrics”)
+  - Previous title was “MindMetrics” before Rebal changed it
+  - Proposals discussed: “Canadian Wellness Metrics”, “Canadian Health Metrics”, “Canada Mind Matrix”, “Wellness Metrics” with a Canadian flag icon
+  - Tentative consensus: “Wellness Metrics” with a Canadian flag icon at the front; no final decision locked in
+
+# Dashboard and Power BI Integration
+
+- Current dashboard charts flagged as problematic:
+  - Demographics section not working
+  - Graphical analysis charts less compelling than Misa’s Power BI map of Canada
+- Decision: replace the existing dashboard page with Misa’s embedded Power BI report
+  - Power BI can be embedded directly into the website and will remain fully interactive (not just screenshots)
+  - Misa to share her Power BI link and email in the WhatsApp group so Philip can embed it
+  - Misa’s Power BI is currently on desktop, not Power BI Online; sharing the link is the blocker
+- Existing live API feed (rail data) noted as a real feature worth keeping; not to be removed
+- Philip committed to embedding Power BI today
+- Version control: Samir managing the repo; Philip committed changes mid-session
+  - Samir needs to pull Philip’s latest commit and run a Vercel build to push updates live
+  - Rebal suggested branching as a safe backup; Samir confirmed he has version control handled and can recreate if needed
+
+# MCP Chatbot and Code Snippets
+
+- Philip building an MCP server chatbot to be embedded at the bottom of the site
+  - Users can ask questions about the data via a small chatbot interface
+  - Philip confirmed he can complete this today
+  - Rebal proposed using the Canada outline shape as the chatbot icon button; Philip liked the idea
+  - Rebal may design the icon
+- Code snippets section: add brief per-step explanations alongside each cleaning step
+  - Example format: “This is how we removed duplicates and NAs” — short, not exhaustive
+  - Audience is assumed to be technically literate, so explanations stay concise
+- Philip’s interactive presentation deck component and project dashboard structure already committed to the repo mid-session
+  - Samir noted he hadn’t committed his own presentation yet; plans to fix it first, then merge both presentations
+
+# Presentation Structure and Content
+
+- Two-part presentation planned, targeting under 15 minutes total:
+  1. Technical walkthrough: notebooks, data cleaning, EDA, dashboard code
+  2. Slide deck ( deck): narrative insights and findings
+- deck content:
+  - Health burden by territory across 13 provinces and 3 cycles
+  - 3 core structural shifts in Canadian mental health over 20 years
+  - Mental health decline projections and trajectory signals
+  - 11-percentage-point gap between highest and lowest territories
+  - Youth vs. adult suicidal ideation rates by generation
+  - Predictive signals and actionable targets
+  - Core crises and recommendations, with references back to the dashboard for deeper exploration
+  - Power BI dashboard to be added as an interactive layer alongside the existing dashboard
+- Presentation delivery:
+  - Each member presents their own slides
+  - Misa to share her screen for the Power BI section
+  - One member asked to be excused from presenting; agreed they will at minimum share their screen
+- ML trend prediction modelling was built but not incorporated into the final presentation
+
+# Scheduling, Deadlines, and Submission Requirements
+
+- Presentation window: Monday 14th to Tuesday 15th September (confirmed no weekend sessions)
+  - Geetu confirmed: only business days, wrapping up all presentations by Tuesday 15th
+  - Graduation may fall on Friday 18th; Geetu wants all presentations done before that
+  - Max 4 groups per day; 8 groups total across Monday and Tuesday
+- Group 3 presentation date: likely Friday 11th September (tomorrow), pending final email confirmation to Geetu
+  - Geetu requested date confirmation by end of today (Friday, Group 3)
+  - Rebal noted Monday 14th is also viable if tomorrow doesn’t work
+- Presentation length: 10 to 15 minutes confirmed with Geetu
+- Coursera and all deliverables due by Monday 14th September (Geetu explicitly said not to wait until Tuesday)
+- Blackboard access ends after 18th September; Coursera access also ends around the same time
+- Submission checklist 
+  - Data cleaning notebook
+  - EDA notebook
+  - Dashboard code
+  - GitHub portfolio link
+  - Dataset chosen
+  - Key insights
+  - Challenges faced and learnings
+  - Short one-page report
+  - Existing GitHub reports can be summarized rather than rewritten from scratch; Rebal confirmed reports are already in the repo
+
+# Next Steps
+
+- **Confirm presentation date with Geetu by end of day**
+- **Embed Misa's Power BI report into the dashboard page** (Philip)
+- **Complete and commit MCP chatbot to the website** (Philip)
+- **Pull Philip's latest commit and run Vercel build** (Samir)
+- **Finalize and merge both presentation decks** (Samir, Rebal)
+- **Submit all Coursera deliverables and GitHub portfolio link by Monday, 14th September**
+
