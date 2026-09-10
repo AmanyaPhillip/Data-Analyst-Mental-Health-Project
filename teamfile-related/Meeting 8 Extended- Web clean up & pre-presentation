@@ -1,0 +1,135 @@
+2026-09-10
+
+# Website Tab Restructure
+
+- Tabs reduced from 5 to 4 and renamed: Home, Workflow, Insight, Dashboard
+- Data Explorer tab scrapped
+  - Allowed filtering by indicator, year, and province, but added no narrative value
+  - Redundant once Power BI interactive dashboard is embedded
+- Insights and executive brief merged into a single Insight page
+  - Insights were previously a standalone tab; moving them avoids fragmentation
+- Data Workflow moved to second position (after Home) to match presentation flow
+- Slide 2 (multi-source data architecture) removed from deck
+  - Content already covered verbally during the data workflow walkthrough
+- Slides should not be scrollable in full screen; Philip flagged this as a bug to fix
+
+# Presentation Slide Deck
+
+- Philip’s deck chosen as the base: more colorful, KPI-driven, delta tags, better graphics
+- Rebal’s deck used as reference; AI compared both and identified gaps
+  - Philip’s deck stronger on visual punch and depth of analysis
+- Slide count: 9 slides total
+- Title changed to “Wellness Metrics Presentation” (dropped “dual-track relational demographic surveillance” subtitle)
+- Slide 2 (multi-source architecture) cut: redundant with data workflow tab
+- Headcount tracking / million-person care deficit slide moved to Insights page
+  - Better suited as a card in Insights than as a standalone presentation slide
+- Pediatric triage slide removed from deck
+  - Data confusing: 121% values require explanation (direct inpatient admissions bypassing ER triage)
+  - Philip: “I don’t think we need this one”; Rebal agreed
+- Executive takeaways kept on all slides for visual consistency, even if not read aloud during presentation
+- Youth mental health crisis slide split into two separate pages
+  - Page 1: age and anxiety breakdown (15-24 age group, 20% anxiety rate, PTSD peaks in midlife)
+  - Page 2: income gradient (fair/poor mental health by income quintile, 3.5x gap between under $20K and $80K+)
+- Quebec noted as a high outlier in provincial mental health data
+  - Lower reported burden likely reflects different provincial surveying methodology, not lower actual distress
+  - To be added as a talking point or executive takeaway on that slide
+- National average (~15%) to be added to provincial comparison chart for reference
+- Final policy/recommendations slide updated with three pillars:
+  - Male crisis entry point: address 4.6x lethality paradox, shift from passive surveys to proactive community touchpoints
+  - Economic and regional targeting: address 3.5x socioeconomic gradient, psychiatric subsidies for households under $40K
+  - Youth intervention: address 20% youth anxiety rate, embed counselors in high schools, deploy peer support networks
+  - Pediatric diversion pillar removed since that slide was cut
+- Some chart labels flagged as too technical (e.g. “longitude health erosion”, “paradox”) — raised this in a prior review; simplification noted but not yet actioned
+
+# Presentation Order (Website Walkthrough)
+
+- Agreed sequence for tomorrow’s live demo:
+  1. Home: star findings, general project introduction
+  2. Workflow: data collection steps with hover previews (see below)
+  3. Insight: executive brief merged with presentation slides
+  4. Dashboard: Power BI integration, interactive filters, live playground
+- Rationale: leads with context, builds through methodology, lands on analysis and interactive tools
+- Tab order updated in the codebase to reflect this sequence
+
+# Data Workflow Hover Previews
+
+- Idea proposed by Rebal: hovering over each workflow step shows a side card with a preview
+  - Modelled on Google Search hover previews that show a page snippet on hover
+  - Implementation idea: When you hover, these could move to the side and then show a card.
+- Cards planned per step:
+  - Data collection: screenshot of the Statistics Canada source website
+  - Data validation: missing value counts and row counts from notebooks
+  - Data cleaning: code snippet of the cleaning logic
+  - Transformation + EDA: combined into one card (reduces total card count)
+  - Analysis, visualization, and insights: final combined card
+- Workflow steps consolidated from original list to reduce clutter:
+  - Data Collection
+  - Validation and Cleaning (combined)
+  - Transformation and EDA (combined)
+  - Analysis, Visualization, and Insights
+- Implementation to be completed before the 7 PM session
+
+
+# Power BI Dashboard (Misa’s Build)
+
+- Misa built 3 dashboard tabs in Power BI Desktop based on Report 3 and the information.md file
+- Data model includes dimension tables with relationships; KPI cards for disorder, obesity, CIHI metrics
+- Tab 1: Regional overview
+  - Geo/region filter working; year and age group slicers removed (data incomplete across years)
+  - “Geo” label renamed to “Region”
+  - Top 10 filter applied to region chart: less cluttered, cleaner visual
+  - Post-COVID mental health trajectory line chart: x-axis corrected to show years
+- Tab 2: Burden map
+  - Ontario and Quebec account for over 60% of volume (reflects population distribution)
+  - Regional filter confirmed working; BC, Canada, Manitoba tested successfully
+- Tab 3: Youth and pediatric
+  - Anxiety peak and inpatient volumes shown; age group filter added using CIHI data
+  - Age group slicer renamed from “Geo” to “Age Group”
+- Tab 4: Still in progress; Misa working independently, to rejoin at 7 PM
+- Mood disorder vs. suicidal ideation chart: x-axis issue unresolved
+  - Count of percent used incorrectly; correct measure unclear; handed off to AI to fix
+- Income bucket data flagged as messy: age range and income bucket fields not cleanly integrated
+- Misa to save and push the final Power BI file to the GitHub dashboard folder 
+
+# Power BI Embedding Blocker
+
+- Microsoft Power BI Service requires an organizational or work email to publish and generate an embed link
+- No team member has a valid work Microsoft account; personal and student emails rejected
+- Attempts made: Misa tried logging into app.powerbi.com; blocked at the account creation step
+- Workaround options discussed:
+  - Python-powered interactive charts built from scratch using Misa’s file as a visual template
+  - Samir to rebuild dashboard visuals to match Power BI style (Canada map for geographics, clickable filters, live updates)
+  - Rebal flagged a possible workaround but needs time to investigate; will report back
+- Committed to exploring further before 7 PM
+- Decision: Power BI embed removed from the site for now; Samir takes over dashboard rebuild
+  - Remove the table from the demographics view
+  - Add a map of Canada for geographics
+  - Risk indicators section: tentatively remove, to confirm at 7 PM
+
+# ML / Trends Tab
+
+- 3 prediction models exist in the GitHub repo:
+  - Model 1: trained on Danny’s synthesized data
+  - Model 2: trained on Fatima and Danny’s cleaned data
+  - Model 3: live feed pulling from Stats Canada (currently broken on push)
+- Live feed model was working previously but breaks when pushed; Samir to debug
+- Key output: model predicts declining mental health trends in Ontario over time
+  
+  - Philip: “You will be a beast talking about this” — Samir flagged as strong narrative anchor
+
+- Trends tab to remain on the site; Samir to confirm live feed is stable before tomorrow
+
+# Tonight’s Session and Presentation Plan
+
+- 7 PM group session confirmed for final run-through before tomorrow’s presentation
+  
+
+# Next Steps
+
+- **Implement data workflow hover previews** (Rebal)
+- **Investigate Power BI embedding workaround** (Rebal)
+- **Rebuild dashboard to match Power BI style** (Samir)
+- **Debug and fix live feed ML model** (Samir)
+- **Push final Power BI file to GitHub dashboard folder** (Misa)
+- **Share slide assignments in WhatsApp group** (Philip)
+- **Run final presentation walkthrough at 7 PM tonight**
